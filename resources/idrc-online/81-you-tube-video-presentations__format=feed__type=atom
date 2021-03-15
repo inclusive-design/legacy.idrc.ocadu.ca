@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">IDRC Online</title>
+	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
+	<link rel="alternate" type="text/html" href=""/>
+	<id>/resources/idrc-online/81-you-tube-video-presentations</id>
+	<updated>2021-03-15T21:03:35+00:00</updated>
+	<author>
+		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
+		<email>no-reply@idrc.ocadu.ca</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="/resources/idrc-online/81-you-tube-video-presentations?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Video Presentations</title>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/youtube-video-presentations"/>
+		<published>2009-04-09T09:26:03+00:00</published>
+		<updated>2009-04-09T09:26:03+00:00</updated>
+		<id>/resources/idrc-online/youtube-video-presentations</id>
+		<summary type="html">&lt;p&gt;The following are links to video presentations and project demonstrations by IDRC staff . Choosing the linked video titles will take you the host site. Clicking on the embedded images will play the movie within this site. As the IDRC may not have been responsible for the addition of the video to video streaming services, not all of the videos have been fully captioned. If the video you require has not been captioned, please request a transcript of the presentation by contacting us at idi@ocad.ca. We will strive to upload captioned versions of these presentations as soon as possible.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.universalsubtitles.org/en/videos/nbvtEbO9nyZ7/info/&quot;&gt;Jutta Treviranus offers five hots tips for start-ups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=n28m0Oj52s8&quot;&gt;Jutta Treviranus speaking on Innovation&lt;/a&gt; in response to questions posed by the &lt;a href=&quot;http://www.educationfutures.com/&quot;&gt;Education Futures&lt;/a&gt; group.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=YRj4fMuvqYY&quot;&gt;Jutta Treviranus speaking on Inclusive Design &lt;/a&gt;at the E-Competencies conference in Mexico on October 31, 2008.&lt;/li&gt;
+&lt;li&gt;Greg Gay presents a tutorial on the &lt;a href=&quot;http://www.atutor.ca/atutor/files/demos/w4a_atutor_afa2/w4a_atutor_afa.mov&quot;&gt;Access For All (A4A) implementation in ATutor.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Colin Clark presents a session at FSOSS2007 providing an overview of the&amp;nbsp;Fluid Project (link removed).&lt;/li&gt;
+&lt;li&gt;Jorge Silva talks about the &lt;a href=&quot;http://www.youtube.com/watch?v=qHIy9YlZkxg&quot;&gt;competencies built through the open source development model and inclusive environment in the SCYP project&lt;/a&gt; at the E-Competencies conference.&lt;/li&gt;
+&lt;li&gt;Jamon Camisso, Yura Zenevich and Jorge Silva present the wifi-based indoor positioning system developed by the Adaptive Technology Resource Centre at the University of Toronto, through the Smart Campus in Your Pocket initiative. Due to the length of the presentation, it has been broken into five parts:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=TDZ3l2HsvOQ&quot;&gt;Part 1 - Wifi-based Indoor Positioning System Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=AuAjaJPs5G4&quot;&gt;Part&amp;nbsp;2 - Wifi-based Indoor Positioning System Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=FWptmDXxDeE&quot;&gt;Part&amp;nbsp;3 - Wifi-based Indoor Positioning System Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=_ocyWJksM2M&quot;&gt;Part&amp;nbsp;4 - Wifi-based Indoor Positioning System Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=BzDGiRzUrLk&quot;&gt;Part&amp;nbsp;5 - Wifi-based Indoor Positioning System Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary>
+		<content type="html">&lt;p&gt;The following are links to video presentations and project demonstrations by IDRC staff . Choosing the linked video titles will take you the host site. Clicking on the embedded images will play the movie within this site. As the IDRC may not have been responsible for the addition of the video to video streaming services, not all of the videos have been fully captioned. If the video you require has not been captioned, please request a transcript of the presentation by contacting us at idi@ocad.ca. We will strive to upload captioned versions of these presentations as soon as possible.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.universalsubtitles.org/en/videos/nbvtEbO9nyZ7/info/&quot;&gt;Jutta Treviranus offers five hots tips for start-ups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=n28m0Oj52s8&quot;&gt;Jutta Treviranus speaking on Innovation&lt;/a&gt; in response to questions posed by the &lt;a href=&quot;http://www.educationfutures.com/&quot;&gt;Education Futures&lt;/a&gt; group.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=YRj4fMuvqYY&quot;&gt;Jutta Treviranus speaking on Inclusive Design &lt;/a&gt;at the E-Competencies conference in Mexico on October 31, 2008.&lt;/li&gt;
+&lt;li&gt;Greg Gay presents a tutorial on the &lt;a href=&quot;http://www.atutor.ca/atutor/files/demos/w4a_atutor_afa2/w4a_atutor_afa.mov&quot;&gt;Access For All (A4A) implementation in ATutor.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Colin Clark presents a session at FSOSS2007 providing an overview of the&amp;nbsp;Fluid Project (link removed).&lt;/li&gt;
+&lt;li&gt;Jorge Silva talks about the &lt;a href=&quot;http://www.youtube.com/watch?v=qHIy9YlZkxg&quot;&gt;competencies built through the open source development model and inclusive environment in the SCYP project&lt;/a&gt; at the E-Competencies conference.&lt;/li&gt;
+&lt;li&gt;Jamon Camisso, Yura Zenevich and Jorge Silva present the wifi-based indoor positioning system developed by the Adaptive Technology Resource Centre at the University of Toronto, through the Smart Campus in Your Pocket initiative. Due to the length of the presentation, it has been broken into five parts:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=TDZ3l2HsvOQ&quot;&gt;Part 1 - Wifi-based Indoor Positioning System Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=AuAjaJPs5G4&quot;&gt;Part&amp;nbsp;2 - Wifi-based Indoor Positioning System Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=FWptmDXxDeE&quot;&gt;Part&amp;nbsp;3 - Wifi-based Indoor Positioning System Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=_ocyWJksM2M&quot;&gt;Part&amp;nbsp;4 - Wifi-based Indoor Positioning System Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=BzDGiRzUrLk&quot;&gt;Part&amp;nbsp;5 - Wifi-based Indoor Positioning System Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content>
+		<category term="Video Presentations" />
+	</entry>
+</feed>

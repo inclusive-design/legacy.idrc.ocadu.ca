@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Welcome to the Frontpage</title>
+		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
+		<link>/39-research-and-development/courseware-accessibility-2000</link>
+		<lastBuildDate>Mon, 15 Mar 2021 21:11:45 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="/39-research-and-development/courseware-accessibility-2000?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
+		<item>
+			<title>Courseware Accessibility Study 2000: Introduction</title>
+			<link>/39-research-and-development/courseware-accessibility-2000/313-courseware-accessibility-study-2000-introduction</link>
+			<guid isPermaLink="true">/39-research-and-development/courseware-accessibility-2000/313-courseware-accessibility-study-2000-introduction</guid>
+			<description><![CDATA[<p>Two participants from each of four disability groups will be trained on appropriate assistive technologies and asked to create, and participate in mock online courses created in a number Web based courseware tools.</p>
+]]></description>
+			<author>greggay@rogers.com (Greg Gay)</author>
+			<category>Courseware Accessibility 2000</category>
+			<pubDate>Tue, 26 Sep 2006 09:56:54 +0000</pubDate>
+		</item>
+		<item>
+			<title>Courseware Accessibility Study - 2000: Methods</title>
+			<link>/39-research-and-development/courseware-accessibility-2000/314-courseware-accessibility-study-2000-methods</link>
+			<guid isPermaLink="true">/39-research-and-development/courseware-accessibility-2000/314-courseware-accessibility-study-2000-methods</guid>
+			<description><![CDATA[ <h2>Methods</h2>  <ul>  <li><a href="/#subjects">Subjects  </a></li>  <li><a href="/#materials">Materials &amp; Apparatus  </a></li>  <li><a href="/#training">Training  </a></li>  <li><a href="/#data">Data Collection  </a></li>  <li><a href="/#session">A Typical Session  </a></li>    </ul>]]></description>
+			<author>greggay@rogers.com (Greg Gay)</author>
+			<category>Courseware Accessibility 2000</category>
+			<pubDate>Tue, 26 Sep 2006 09:59:14 +0000</pubDate>
+		</item>
+		<item>
+			<title> Courseware Accessibility Study 2000: Appendix</title>
+			<link>/39-research-and-development/courseware-accessibility-2000/315-courseware-accessibility-study-2000-appendix</link>
+			<guid isPermaLink="true">/39-research-and-development/courseware-accessibility-2000/315-courseware-accessibility-study-2000-appendix</guid>
+			<description><![CDATA[<a name="intake" title="intake"></a> <h2>Appendix A - Intake Forms</h2>        <p>NOTE: These forms are copies of the originals used in the study. They are not functional.</p>    <ul><li><a href="/namerec.html">Registration</a></li>    <li><a href="/intake1.html">Part A: Learning Preferences</a></li>    <li><a href="/intake2.html">Part B: Computer Access</a></li>    <li><a href="/intake3.html">Part C: Computer Attitudes</a></li>    <li><a href="/intake4.html">Part D: Employment and Education</a></li>    <li><a href="/intake5.html">Part E: Disability Awareness</a></li>    <li><a href="/intake6.html">Part F: Personal Information</a></li>    </ul>       <a name="protocols" title="protocols"></a> <h2>Appendix B - Observation Protocols</h2>        <p>NOTE: These forms are in Rich Text Format (.rtf) that should open in most current word processing programs. Clicking a link will download the form. The form will open automatically if your browser&#39;s file associations include rtf. Otherwise save the file and open it in a word processor.</p>    <ul>    <li><a href="/obs_protocol/record_sheet_courseinfo.rtf">Week 1 CourseInfo</a> (.rtf)</li>    <li><a href="/obs_protocol/record_sheet_webct.rtf">Week 2 WebCT</a>(.rtf)</li>    <li><a href="/obs_protocol/record_sheet_wcb.rtf">Week 3 Web Course in a Box</a>(.rtf)</li>    <li><a href="/obs_protocol/record_sheet_topclass.rtf">Week 4 TopClass</a>(.rtf)</li>    <li><a href="/obs_protocol/record_sheet_virtualu.rtf">Week 5 Virtual-U</a>(.rtf)</li>    <li><a href="/obs_protocol/record_sheet_mallard.rtf">Week 6 Mallard</a>(.rtf)</li>    </ul>     <a name="intake_summary" title="intake_summary"></a> <h2>Appendix D - Summary Data from Intake Forms</h2>    <p>NOTE: These forms are copies of the originals used in the study. They are not functional.</p>    <ul>  <li><a href="/intake1comp.html">Part A: Learning Preferences</a></li>    <li><a href="/intake2comp.html">Part B: Computer Access</a></li>    <li><a href="/intake3comp.html">Part C: Computer Attitudes</a></li>    <li><a href="/intake4comp.html">Part D: Employment and Education</a></li>    <li><a href="/intake5comp.html">Part E: Disability Awareness</a></li>    <li><a href="/intake6comp.html">Part F: Personal Information</a></li>    </ul>       <a name="barriers" title="barriers"></a> <h2>Appendix E - Description and Sources of Problems Encountered</h2> <p>NOTE:The following link presents the individual reports describing the problems and their corresponding sources as experienced by each of the 8 participants.</p> <ul> <li><a href="/sources.html">Descriptive Report - Draft</a></li> </ul>  <a name="atag" title="atag"></a> <h2>Appendix F - Authoring Tool Accessibility Guidelines (ATAG 1.0) Evaluation</h2> <p>NOTE:The following document presents an evaluation of the accessibility support three courseware packages offer content authors in their efforts to create accessible content, and the accessibility support these products offer content creator who have a disability. Products evaluated include WebCT 3.6, Blackboard 5.5, and Prometheus 5.08. </p> <ul> <li><a href="/atag/ATAG_review.doc">Preliminary ATAG Evaluation (doc)</a>(right click, save as)</li> </ul>  <a name="guidelines" title="guidelines"></a> <h2>Appendix G - Accessible Authoring Practices for Course Content Creators</h2> <p>NOTE: The following document contains a set of guidelines for course content creators, to assist in their efforts to author accessible Web based content.</p> <ul> <li><a href="/guidelines/auth_guidelines.doc">Web Content Creation Guidelines (doc)</a>(right click, save as)	</li> </ul>]]></description>
+			<author>greggay@rogers.com (Greg Gay)</author>
+			<category>Courseware Accessibility 2000</category>
+			<pubDate>Tue, 26 Sep 2006 10:01:40 +0000</pubDate>
+		</item>
+		<item>
+			<title> Courseware Accessibility Study 2000: Inclusion</title>
+			<link>/39-research-and-development/courseware-accessibility-2000/316-courseware-accessibility-study-2000-inclusion</link>
+			<guid isPermaLink="true">/39-research-and-development/courseware-accessibility-2000/316-courseware-accessibility-study-2000-inclusion</guid>
+			<description><![CDATA[<a name="top" title="top"></a> <h1>Inclusion in an Electronic Classroom - 2000:<br />  The Role of the Courseware Authoring Tool Developer</h1>  <p><strong><a href="mailto:laurie.harrison@utoronto.ca">Laurie Harrison</a><br /> Adaptive Technology Resource Centre, University of Toronto</strong></p>  <hr />    <strong><ul>        <li>Introduction</li>        <li>Courseware And Accessible Authoring Support</li>       <li>Inclusion In An Electronic Classroom Study</li>       <li>Review Of Authoring Tool Accessibility Guidelines Compliance</li>       <li>Summary</li>    </ul></strong>]]></description>
+			<author>greggay@rogers.com (Greg Gay)</author>
+			<category>Courseware Accessibility 2000</category>
+			<pubDate>Tue, 26 Sep 2006 10:04:47 +0000</pubDate>
+		</item>
+		<item>
+			<title> Courseware Accessibility Study 2000: accessAbility</title>
+			<link>/39-research-and-development/courseware-accessibility-2000/317-courseware-accessibility-study-2000-accessability</link>
+			<guid isPermaLink="true">/39-research-and-development/courseware-accessibility-2000/317-courseware-accessibility-study-2000-accessability</guid>
+			<description><![CDATA[  <h3>&nbsp;<a name="top" title="top"></a></h3> <h2>&nbsp;Inclusion in an Electronic Classroom - 2000:     Access<em>Ability</em> Enabling Technology for Life Long Learning</h2>   <a href="mailto:robert.luke@utoronto.ca">Robert Luke</a><span>&nbsp; Special Needs Opportunity Windows      (SNOW) Project</span> <br /><p><strong>     Adaptive Technology Resource Centre, University of Toronto</strong></p> <p align="center">&nbsp;</p>   <ul>     <li><a href="/#abstract">Abstract</a></li>     <li><a href="/#intro">Introduction</a></li>     <li><a href="/#design">Recommendations for Inclusive Design</a></li>     <li><a href="/#enabling">Enabling Learning Through Technology</a></li>     <li><a href="/#conclusion">Conclusion: Context</a><br />     </li>   </ul>]]></description>
+			<author>greggay@rogers.com (Greg Gay)</author>
+			<category>Courseware Accessibility 2000</category>
+			<pubDate>Tue, 26 Sep 2006 10:07:02 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

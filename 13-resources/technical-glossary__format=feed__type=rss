@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Welcome to the Frontpage</title>
+		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
+		<link>/13-resources/technical-glossary</link>
+		<lastBuildDate>Mon, 15 Mar 2021 21:12:44 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="/13-resources/technical-glossary?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
+		<item>
+			<title>Talking Browsers and Email software</title>
+			<link>/13-resources/technical-glossary/381-talking-browsers-and-email-software</link>
+			<guid isPermaLink="true">/13-resources/technical-glossary/381-talking-browsers-and-email-software</guid>
+			<description><![CDATA[<h3><a href="/index.php/resources/technical-glossary/381-talking-browsers-and-email-software">Talking Browsers and Email software</a></h3>
+<p><img src="/images/techgloss/scread_sml.gif" border="0" alt="an image of a earphone and microphone headset" width="62" height="62" align="left" style="float: left; border: 0; margin-left: 5px; margin-right: 5px;" /></p>
+<p class="glossary-intro">Talking browsers and email software converts text from a document like a  web page or an email message into audible speech. This software is  ideal for people who have visual, cognitive, or physical impairments  that need assistance with reading the content of their web pages and/or email.</p>
+]]></description>
+			<category>Technical Glossary</category>
+			<pubDate>Tue, 22 Jan 2008 13:37:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>Alternative Keyboards</title>
+			<link>/13-resources/technical-glossary/32-alternative-keyboards</link>
+			<guid isPermaLink="true">/13-resources/technical-glossary/32-alternative-keyboards</guid>
+			<description><![CDATA[<h3><a href="/index.php/resources/technical-glossary/32-alternative-keyboards">Alternative Keyboards</a></h3>
+<p><img class="fl-force-left" src="/images/techgloss/altkey_sml.gif" border="0" alt="Aleternative keyboard image" width="62" height="62" style="border: 0; margin-left: 10px; margin-right: 10px;" /></p>
+<p class="glossary-intro">Alternative keyboard layouts and other enhancements allow people who experience difficulty with conventional keyboard designs to use computers.</p>
+]]></description>
+			<category>Technical Glossary</category>
+			<pubDate>Tue, 24 Jan 2006 15:05:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>Alternative Mouse Systems</title>
+			<link>/13-resources/technical-glossary/33-alternative-mouse-systems</link>
+			<guid isPermaLink="true">/13-resources/technical-glossary/33-alternative-mouse-systems</guid>
+			<description><![CDATA[<h3><a href="/index.php/resources/technical-glossary/33-alternative-mouse-systems">Alternative Mouse Systems</a></h3>
+<p><img class="fl-force-left" src="/images/techgloss/altmouse_sml.gif" border="0" alt="Alternative mouse image" width="62" height="62" style="border: 0; margin-left: 10px; margin-right: 10px;" /></p>
+<p class="glossary-intro">Alternative pointing devices, trackballs and keypads are used to replace the mouse.</p>
+]]></description>
+			<category>Technical Glossary</category>
+			<pubDate>Tue, 24 Jan 2006 15:23:30 +0000</pubDate>
+		</item>
+		<item>
+			<title>Braille Embosser</title>
+			<link>/13-resources/technical-glossary/34-braille-embosser</link>
+			<guid isPermaLink="true">/13-resources/technical-glossary/34-braille-embosser</guid>
+			<description><![CDATA[<h3><a href="/index.php/resources/technical-glossary/34-braille-embosser"> Braille Embosser</a></h3>
+<p><img class="fl-force-left" src="/images/techgloss/braiem_sml.jpg" border="0" alt="image of a brailled embosser" width="62" height="62" /></p>
+<p class="glossary-intro">A Braille Embosser is a hardware device for "printing" a hard copy of electronic text documents in Braille.</p>
+]]></description>
+			<category>Technical Glossary</category>
+			<pubDate>Tue, 24 Jan 2006 15:25:30 +0000</pubDate>
+		</item>
+		<item>
+			<title>Closed Circuit Television (CCTV)</title>
+			<link>/13-resources/technical-glossary/35-closed-circuit-television-cctv</link>
+			<guid isPermaLink="true">/13-resources/technical-glossary/35-closed-circuit-television-cctv</guid>
+			<description><![CDATA[<h3><a href="/index.php/resources/technical-glossary/35-closed-circuit-television-cctv">Closed Circuit Television (CCTV)</a></h3>
+<p><img class="fl-force-left" src="/images/techgloss/cctv_sml.gif" border="0" alt="image of a CCTV" width="62" height="62" /></p>
+<p class="glossary-intro">Closed Circuit Televisions (CCTV's) allow users to quickly magnify any objects placed under a camera unit. CCTV's vary in size from portable pocket-sized units to stationary cameras with large displays.</p>
+]]></description>
+			<category>Technical Glossary</category>
+			<pubDate>Tue, 24 Jan 2006 15:26:54 +0000</pubDate>
+		</item>
+		<item>
+			<title>Electronic Aids to Daily Living Systems</title>
+			<link>/13-resources/technical-glossary/36-electronic-aids-to-daily-living-systems</link>
+			<guid isPermaLink="true">/13-resources/technical-glossary/36-electronic-aids-to-daily-living-systems</guid>
+			<description><![CDATA[<h3><a href="/index.php/resources/technical-glossary/36-electronic-aids-to-daily-living-systems"> Electronic Aids to Daily Living Systems</a></h3>
+<p><img class="fl-force-left" src="/images/techgloss/pilot_sml.jpg" border="0" alt="image of the sicare pilot" width="62" height="62" /></p>
+<p class="glossary-intro">Electronic Aids for Daily Living (EADL) are simply devices, or systems, that allow individuals to control facets of their environment.</p>
+]]></description>
+			<category>Technical Glossary</category>
+			<pubDate>Tue, 24 Jan 2006 15:27:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>Grammatical Support Tools</title>
+			<link>/13-resources/technical-glossary/37-grammatical-support-tools</link>
+			<guid isPermaLink="true">/13-resources/technical-glossary/37-grammatical-support-tools</guid>
+			<description><![CDATA[<h3><a href="/index.php/resources/technical-glossary/37-grammatical-support-tools"> Grammatical Support Tools</a></h3>
+<p><img src="/../images/techgloss/grammar_sml.gif" border="0" alt="grammatical support tools image" width="62" height="62" style="float: left;" /></p>
+<p class="glossary-intro">Grammatical support tools allow people who have difficulties with grammar to make their computing and writing tasks much easier.</p>
+]]></description>
+			<category>Technical Glossary</category>
+			<pubDate>Tue, 24 Jan 2006 16:32:18 +0000</pubDate>
+		</item>
+		<item>
+			<title>Haptic Devices</title>
+			<link>/13-resources/technical-glossary/38-haptic-devices</link>
+			<guid isPermaLink="true">/13-resources/technical-glossary/38-haptic-devices</guid>
+			<description><![CDATA[<h3><a href="/index.php/resources/technical-glossary/38-haptic-devices"> Haptic Devices</a></h3>
+<p><img src="/images/techgloss/haptic_sml.jpg" border="0" alt="an image of a haptic device" hspace="5" width="62" height="62" align="left" style="float: left;" /></p>
+<p class="glossary-intro">A haptic interface is a device which allows a user to interact with a computer by receiving tactile feed back. This feedback is achieved by applying a degree of opposing force to the user along the x, y, and z axes.</p>
+]]></description>
+			<category>Technical Glossary</category>
+			<pubDate>Tue, 24 Jan 2006 16:34:17 +0000</pubDate>
+		</item>
+		<item>
+			<title>Linux Accessibility</title>
+			<link>/13-resources/technical-glossary/39-linux-accessibility</link>
+			<guid isPermaLink="true">/13-resources/technical-glossary/39-linux-accessibility</guid>
+			<description><![CDATA[<h3><a href="/index.php/resources/technical-glossary/39-linux-accessibility">Linux Accessibility</a></h3>
+<p><img src="/images/techgloss/linuxlogo_sml.gif" border="0" alt="Linux Penguin logo" hspace="5" width="66" height="62" style="float: left;" /></p>
+<p class="glossary-intro">Linux is a free, open-source Operating System distributed under the Free Software Foundation's <a href="http://www.linux.org/info/gnu.html">GNU General Public License</a>(GPL) that has grown in popularity in the past few years. Because of the non-commercial nature of Linux, the accessibility options can be hard to find. These links are a starting point for Linux accessibility.</p>
+]]></description>
+			<category>Technical Glossary</category>
+			<pubDate>Tue, 24 Jan 2006 16:35:59 +0000</pubDate>
+		</item>
+		<item>
+			<title>Optical Character Recognition / Reading Software</title>
+			<link>/13-resources/technical-glossary/41-optical-character-recognition-reading-software</link>
+			<guid isPermaLink="true">/13-resources/technical-glossary/41-optical-character-recognition-reading-software</guid>
+			<description><![CDATA[<h3><a href="/index.php/resources/technical-glossary/41-optical-character-recognition--reading-software">Optical Character Recognition/Reading Software</a></h3>
+<p><img src="/images/techgloss/ocr_sml.gif" border="0" alt="an image of computer with a scanner" hspace="5" width="62" height="62" align="left" /></p>
+<p class="glossary-intro">Optical character recognition (OCR) is the process of converting an image of text, such as a scanned paper document or electronic fax file, into computer-editable text.</p>
+]]></description>
+			<category>Technical Glossary</category>
+			<pubDate>Tue, 24 Jan 2006 16:38:15 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

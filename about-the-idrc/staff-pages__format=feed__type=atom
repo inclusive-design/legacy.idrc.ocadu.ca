@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Staff Pages</title>
+	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
+	<link rel="alternate" type="text/html" href=""/>
+	<id>/about-the-idrc/staff-pages</id>
+	<updated>2021-03-15T20:53:03+00:00</updated>
+	<author>
+		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
+		<email>no-reply@idrc.ocadu.ca</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="/about-the-idrc/staff-pages?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Alan Harnum</title>
+		<link rel="alternate" type="text/html" href="/about-the-idrc/staff-pages/494-alan-harum"/>
+		<published>2007-05-25T17:12:29+00:00</published>
+		<updated>2007-05-25T17:12:29+00:00</updated>
+		<id>/about-the-idrc/staff-pages/494-alan-harum</id>
+		<author>
+			<name>Anastasia Cheetham</name>
+			<email>acheetham@ocadu.ca</email>
+		</author>
+		<category term="Staff" />
+	</entry>
+	<entry>
+		<title>Avtar Gill</title>
+		<link rel="alternate" type="text/html" href="/about-the-idrc/staff-pages/486-avtar-gill"/>
+		<published>2014-04-29T14:50:06+00:00</published>
+		<updated>2014-04-29T14:50:06+00:00</updated>
+		<id>/about-the-idrc/staff-pages/486-avtar-gill</id>
+		<author>
+			<name>Anastasia Cheetham</name>
+			<email>acheetham@ocadu.ca</email>
+		</author>
+		<summary type="html">&lt;h3&gt;Systems Administrator&lt;/h3&gt;
+&lt;p&gt;205 Richmond St., 2nd floor&lt;br /&gt;Toronto, ON&lt;br /&gt;M5V 1V3&lt;br /&gt;&lt;br /&gt;Phone: 416-977-6000 ext 3958&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;h3&gt;Systems Administrator&lt;/h3&gt;
+&lt;p&gt;205 Richmond St., 2nd floor&lt;br /&gt;Toronto, ON&lt;br /&gt;M5V 1V3&lt;br /&gt;&lt;br /&gt;Phone: 416-977-6000 ext 3958&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Staff" />
+	</entry>
+	<entry>
+		<title>Bert Shire</title>
+		<link rel="alternate" type="text/html" href="/about-the-idrc/staff-pages/329-bert-shire"/>
+		<published>2007-05-25T17:09:42+00:00</published>
+		<updated>2007-05-25T17:09:42+00:00</updated>
+		<id>/about-the-idrc/staff-pages/329-bert-shire</id>
+		<author>
+			<name>Avtar Gill</name>
+			<email>agill@ocadu.ca</email>
+		</author>
+		<category term="Staff" />
+	</entry>
+	<entry>
+		<title>Cheryl Li</title>
+		<link rel="alternate" type="text/html" href="/about-the-idrc/staff-pages/524-cheryl-li"/>
+		<published>2007-05-25T17:12:29+00:00</published>
+		<updated>2007-05-25T17:12:29+00:00</updated>
+		<id>/about-the-idrc/staff-pages/524-cheryl-li</id>
+		<author>
+			<name>Jonathan Hung</name>
+			<email>jhung@ocadu.ca</email>
+		</author>
+		<category term="Staff" />
+	</entry>
+	<entry>
+		<title>Cindy Li</title>
+		<link rel="alternate" type="text/html" href="/about-the-idrc/staff-pages/384-cindy-li"/>
+		<published>2008-04-17T16:59:54+00:00</published>
+		<updated>2008-04-17T16:59:54+00:00</updated>
+		<id>/about-the-idrc/staff-pages/384-cindy-li</id>
+		<author>
+			<name>Greg Gay</name>
+			<email>greggay@rogers.com</email>
+		</author>
+		<category term="Staff" />
+	</entry>
+	<entry>
+		<title>Colin Clark</title>
+		<link rel="alternate" type="text/html" href="/about-the-idrc/staff-pages/326-colin-clark"/>
+		<published>2007-05-25T17:02:56+00:00</published>
+		<updated>2007-05-25T17:02:56+00:00</updated>
+		<id>/about-the-idrc/staff-pages/326-colin-clark</id>
+		<author>
+			<name>Avtar Gill</name>
+			<email>agill@ocadu.ca</email>
+		</author>
+		<category term="Staff" />
+	</entry>
+	<entry>
+		<title>Dana Ayotte</title>
+		<link rel="alternate" type="text/html" href="/about-the-idrc/staff-pages/482-dana-ayotte"/>
+		<published>2014-04-29T14:45:54+00:00</published>
+		<updated>2014-04-29T14:45:54+00:00</updated>
+		<id>/about-the-idrc/staff-pages/482-dana-ayotte</id>
+		<author>
+			<name>Anastasia Cheetham</name>
+			<email>acheetham@ocadu.ca</email>
+		</author>
+		<summary type="html">&lt;h3&gt;Designer&lt;/h3&gt;
+&lt;p&gt;205 Richmond St., 2nd floor&lt;br /&gt;Toronto, ON&lt;br /&gt;M5V 1V3&lt;/p&gt;
+&lt;p&gt;Phone: 416-977-6000 ext 3959&lt;/p&gt;</summary>
+		<content type="html">&lt;h3&gt;Designer&lt;/h3&gt;
+&lt;p&gt;205 Richmond St., 2nd floor&lt;br /&gt;Toronto, ON&lt;br /&gt;M5V 1V3&lt;/p&gt;
+&lt;p&gt;Phone: 416-977-6000 ext 3959&lt;/p&gt;</content>
+		<category term="Staff" />
+	</entry>
+	<entry>
+		<title>David Pereyra</title>
+		<link rel="alternate" type="text/html" href="/about-the-idrc/staff-pages/523-david-pereyra"/>
+		<published>2007-05-25T17:12:29+00:00</published>
+		<updated>2007-05-25T17:12:29+00:00</updated>
+		<id>/about-the-idrc/staff-pages/523-david-pereyra</id>
+		<author>
+			<name>Jonathan Hung</name>
+			<email>jhung@ocadu.ca</email>
+		</author>
+		<category term="Staff" />
+	</entry>
+	<entry>
+		<title>In Remembrance of Jon Kameoka</title>
+		<link rel="alternate" type="text/html" href="/about-the-idrc/staff-pages/359-in-remembrance-of-jon-kameoka"/>
+		<published>2007-07-03T14:15:02+00:00</published>
+		<updated>2007-07-03T14:15:02+00:00</updated>
+		<id>/about-the-idrc/staff-pages/359-in-remembrance-of-jon-kameoka</id>
+		<summary type="html">&lt;p&gt;The IDRC fondly remembers Jon Kameoka&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;The IDRC fondly remembers Jon Kameoka&lt;/p&gt;
+</content>
+		<category term="Staff" />
+	</entry>
+	<entry>
+		<title>Iris Neher  (Manager)</title>
+		<link rel="alternate" type="text/html" href="/about-the-idrc/staff-pages/111-iris-neher-manager"/>
+		<published>2006-02-17T12:12:51+00:00</published>
+		<updated>2006-02-17T12:12:51+00:00</updated>
+		<id>/about-the-idrc/staff-pages/111-iris-neher-manager</id>
+		<author>
+			<name>Iris Neher</name>
+			<email>iris.neher@utoronto.ca</email>
+		</author>
+		<category term="Staff" />
+	</entry>
+</feed>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Research and Development</title>
+		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
+		<link>/research-and-development/30-events/past-events</link>
+		<lastBuildDate>Mon, 15 Mar 2021 21:18:35 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="/research-and-development/30-events/past-events?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
+		<item>
+			<title>IIDEX 2016</title>
+			<link>/research-and-development/30-events/past-events/511-iidex-2016</link>
+			<guid isPermaLink="true">/research-and-development/30-events/past-events/511-iidex-2016</guid>
+			<description><![CDATA[<p class="floe-date">November 30, 2016</p>
+<p>The IDRC participated in the <a href="http://www.iidexcanada.com/conference/summits/national-summit-on-accessibility-2016">IIDEX National Summit on Accessibility</a> on November 30th, 2016.</p>
+<p>This summit focused on appreciating how diverse stakeholders help shape and improve our design.</p>
+<p>The summit’s panels focused on two essential issues: Inclusive Play and Policy. The IDRC’s Director, Jutta Treviranus, lead the Summit.</p>]]></description>
+			<author>jmitchell@ocadu.ca (jess)</author>
+			<category>Past Events</category>
+			<pubDate>Mon, 12 Dec 2016 20:28:48 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Research and Development</title>
+		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
+		<link>/research-and-development/29-events/upcoming-events</link>
+		<lastBuildDate>Mon, 15 Mar 2021 21:18:30 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="/research-and-development/29-events/upcoming-events?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
+		<item>
+			<title>IDI Hosted Public Debate on AODA Changes</title>
+			<link>/research-and-development/29-events/upcoming-events/465-aodadebate</link>
+			<guid isPermaLink="true">/research-and-development/29-events/upcoming-events/465-aodadebate</guid>
+			<description><![CDATA[<p> (Toronto, September 12, 2011) The Inclusive Design Institute (IDI) at OCAD University will host a forum to gather comment on the proposed amendment to the Integrated Accessibility Standards Regulation (Ontario Regulation 191/11) under the Accessibility for Ontarians with Disabilities Act, 2005 , Design of Public Spaces in the Built Environment. </p>
+<hr>
+
+<p>The goal of the Accessibility Standards for the Built Environment is to remove barriers to access in public spaces and buildings to make it easier for all Ontarians , including people with disabilities, seniors and families , to access the places where they work, travel, shop and play.</p>
+
+<p>The event, organized as a roundtable discussion of the amendment by an expert panel and stakeholders. Comments and discussion by our expert panel will be followed by a session for open questions and discussion. An overview of the background to this proposed accessibility standard will be provided by David Lepofsky, Chair of the non-partisan Accessibility for Ontarians with Disabilities Act Alliance, the community coalition that has spearheaded the province-wide campaign to make Ontario fully accessible for persons with disabilities. The IDI will document the event and send the conclusions and comments to the Ministry Community and Social Services before the amendment's comment deadline of October 1, 2012. Members of the media and the public are invited.</p>
+
+<p>For more information about the proposed amendments, visit the <a href="http://www.mcss.gov.on.ca/en/mcss/programs/accessibility/regulations/reg_191/index_reg.aspx">Ontario Ministry of Community and Social Services</a> website.</p>
+
+<dl>
+
+<dt> DATE:</dt>   <dd>Tuesday, September 18, 2011</dd>
+<dt>TIME:    </dt><dd>11:30 a.m. to 1:30 p.m.</dd>
+<dt>LOCATION:  </dt> <dd> Inclusive Design Institute at OCAD University<br />
+  49 McCaul Street<br />
+  Toronto, Ontario</dd>
+<dt>             PUBLIC RSVP: </dt>         <dd>  idi@ocadu.ca</dd>
+<dt>             MEDIA RSVP: </dt>           <dd>   smulholland@ocadu.ca</dd>
+</dl>
+<p>Please note that McCaul Street is currently undergoing extensive construction including streetcar track replacement, resulting in lane restrictions and sidewalk barricades. Every effort is being made to ensure persons with disabilities can access the site for this event. For status updates please visit <a href="http://www.ocadu.ca/about_ocad/accessibility/servicealerts.htm">OCAD University's Service Alert information webpage</a>.</p>
+
+]]></description>
+			<author>greggay@rogers.com (Greg Gay)</author>
+			<category>Upcoming Events</category>
+			<pubDate>Thu, 13 Sep 2012 16:02:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>Product Demonstrations</title>
+			<link>/research-and-development/29-events/upcoming-events/389-product-demonstrations</link>
+			<guid isPermaLink="true">/research-and-development/29-events/upcoming-events/389-product-demonstrations</guid>
+			<description><![CDATA[
+<h3>Product Demonstrations</h3>
+
+<p>Vendors are a great source of information about the latest technologies. Please call us if you would be interested in joining us for any of these events!.</p>]]></description>
+			<category>Upcoming Events</category>
+			<pubDate>Fri, 02 May 2008 10:13:14 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

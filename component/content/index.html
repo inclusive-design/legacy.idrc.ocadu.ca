@@ -1,0 +1,757 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+<head>
+  <base href="" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="accessibility, information technology, adaptive technology, assistive technology, research, development, resources, open source, standards, community, design, inclusive, ATutor, Fluid, AChecker, Treviranus" />
+	<meta name="description" content="The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively." />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Inclusive Design Research Centre</title>
+	<link href="../../templates/idrc_theme/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<script type="application/json" class="joomla-script-options new">{
+    "csrf.token": "2d876f8480084b2370d52d2a5e9d3781",
+    "system.paths": {
+        "root": "",
+        "base": ""
+    },
+    "joomla.jtext": {
+        "JGLOBAL_EXPAND_CATEGORIES": "Show more categories",
+        "JGLOBAL_COLLAPSE_CATEGORIES": "Show less categories"
+    }
+}</script>
+	<script src="../../media/jui/js/jquery.js%3F4124fd1209969777e205a454273cb1c6" type="text/javascript"></script>
+	<script src="../../media/jui/js/jquery-noconflict.js%3F4124fd1209969777e205a454273cb1c6" type="text/javascript"></script>
+	<script src="../../media/jui/js/jquery-migrate.js%3F4124fd1209969777e205a454273cb1c6" type="text/javascript"></script>
+	<script src="../../media/system/js/caption-uncompressed.js%3F4124fd1209969777e205a454273cb1c6" type="text/javascript"></script>
+	<script src="../../media/system/js/core-uncompressed.js%3F4124fd1209969777e205a454273cb1c6" type="text/javascript"></script>
+	<script src="../../media/jui/js/bootstrap.js%3F4124fd1209969777e205a454273cb1c6" type="text/javascript"></script>
+	<script src="../../media/system/js/mootools-core-uncompressed.js%3F4124fd1209969777e205a454273cb1c6" type="text/javascript"></script>
+	<script src="../../media/system/js/mootools-more-uncompressed.js%3F4124fd1209969777e205a454273cb1c6" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+jQuery(function($) {
+	$('.categories-list').find('[id^=category-btn-]').each(function(index, btn) {
+		var btn = $(btn);
+		btn.on('click', function() {
+			btn.find('span').toggleClass('icon-plus');
+			btn.find('span').toggleClass('icon-minus');
+			if (btn.attr('aria-label') === Joomla.JText._('JGLOBAL_EXPAND_CATEGORIES'))
+			{
+				btn.attr('aria-label', Joomla.JText._('JGLOBAL_COLLAPSE_CATEGORIES'));
+			} else {
+				btn.attr('aria-label', Joomla.JText._('JGLOBAL_EXPAND_CATEGORIES'));
+			}		
+		});
+	});
+});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+
+    
+  <link rel="stylesheet" href="../../templates/system/css/system.css" type="text/css" />
+  
+  <link rel="stylesheet" href="../../templates/idrc_theme/css/fss/css/fss-reset.css" type="text/css" />
+  <link rel="stylesheet" href="../../templates/idrc_theme/css/fss/css/fss-layout.css" type="text/css" />
+  <link rel="stylesheet" href="../../templates/idrc_theme/css/template.css" type="text/css" />
+
+<style type='text/css'>#middle-col { margin-right: 270px; }</style><link href="/css/template.css" rel="stylesheet" type="text/css" />
+<link href="/css/fss/css/fss-layout.css" rel="stylesheet" type="text/css" />
+
+
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/js/infusion/framework/fss/css/fss-reset-global.css" />
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/js/infusion/framework/fss/css/fss-base-global.css" />
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/js/infusion/framework/fss/css/fss-layout.css" />
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/js/infusion/framework/fss/css/fss-text.css" />
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/js/infusion/components/uiOptions/css/fss/fss-theme-bw-uio.css" />
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/js/infusion/components/uiOptions/css/fss/fss-theme-wb-uio.css" />
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/js/infusion/components/uiOptions/css/fss/fss-theme-by-uio.css" />
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/js/infusion/components/uiOptions/css/fss/fss-theme-yb-uio.css" />
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/js/infusion/components/uiOptions/css/fss/fss-text-uio.css" />
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/js/infusion/lib/jquery/ui/css/fl-theme-by/by.css" />
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/js/infusion/lib/jquery/ui/css/fl-theme-yb/yb.css" />
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/js/infusion/lib/jquery/ui/css/fl-theme-bw/bw.css" />
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/js/infusion/lib/jquery/ui/css/fl-theme-wb/wb.css" />
+
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/js/infusion/components/uiOptions/css/UIOptions.css" />
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/js/infusion/components/uiOptions/css/FatPanelUIOptions.css" />
+        <link rel="stylesheet" type="text/css" href="../../templates/idrc_theme/css/UIOptions.css" />
+        
+        <!--[if IE 8]>
+            <link rel="stylesheet" type="text/css" href="/templates/idrc_theme/js/infusion/components/uiOptions/css/ie8.css" />
+        <![endif]-->          
+
+        <script type="text/javascript">
+            var pathToTemplates = "/templates/idrc_theme/js/infusion/components/uiOptions/html/";
+            var pathToTocTemplate = "/templates/idrc_theme/js/infusion/components/tableOfContents/html/TableOfContents.html";
+
+        </script>
+         <script type="text/javascript" src="../../templates/idrc_theme/js/infusion/MyInfusion.js"></script>
+        <script type="text/javascript" src="../../templates/idrc_theme/js/uiOptions_idrc.js"></script>
+        
+        
+</head>
+
+<body class="uio-demo-theme fl-focus fl-theme-uio-default">
+    <ul class="fl-offScreen-hidden">
+      <li><a href="index.html#to-menu">Skip to Menu</a></li> 
+      <li><a href="index.html#to-content">Skip to Content</a></li>  
+      <li><a href="index.html#to-search">Skip to Search</a></li> 
+    </ul>
+<!-- The page-wide UI Enhancer needs to be initialized right away -->
+        <script type="text/javascript">
+            $(document).ready(function () {
+                demo.initSettingsStore();
+                demo.initPageEnhancer();
+                demo.initFatPanel(".flc-uiOptions-fatPanel");
+            })
+        </script>
+        
+        <!-- BEGIN markup for fat-panel UI Options -->
+        <div class="flc-uiOptions-fatPanel fl-uiOptions-fatPanel">
+            <!-- This is the div that will contain the UI Options component -->
+            <div class="flc-slidingPanel-panel flc-uiOptions-iframe"></div>
+ 
+            <!-- This div is for the sliding panel that shows and hides the UI Options controls -->
+            <div class="fl-panelBar">
+                <span class="fl-uio-tabs">
+                    <button id="reset" class="flc-uiOptions-reset fl-uiOptions-reset"><span class="fl-icon-undo"></span> Reset</button>
+                    <button id="show-hide" class="flc-slidingPanel-toggleButton fl-uiOptions-showHide"> Show/Hide</button>
+                </span>
+            </div>
+        </div>  
+
+        <!-- END markup for fat-panel UI Options -->
+<div id="all" class="fl-container-flex90">
+  
+  <div id="header">
+    
+    <div>
+
+      <div class="fl-force-left">
+          <a href="http://idrc.ocad.ca"><img src="../../templates/idrc_theme/images/idilogo_blue.png" alt="IDRC Logo" class="fl-force-left" id="idrclogo"/></a>
+              <h1><a href="http://idrc.ocad.ca">Inclusive Design Research Centre</a></h1>        
+        <h2 class="tagline"><a href="http://ocad.ca">OCAD University</a></h2>
+      </div>
+      <div>
+      <a href="http://ocad.ca"><img style="height:6.4em;width:7.6em;"src="../../templates/idrc_theme/images/ocadu-logo.jpg" alt="OCAD Logo" class="fl-force-right" id="ocadlogo" height="188" width="209"/></a>
+      </div>
+    </div>
+    
+  </div>
+
+  <div id="main" class="fl-col-mixed-250 clearfix fl-push">
+    <div id="left-col" class="fl-col-fixed fl-force-left">
+      <a name="to-menu"></a>
+      		<div class="moduletable_menu">
+						<ul class="nav menu mod-list">
+<li class="item-21 default current active"><a href="../../index.html" >Home</a></li><li class="item-174 parent"><a href="../../about-the-idrc.html" >About </a></li><li class="item-54 parent"><a href="../../research-and-development.html" >Research and Development</a></li><li class="item-191 parent"><a href="../../resources.html" >Resources</a></li><li class="item-39"><a href="../../workshops-aamp-trainings.html" >Education</a></li><li class="item-192 parent"><a href="../../policy.html" >Standards and Policy</a></li><li class="item-41"><a href="../../services.html" >Services</a></li></ul>
+		</div>
+	
+      
+      <div class="search-mod">
+        <a name="to-search"></a>
+        		<div class="moduletable">
+						<form action="/component/users/?Itemid=21" method="post">
+	<div class="search">
+		<h3><label for="mod-search-searchword">Search</label></h3><input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox" type="text" size="30" value=" "  onblur="if (this.value=='') this.value=' ';" onfocus="if (this.value==' ') this.value='';" /><input type="submit" value="Go" class="button" onclick="this.form.searchword.focus();"/>	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />
+	</div>
+</form>
+		</div>
+	
+      </div>               
+    </div>  
+    <div id="right-col" class="fl-col-fixed fl-force-right">
+      		<div class="moduletable">
+							<h3>IDRC - Celebrating 25 Years</h3>
+						
+
+<div class="custom"  >
+	<p style="text-align: justify;">1993 - 2018</p></div>
+		</div>
+			<div class="moduletable">
+							<h3>Continuing Our Work During COVID-19</h3>
+						
+
+<div class="custom"  >
+	<p><a href="../../about-the-idrc/idrc-news/534-continuing-our-work-during-covid-19.html">Read the letter regarding COVID-19</a> by IDRC Director, Jutta Treviranus.</p></div>
+		</div>
+	
+        
+       
+    </div>
+    
+    <div id="middle-col" class="fl-col-flex">
+              
+    <div class="flc-toc-tocContainer toc"></div>    
+            
+      
+      <a name="to-content"></a>
+      <div class="categories-list">
+	
+												<div  class="first" >
+					<h3 class="page-header item-title">
+				<a href="../../48-library-of-papers.html">
+				Library of Papers</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						2					</span>
+											</h3>
+													
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../44-top-menu.html">
+				Top Menu</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						2					</span>
+													<a id="category-btn-44" href="index.html#category-44"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+													
+							<div class="collapse fade" id="category-44">
+									<div  class="last" >
+					<h3 class="page-header item-title">
+				<a href="../../45-top-menu/top-menu.html">
+				Top Menu</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						1					</span>
+											</h3>
+													
+					</div>
+							</div>
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../35-research-and-development.html">
+				Research and Development</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						1					</span>
+													<a id="category-btn-35" href="index.html#category-35"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+															<div class="category-desc">
+						<p><a href="http://fluidproject.org/">FLUID </a>is a new collaborative project that will create technologies and design processes to improve the usability and accessibility of community source software.</p>					</div>
+							
+							<div class="collapse fade" id="category-35">
+									<div  class="first" >
+					<h3 class="page-header item-title">
+				<a href="../../36-research-and-development/research-and-development.html">
+				Research and Development</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						4					</span>
+											</h3>
+													
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../37-research-and-development/rad-menu.html">
+				R&amp;D Menu</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						1					</span>
+											</h3>
+													
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../38-research-and-development/courseware-accessibility-1999.html">
+				Courseware Accessibility 1999</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						4					</span>
+											</h3>
+													
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../39-research-and-development/courseware-accessibility-2000.html">
+				Courseware Accessibility 2000</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						5					</span>
+											</h3>
+													
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../40-research-and-development/completed-projects.html">
+				Completed Projects</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						12					</span>
+											</h3>
+													
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../41-research-and-development/new-projects.html">
+				New Projects</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						5					</span>
+											</h3>
+													
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../42-research-and-development/ongoing-projects.html">
+				Ongoing Projects</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						1					</span>
+											</h3>
+													
+					</div>
+										</div>
+					</div>
+													<div  >
+					<h3 class="page-header item-title">
+				<a href="../../53-other.html">
+				Other</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						2					</span>
+													<a id="category-btn-53" href="index.html#category-53"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+													
+							<div class="collapse fade" id="category-53">
+												<div  class="first" >
+					<h3 class="page-header item-title">
+				<a href="../../54-other/consultation.html">
+				Consultation</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						1					</span>
+											</h3>
+													
+					</div>
+										<div  >
+					<h3 class="page-header item-title">
+				<a href="../../57-other/conference-slides.html">
+				Conference Slides</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						13					</span>
+											</h3>
+													
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../58-other/tutorials.html">
+				Tutorials</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						2					</span>
+											</h3>
+													
+					</div>
+							<div  class="last" >
+					<h3 class="page-header item-title">
+				<a href="../../59-other/past-events.html">
+				Past Events</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						3					</span>
+											</h3>
+													
+					</div>
+							</div>
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../31-empty.html">
+				Empty</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						1					</span>
+											</h3>
+													
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../28-events.html">
+				Events</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						0					</span>
+													<a id="category-btn-28" href="index.html#category-28"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+													
+							<div class="collapse fade" id="category-28">
+									<div  class="first" >
+					<h3 class="page-header item-title">
+				<a href="../../29-events/upcoming-events.html">
+				Upcoming Events</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						2					</span>
+											</h3>
+															<div class="category-desc">
+						The ATRC offers workshops and seminars for people both with and without disabilities. We also provide listings of upcoming courses and conferences offered or hosted by other organizations					</div>
+							
+					</div>
+							<div  class="last" >
+					<h3 class="page-header item-title">
+				<a href="../../30-events/past-events.html">
+				Past Events</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						1					</span>
+											</h3>
+													
+					</div>
+							</div>
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../about-the-idrc/idrc-news.html">
+				News</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						41					</span>
+													<a id="category-btn-7" href="index.html#category-7"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+															<div class="category-desc">
+						<p>Select a news topic from the list below, then select a news article to read.</p>					</div>
+							
+							<div class="collapse fade" id="category-7">
+												</div>
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../10-faqs.html">
+				FAQs</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						0					</span>
+													<a id="category-btn-10" href="index.html#category-10"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+															<div class="category-desc">
+						From the list below choose one of our FAQs topics, then select an FAQ to read. If you have a question which is not in this section, please contact us.					</div>
+							
+							<div class="collapse fade" id="category-10">
+												</div>
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../14-atrc-contact-us.html">
+				ATRC Contact Us</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						0					</span>
+													<a id="category-btn-14" href="index.html#category-14"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+													
+							<div class="collapse fade" id="category-14">
+												<div  class="first" >
+					<h3 class="page-header item-title">
+				<a href="../../about-the-idrc/staff-pages.html">
+				Staff</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						22					</span>
+											</h3>
+													
+					</div>
+							<div  class="last" >
+					<h3 class="page-header item-title">
+				<a href="../../17-atrc-contact-us/joseph.html">
+				Joseph</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						3					</span>
+											</h3>
+															<div class="category-desc">
+						Joseph\'s staff pages					</div>
+							
+					</div>
+							</div>
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../18-unfiled.html">
+				Unfiled</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						1					</span>
+													<a id="category-btn-18" href="index.html#category-18"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+													
+							<div class="collapse fade" id="category-18">
+												</div>
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../74-resources.html">
+				Resources</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						0					</span>
+													<a id="category-btn-74" href="index.html#category-74"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+													
+							<div class="collapse fade" id="category-74">
+									<div  class="first" >
+					<h3 class="page-header item-title">
+				<a href="../../resources/idrc-online.html">
+				IDRC Online</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						1					</span>
+													<a id="category-btn-20" href="index.html#category-20"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+													
+							<div class="collapse fade" id="category-20">
+									<div  class="first" >
+					<h3 class="page-header item-title">
+				<a href="../../resources/idrc-online/81-you-tube-video-presentations.html">
+				Video Presentations</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						1					</span>
+											</h3>
+															<div class="category-desc">
+						<p>Contains links to video presentations and demonstrations by IDRC staff.</p>
+<ul>
+<li><a href="../../31-empty/449-wabi-sabi-article.html">The Value of Imperfection: the Wabi-Sabi Principle in Aesthetics and Learning</a></li>
+<li><a href="../../53-other/451-if-you-want-to-change-the-world-look-to-the-margins.html">If You Want to Change the World, Look to the Margins</a>&nbsp;(Jutta Treviranus OER grantees meeting)</li>
+</ul>					</div>
+							
+					</div>
+										<div  >
+					<h3 class="page-header item-title">
+				<a href="../../resources/idrc-online/49-articles-and-papers.html">
+				Articles and Papers</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						43					</span>
+											</h3>
+													
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../resources/idrc-online/23-conference-slides.html">
+				Conference Slides</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						21					</span>
+											</h3>
+													
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../resources/idrc-online/22-tutorials.html">
+				Tutorials</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						2					</span>
+													<a id="category-btn-22" href="index.html#category-22"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+													
+							<div class="collapse fade" id="category-22">
+									<div  class="first" >
+					<h3 class="page-header item-title">
+				<a href="../../resources/idrc-online/51-tutorials/tutorials.html">
+				Tutorials</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						13					</span>
+											</h3>
+													
+					</div>
+							<div  class="last" >
+					<h3 class="page-header item-title">
+				<a href="../../resources/idrc-online/52-tutorials/quick-guides.html">
+				Quick Guides</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						8					</span>
+											</h3>
+													
+					</div>
+							</div>
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../resources/idrc-online/24-workshop-handouts.html">
+				Workshop Handouts</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						10					</span>
+													<a id="category-btn-24" href="index.html#category-24"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+													
+							<div class="collapse fade" id="category-24">
+												</div>
+					</div>
+													</div>
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../resources.html">
+				Resources</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						3					</span>
+											</h3>
+															<div class="category-desc">
+						<p>Below are just a few of the resources available from the IDRC. For resources specific to a project, see project websites from the <a href="../../index.php/research-and-development.html">Research and Development</a> section.</p>					</div>
+							
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../13-resources/technical-glossary.html">
+				Technical Glossary</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						22					</span>
+											</h3>
+													
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../workshops-aamp-trainings.html">
+				Education</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						1					</span>
+													<a id="category-btn-76" href="index.html#category-76"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+													
+							<div class="collapse fade" id="category-76">
+																		</div>
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../32-resources/technical-glossary1.html">
+				Technical Glossary</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						1					</span>
+											</h3>
+													
+					</div>
+										</div>
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../2-uncategorised.html">
+				Uncategorised</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						2					</span>
+											</h3>
+													
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../80-policy.html">
+				Policy</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						1					</span>
+													<a id="category-btn-80" href="index.html#category-80"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+													
+							<div class="collapse fade" id="category-80">
+									<div  class="last" >
+					<h3 class="page-header item-title">
+				<a href="../../resources/idrc-online/workshop-handouts.html">
+				ICT Standards and Compliance Resources</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						1					</span>
+													<a id="category-btn-64" href="index.html#category-64"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+													
+							<div class="collapse fade" id="category-64">
+												</div>
+					</div>
+							</div>
+					</div>
+							<div  >
+					<h3 class="page-header item-title">
+				<a href="../../33-services.html">
+				Services</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						2					</span>
+													<a id="category-btn-33" href="index.html#category-33"
+						data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right" aria-label="Show more categories"><span class="icon-plus" aria-hidden="true"></span></a>
+							</h3>
+													
+							<div class="collapse fade" id="category-33">
+									<div  class="last" >
+					<h3 class="page-header item-title">
+				<a href="../../34-services/consultation.html">
+				Consultation</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						5					</span>
+											</h3>
+													
+					</div>
+							</div>
+					</div>
+							<div  class="last" >
+					<h3 class="page-header item-title">
+				<a href="../../policy/idrc-and-aoda.html">
+				AODA</a>
+									<span class="badge badge-info tip hasTooltip" title="Article Count">
+						Article Count:&nbsp;
+						9					</span>
+											</h3>
+													
+					</div>
+			</div>
+            
+      
+            
+            
+    </div>    
+  </div>
+
+  <div id="footer">
+        
+    This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 License</a>.<br /><br />    
+    Browser testing tools provided by <a href="http://www.browserstack.com/">BrowserStack</a>. Content delivery provided by <a href="http://www.cachefly.com/">CacheFly</a>.</p>
+    In remembrance of <a href="../../index.php/about-the-idrc/staff-pages/359-in-remembrance-of-jon-kameoka.html">Jon Kameoka</a>.<br /><br />
+  </div>      
+  
+</div>  
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-22200857-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

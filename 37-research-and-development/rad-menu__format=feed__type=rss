@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Welcome to the Frontpage</title>
+		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
+		<link>/37-research-and-development/rad-menu</link>
+		<lastBuildDate>Mon, 15 Mar 2021 21:11:39 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="/37-research-and-development/rad-menu?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
+		<item>
+			<title>ATutor Learning Management System</title>
+			<link>/37-research-and-development/rad-menu/477-atutor</link>
+			<guid isPermaLink="true">/37-research-and-development/rad-menu/477-atutor</guid>
+			<description><![CDATA[<p><a href="http://www.atutor.ca"><img src="http://atutor.ca/images/AT_Logo_1_sm.png" alt="ATutor Logo" width="153" height="46" border="0" /></a></p>
+<p><strong id="atutor"><em>ATutor</em></strong><span>&nbsp;is an Open Source Web-based&nbsp;</span><strong>Learning Management System (LMS)</strong><span>&nbsp;used to develop and deliver online courses. Administrators can install or update ATutor in minutes, develop custom themes to give ATutor a new look, and easily extend its functionality with feature modules. Educators can quickly assemble, package, and redistribute Web-based instructional content, easily import prepackaged content, and conduct their courses online. Students learn in an accessible, adaptive, social learning environment.&nbsp;</span></p>
+<p><a href="https://atutor.github.io/atutor">ATutor Details</a> | <a href="https://atutor.github.io/atutor/demo.html">Demos</a> |<a href="https://atutor.github.io/atutor/downloads.html"> Download</a> |<a href="https://atutor.github.io/atutor/docs/index.html"> Documentation</a></p>
+<p><span>&nbsp;</span></p>
+<p><span>&nbsp;</span></p>]]></description>
+			<author>agill@ocadu.ca (Avtar Gill)</author>
+			<category>R&amp;D Menu</category>
+			<pubDate>Thu, 07 Nov 2013 20:24:36 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

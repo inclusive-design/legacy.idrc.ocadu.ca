@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>IDRC Online</title>
+		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
+		<link>/resources/idrc-online/52-tutorials/quick-guides</link>
+		<lastBuildDate>Mon, 15 Mar 2021 21:10:20 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="/resources/idrc-online/52-tutorials/quick-guides?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
+		<item>
+			<title>Zoom Text</title>
+			<link>/resources/idrc-online/52-tutorials/quick-guides/140-zoom-text</link>
+			<guid isPermaLink="true">/resources/idrc-online/52-tutorials/quick-guides/140-zoom-text</guid>
+			<description><![CDATA[]]></description>
+			<category>Quick Guides</category>
+			<pubDate>Wed, 22 Mar 2006 11:41:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>Read Please</title>
+			<link>/resources/idrc-online/52-tutorials/quick-guides/139-read-please</link>
+			<guid isPermaLink="true">/resources/idrc-online/52-tutorials/quick-guides/139-read-please</guid>
+			<description><![CDATA[]]></description>
+			<category>Quick Guides</category>
+			<pubDate>Wed, 22 Mar 2006 11:40:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>Mind Manager</title>
+			<link>/resources/idrc-online/52-tutorials/quick-guides/138-mind-manager</link>
+			<guid isPermaLink="true">/resources/idrc-online/52-tutorials/quick-guides/138-mind-manager</guid>
+			<description><![CDATA[]]></description>
+			<category>Quick Guides</category>
+			<pubDate>Wed, 22 Mar 2006 11:39:37 +0000</pubDate>
+		</item>
+		<item>
+			<title>JAWS</title>
+			<link>/resources/idrc-online/52-tutorials/quick-guides/137-jaws</link>
+			<guid isPermaLink="true">/resources/idrc-online/52-tutorials/quick-guides/137-jaws</guid>
+			<description><![CDATA[]]></description>
+			<category>Quick Guides</category>
+			<pubDate>Wed, 22 Mar 2006 11:38:54 +0000</pubDate>
+		</item>
+		<item>
+			<title>Inspiration</title>
+			<link>/resources/idrc-online/52-tutorials/quick-guides/136-inspiration</link>
+			<guid isPermaLink="true">/resources/idrc-online/52-tutorials/quick-guides/136-inspiration</guid>
+			<description><![CDATA[]]></description>
+			<category>Quick Guides</category>
+			<pubDate>Wed, 22 Mar 2006 11:35:05 +0000</pubDate>
+		</item>
+		<item>
+			<title>Dragon Naturally Speaking</title>
+			<link>/resources/idrc-online/52-tutorials/quick-guides/135-dragon-naturally-speaking</link>
+			<guid isPermaLink="true">/resources/idrc-online/52-tutorials/quick-guides/135-dragon-naturally-speaking</guid>
+			<description><![CDATA[]]></description>
+			<category>Quick Guides</category>
+			<pubDate>Wed, 22 Mar 2006 11:34:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Omnipage Pro</title>
+			<link>/resources/idrc-online/52-tutorials/quick-guides/134-omnipage-pro</link>
+			<guid isPermaLink="true">/resources/idrc-online/52-tutorials/quick-guides/134-omnipage-pro</guid>
+			<description><![CDATA[]]></description>
+			<category>Quick Guides</category>
+			<pubDate>Wed, 22 Mar 2006 11:32:52 +0000</pubDate>
+		</item>
+		<item>
+			<title>Kurzweil 3000</title>
+			<link>/resources/idrc-online/52-tutorials/quick-guides/133-kurzweil-3000</link>
+			<guid isPermaLink="true">/resources/idrc-online/52-tutorials/quick-guides/133-kurzweil-3000</guid>
+			<description><![CDATA[]]></description>
+			<category>Quick Guides</category>
+			<pubDate>Wed, 22 Mar 2006 11:21:56 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

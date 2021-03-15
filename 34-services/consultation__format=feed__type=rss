@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Welcome to the Frontpage</title>
+		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
+		<link>/34-services/consultation</link>
+		<lastBuildDate>Mon, 15 Mar 2021 21:13:29 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="/34-services/consultation?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
+		<item>
+			<title>Organizational Consultation</title>
+			<link>/34-services/consultation/407-organizational-consultation</link>
+			<guid isPermaLink="true">/34-services/consultation/407-organizational-consultation</guid>
+			<description><![CDATA[<h3>Organizational Accessibility Consultation Services</h3>  <p>Beyond the accessibility of its infrastructure, corporations must be aware of new guidelines and standards for the inclusiveness of Customer Service policies and ICT based technologies. Having worked directly with the standards bodies, the ATRC is developing supportive training resources and materials to support the implementation of these new standards.</p><p><a href="http://standards.iso.org/ittf/PubliclyAvailableStandards/index.html">ISO standards </a> </p>]]></description>
+			<author>agill@ocadu.ca (Avtar Gill)</author>
+			<category>Consultation</category>
+			<pubDate>Mon, 20 Jul 2009 15:54:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Web and Information Technology Accessibility/Consultation Services</title>
+			<link>/34-services/consultation/396-web-and-information-technology-accessibilityconsultation-services</link>
+			<guid isPermaLink="true">/34-services/consultation/396-web-and-information-technology-accessibilityconsultation-services</guid>
+			<description><![CDATA[<p>In addition to working directly with individuals of all abilities, the ATRC works with international organizations that create standards for accessible information design, including the <a href="http://www.mcss.gov.on.ca/mcss/english/pillars/accessibilityOntario">AODA</a>, <a href="http://www.w3.org/WAI/">W3C</a> and the <a href="http://www.imsglobal.org/accessibility/index.html">IMS Global Learning Consortium</a>.</p>
+<p>To support organizations that want to insure that their websites and technologies are meeting the widest possible audience we have a growing number of services.</p>
+<ul>
+<li><a href="http://websavvy.idrc.ocad.ca/">Web-Savvy</a> (Website accessibility evaluation service)</li>
+<li><a href="/component/content/?task=view&amp;id=325&amp;Itemid=133">Video Access Media Centre</a></li>
+</ul>
+<p> </p>]]></description>
+			<category>Consultation</category>
+			<pubDate>Tue, 17 Feb 2009 16:41:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Video Access Media Centre</title>
+			<link>/34-services/consultation/325-video-access-media-centre</link>
+			<guid isPermaLink="true">/34-services/consultation/325-video-access-media-centre</guid>
+			<description><![CDATA[]]></description>
+			<category>Consultation</category>
+			<pubDate>Fri, 25 May 2007 12:13:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>Individual Accommodation Service</title>
+			<link>/34-services/consultation/56-individual-accommodation-service</link>
+			<guid isPermaLink="true">/34-services/consultation/56-individual-accommodation-service</guid>
+			<description><![CDATA[]]></description>
+			<category>Consultation</category>
+			<pubDate>Thu, 26 Jan 2006 13:40:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>Employment Accommodation Services</title>
+			<link>/34-services/consultation/58-employment-accommodation-services</link>
+			<guid isPermaLink="true">/34-services/consultation/58-employment-accommodation-services</guid>
+			<description><![CDATA[]]></description>
+			<author>lhusnanipuchta@ocad.ca (Lizna Husnani-Puchta)</author>
+			<category>Consultation</category>
+			<pubDate>Thu, 26 Jan 2006 13:47:24 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

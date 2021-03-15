@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Welcome to the Frontpage</title>
+		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
+		<link>/80-policy</link>
+		<lastBuildDate>Mon, 15 Mar 2021 21:13:24 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="/80-policy?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
+		<item>
+			<title>Standards and Policy</title>
+			<link>/policy</link>
+			<guid isPermaLink="true">/policy</guid>
+			<description><![CDATA[<p>The IDRC is working to ensure that inclusive design is incorporated into technical standards and is encouraged by legislation and policies, both within Canada and internationally.</p>
+<h3>Technical Standards</h3>
+<p>Technical standards underlie virtually every aspect of information technology, from hidden electrical components to the web sites that we use every day. These standards have the potential to help or hinder inclusion and once implemented by large numbers of systems, standards are often difficult to change. The IDRC works with many international standards organizations to ensure that emerging technical standards are inclusively designed. <br /> In particular, the IDRC works with:</p>
+<ul>
+<li><strong>World Wide Web Consortium (W3C):</strong> The W3C develops web-related standards, the best known of which is probably HTML. The W3C process attempts to ensure accessibility is considered in all of its standards and in addition several accessibility-focussed standards have been produced. These are:
+<ul>
+<li>Accessible Rich Internet Applications (ARIA): defines a technology for making dynamic web applications more accessible.</li>
+<li>Web Content Accessibility Guidelines (WCAG): guidelines for creating accessible web sites.</li>
+<li>Authoring Tool Accessibility (ATAG): guidelines for developing authoring tools that encourage and support authors to create accessible web sites.</li>
+<li>User Agent Accessibility Guidelines (UAAG): guidelines for developers of browsers, media players, etc. that facilitate accessible use.</li>
+</ul>
+</li>
+<li><strong>IMS Global Learning Consortium:</strong> The IDRC has been involved with ensuring inclusive design considerations are part of IMS Standards and has led the AccessForAll standard development.</li>
+<li><strong>International Organization for Standardization (ISO):</strong> The IDRC has been most involved with the development of ISO/IEC 24751 Individualized adaptability and accessibility in e-learning, education and training, which is based on the IMS AccessForAll standard.</li>
+</ul>
+<h3>Child Safeguarding Policy</h3>
+<p>The IDRC is committed to the dignity, respect for, and safety of everyone touched directly or indirectly by its activities, but also recognizes children as an especially marginalized and vulnerable population requiring special consideration.</p>
+<p>Where children’s vulnerability and marginalization intersects with other forms of marginalization such as (but not limited to) intellectual or physical disability, it is additionally incumbent upon those working with them to exercise care and respect for those multiple contexts. The IDRC conceives of disability as a mismatch between the needs of the individual and the design of the product, <a href="http://idrc.ocadu.ca/about-the-idrc/49-resources/online-resources/articles-and-papers/443-whatisinclusivedesign">system or service</a>, and strives in its work to evolve technology and society towards rectifying these mismatches.</p>
+<p>The IDRC has developed this policy as part of its work with the <a href="http://oakfnd.org/">Oak Foundation</a>, and acknowledges the assistance of <a href="http://www.keepingchildrensafe.org.uk/">Keeping Children Safe</a> in its development, and the child safeguarding policy of <a href="http://www.cbm.org/Child-Safeguarding-246770.php">CBM</a> for inspiration and language.</p>
+<p>The complete Child Safeguarding Policy can be <a href="https://wiki.fluidproject.org/download/attachments/173113845/IDRC-Child-Safeguarding-Policy.pdf?version=1&amp;modificationDate=1548188781816&amp;api=v2">accessed here (PDF format)</a>.</p>
+<h3>Legislation and Policies</h3>
+<p>Government legislation and organizational policies can encourage inclusive design by fostering awareness of the need for inclusion and by setting broad expectations for society. The IDRC works with legislators and policymakers to help ensure that laws and policies lead to inclusive design innovation.</p>
+<p>Inclusive design in Canada is in part driven by a background of anti-discrimination law such as the Canadian Charter of Rights and Freedoms and the Canadian Human Rights Act. More recently, legislation and policies have been more proactive about encouraging inclusiveness in information technology. The Common Look and Feel policy of the Canadian Government requires its web sites to meet a number of accessibility requirements based on WCAG. The Accessibility for Ontarians with Disabilities Act Information (AODA) sets accessibility requirements in several areas, including information technology.</p>
+<p>Internationally, many other countries also have legislation and policies regarding accessibility. In the United States, the Americans with Disabilities Act (ADA) and Section 508, which requires accessibility to be considered in government purchasing, have been important incentives to inclusive design. For an overview of legislation and policies in other countries, see <a href="http://www.w3.org/WAI/Policy/">W3C-WAI’s Policies Relating to Web Accessibility</a>.</p>
+<h3>Accessibility for Ontarians with Disabilities Act Information (AODA)</h3>
+<p>The Accessibility for Ontarians with Disabilities Act (2005) calls for the development, implementation, and enforcement of accessibility standards in the areas of:</p>
+<ul>
+<li>Customer Service</li>
+<li>Transportation</li>
+<li>Information and Communications</li>
+<li>Built Environment</li>
+<li>Employment</li>
+</ul>
+<p>The IDRC recognizes that public institutions, businesses and other organizations will need help to ensure that their information and communications systems are compliant with the AODA Information and Communications standard. In response to this need, the IDRC will be working with several continuing studies programs to offer an AODA Information and Communications Specialist Certification Program. The certification program will to train individuals in evaluating and planning AODA-compliant information and communications systems and provide a mechanism to help organizations identify qualified professionals to assist them with their AODA compliance needs.</p>
+<h3>Additional Resources:</h3>
+<ul>
+<li><a href="http://www.accesson.ca">AccessOn.ca</a> - a website focused on providing information on how to make businesses and communities more accessible to people with disabilities.</li>
+<li><a href="http://www.e-laws.gov.on.ca/html/regs/english/elaws_regs_070429_e.htm">AODA Accessibility Standards</a> - A central resource for the five standards as they are released for public review, and are adopted.</li>
+<li><a href="http://adod.idrc.ocad.ca/">Accessible Office Document Project</a> – How-to guides for creating accessible word processed documents, spreadsheets and presentations with popular office applications.</li>
+<li>Tutorials on alternate format production - Coming soon!</li>
+</ul>]]></description>
+			<category>Policy</category>
+			<pubDate>Thu, 10 Mar 2011 15:05:26 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

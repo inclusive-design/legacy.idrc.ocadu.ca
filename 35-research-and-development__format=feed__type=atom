@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Welcome to the Frontpage</title>
+	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
+	<link rel="alternate" type="text/html" href=""/>
+	<id>/35-research-and-development</id>
+	<updated>2021-03-15T21:11:24+00:00</updated>
+	<author>
+		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
+		<email>no-reply@idrc.ocadu.ca</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="/35-research-and-development?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Research and Development</title>
+		<link rel="alternate" type="text/html" href="/research-and-development"/>
+		<published>2011-03-10T15:17:00+00:00</published>
+		<updated>2011-03-10T15:17:00+00:00</updated>
+		<id>/research-and-development</id>
+		<summary type="html">&lt;p&gt;The IDRC sees disability as a mismatch between the needs of the  individual and the service, education, tools or environment provided. Accessibility, then, is the adaptability of the system to the needs of each  individual. Our research, development, education and service are all  grounded in this principle.&lt;/p&gt;
+&lt;p&gt;The IDRC supports open standards - as  well as open access and open source wherever possible - to distribute  our work as widely as possible and to encourage broad participation in  our initiatives. IDRC teams work in highly collaborative and transparent communities.&lt;/p&gt;
+&lt;p&gt;We are actively working on a number of new and ongoing projects that could use your participation.&lt;/p&gt;
+&lt;h3&gt;How can I get involved?&lt;/h3&gt;
+&lt;p&gt;The IDRC is always looking for new community members, researchers, students, organizations or volunteers. Because the IDRC supports  participatory design - we especially need your input if information and  communication technologies and practices do not currently meet your  needs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:idi@ocad.ca&quot;&gt;Email IDRC&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The IDRC sees disability as a mismatch between the needs of the  individual and the service, education, tools or environment provided. Accessibility, then, is the adaptability of the system to the needs of each  individual. Our research, development, education and service are all  grounded in this principle.&lt;/p&gt;
+&lt;p&gt;The IDRC supports open standards - as  well as open access and open source wherever possible - to distribute  our work as widely as possible and to encourage broad participation in  our initiatives. IDRC teams work in highly collaborative and transparent communities.&lt;/p&gt;
+&lt;p&gt;We are actively working on a number of new and ongoing projects that could use your participation.&lt;/p&gt;
+&lt;h3&gt;How can I get involved?&lt;/h3&gt;
+&lt;p&gt;The IDRC is always looking for new community members, researchers, students, organizations or volunteers. Because the IDRC supports  participatory design - we especially need your input if information and  communication technologies and practices do not currently meet your  needs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:idi@ocad.ca&quot;&gt;Email IDRC&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Research and Development" />
+	</entry>
+</feed>

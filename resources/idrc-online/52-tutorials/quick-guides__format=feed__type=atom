@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">IDRC Online</title>
+	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
+	<link rel="alternate" type="text/html" href=""/>
+	<id>/resources/idrc-online/52-tutorials/quick-guides</id>
+	<updated>2021-03-15T21:10:20+00:00</updated>
+	<author>
+		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
+		<email>no-reply@idrc.ocadu.ca</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="/resources/idrc-online/52-tutorials/quick-guides?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Zoom Text</title>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/52-tutorials/quick-guides/140-zoom-text"/>
+		<published>2006-03-22T11:41:44+00:00</published>
+		<updated>2006-03-22T11:41:44+00:00</updated>
+		<id>/resources/idrc-online/52-tutorials/quick-guides/140-zoom-text</id>
+		<category term="Quick Guides" />
+	</entry>
+	<entry>
+		<title>Read Please</title>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/52-tutorials/quick-guides/139-read-please"/>
+		<published>2006-03-22T11:40:31+00:00</published>
+		<updated>2006-03-22T11:40:31+00:00</updated>
+		<id>/resources/idrc-online/52-tutorials/quick-guides/139-read-please</id>
+		<category term="Quick Guides" />
+	</entry>
+	<entry>
+		<title>Mind Manager</title>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/52-tutorials/quick-guides/138-mind-manager"/>
+		<published>2006-03-22T11:39:37+00:00</published>
+		<updated>2006-03-22T11:39:37+00:00</updated>
+		<id>/resources/idrc-online/52-tutorials/quick-guides/138-mind-manager</id>
+		<category term="Quick Guides" />
+	</entry>
+	<entry>
+		<title>JAWS</title>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/52-tutorials/quick-guides/137-jaws"/>
+		<published>2006-03-22T11:38:54+00:00</published>
+		<updated>2006-03-22T11:38:54+00:00</updated>
+		<id>/resources/idrc-online/52-tutorials/quick-guides/137-jaws</id>
+		<category term="Quick Guides" />
+	</entry>
+	<entry>
+		<title>Inspiration</title>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/52-tutorials/quick-guides/136-inspiration"/>
+		<published>2006-03-22T11:35:05+00:00</published>
+		<updated>2006-03-22T11:35:05+00:00</updated>
+		<id>/resources/idrc-online/52-tutorials/quick-guides/136-inspiration</id>
+		<category term="Quick Guides" />
+	</entry>
+	<entry>
+		<title>Dragon Naturally Speaking</title>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/52-tutorials/quick-guides/135-dragon-naturally-speaking"/>
+		<published>2006-03-22T11:34:33+00:00</published>
+		<updated>2006-03-22T11:34:33+00:00</updated>
+		<id>/resources/idrc-online/52-tutorials/quick-guides/135-dragon-naturally-speaking</id>
+		<category term="Quick Guides" />
+	</entry>
+	<entry>
+		<title>Omnipage Pro</title>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/52-tutorials/quick-guides/134-omnipage-pro"/>
+		<published>2006-03-22T11:32:52+00:00</published>
+		<updated>2006-03-22T11:32:52+00:00</updated>
+		<id>/resources/idrc-online/52-tutorials/quick-guides/134-omnipage-pro</id>
+		<category term="Quick Guides" />
+	</entry>
+	<entry>
+		<title>Kurzweil 3000</title>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/52-tutorials/quick-guides/133-kurzweil-3000"/>
+		<published>2006-03-22T11:21:56+00:00</published>
+		<updated>2006-03-22T11:21:56+00:00</updated>
+		<id>/resources/idrc-online/52-tutorials/quick-guides/133-kurzweil-3000</id>
+		<category term="Quick Guides" />
+	</entry>
+</feed>

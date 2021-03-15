@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Welcome to the Frontpage</title>
+		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
+		<link>/54-other/consultation</link>
+		<lastBuildDate>Mon, 15 Mar 2021 21:12:05 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="/54-other/consultation?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
+		<item>
+			<title>Accommodating Employees with Disabilities:</title>
+			<link>/54-other/consultation/166-accommodating-employees-with-disabilities</link>
+			<guid isPermaLink="true">/54-other/consultation/166-accommodating-employees-with-disabilities</guid>
+			<description><![CDATA[]]></description>
+			<category>Consultation</category>
+			<pubDate>Tue, 04 Apr 2006 10:34:12 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

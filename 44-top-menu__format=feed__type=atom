@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Welcome to the Frontpage</title>
+	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
+	<link rel="alternate" type="text/html" href=""/>
+	<id>/44-top-menu</id>
+	<updated>2021-03-15T21:11:19+00:00</updated>
+	<author>
+		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
+		<email>no-reply@idrc.ocadu.ca</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="/44-top-menu?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Get Involved with the Inclusive Design Research Centre (IDRC)</title>
+		<link rel="alternate" type="text/html" href="/about-the-idrc/getinvolved"/>
+		<published>2012-05-17T15:03:21+00:00</published>
+		<updated>2012-05-17T15:03:21+00:00</updated>
+		<id>/about-the-idrc/getinvolved</id>
+		<author>
+			<name>Avtar Gill</name>
+			<email>agill@ocadu.ca</email>
+		</author>
+		<summary type="html">&lt;hr /&gt;
+&lt;h2&gt;How the IDRC works&lt;/h2&gt;
+&lt;p&gt;The IDRC is an open, collaborative environment. We welcome anyone who is curious about our work, passionate about open source, and excited by the Web, Linux, mobile platforms, and assistive technologies to read through this guide to understand how to participate and contribute. We work as a highly collaborative team on design, development, planning, testing, research, and much more.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The overarching goal of the IDRC is to help ensure that emerging information technology and practices are designed inclusively from the very beginning. We define inclusive design as design that enables and supports the participation of individuals and groups representing the full range of human diversity. We see disability as a mismatch between the needs of the individual and the service, education, tools or environment provided, and accessibility as the adaptability of the system to the needs of each individual. Our research, development, education and service are all grounded in this goal.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Ways to Participate&lt;/h2&gt;
+&lt;p&gt;The IDRC invites you to join the team. Deliverables are defined by grants that are awarded to the IDRC. Participants in IDRC work will usually contribute to those deliverables. Because the timelines and deliverables are firm, the IDRC must balance mentoring new participants with ensuring forward progress on our projects and deliverables.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The best participant is one who can quickly contribute solutions to project deliverables. This is someone who has clarity of interests, skills, and where he/she might fit into a deeply team-oriented environment.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For more details on the different ways to get involved, see &lt;a href=&quot;https://wiki.fluidproject.org/display/fluid/Get+Involved&quot;&gt;Get Involved in our Fluid Project wiki&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Requirements&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;To participate in IDRC activities, all applicants should familiarize themselves with the IDRC, with open source communities (see the &lt;a href=&quot;http://www.apache.org/foundation/how-it-works.html&quot;&gt;Apache Software Foundation “How It Works”,&lt;/a&gt;) and should be prepared to share a statement of purpose, a resume, and a portfolio with examples of prior work. All participants will be asked to sign a&amp;nbsp;&lt;a href=&quot;https://wiki.fluidproject.org/display/fluid/Fluid+Licensing&quot;&gt;Contributor License Agreement&lt;/a&gt; that provides a clear agreement for sharing project materials according to open source licenses.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In order to ensure that we will be able to spend time pairing, mentoring and learning from participants, the IDRC can only accept applicants whose skills match needs on the team. This selectivity allows us to ensure we have the right team size, team members have complementary skill sets, and that we are able to put new team members in a position to make early, positive contributions to the work.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Participant Positions&lt;/h2&gt;
+&lt;p&gt;The following positions explain the various ways participants can join the IDRC team. Most members to the team begin as Volunteers.&lt;/p&gt;
+&lt;h3&gt;Volunteer&lt;/h3&gt;
+&lt;p&gt;Often the first way to get involved in open source communities is by volunteering.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What is a volunteer? What do volunteers do?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Some volunteers are more like interns (learning a skill while gaining experience), but some are experienced professionals volunteering their time and expertise to something they care about within an open community they enjoy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Why is volunteering a good use of time?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There are advantages to volunteering with the IDRC.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience working on international, distributed, multi-institutional projects&lt;/li&gt;
+&lt;li&gt;Receive direct mentoring from experienced team members&lt;/li&gt;
+&lt;li&gt;Build new skills and gain professional experience&lt;/li&gt;
+&lt;li&gt;Give the time you have&lt;/li&gt;
+&lt;li&gt;Build connections while completing project-based work&lt;/li&gt;
+&lt;li&gt;Do something meaningful by contributing to solutions that have an impact&lt;/li&gt;
+&lt;li&gt;Support the larger agenda of furthering inclusive and adaptive technologies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Why is this good for the IDRC?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The IDRC team is always excited to work with new team members. We learn a lot from working with volunteers and we hope you will too. If volunteers then go on to work in a context where they promote inclusive design principles, then our global community grows.&lt;/p&gt;
+&lt;p&gt;Volunteers are not paid participants.&lt;/p&gt;
+&lt;h3&gt;Course-Related Student Engagement&lt;/h3&gt;
+&lt;p&gt;Some faculty at OCAD University support students completing homework assignments and activities through structured work with the IDRC. If you are a student with an innovative course idea to share with the IDRC, contact your faculty and ask him/her if this is acceptable. In these cases the faculty member will make arrangements with the IDRC in advance to work out logistics and expectations. Students are still required to submit the required materials just like any other participant in the IDRC.&lt;/p&gt;
+&lt;p&gt;Students working toward course requirements are not paid participants.&lt;/p&gt;
+&lt;h3&gt;Student Monitor&lt;/h3&gt;
+&lt;p&gt;OCAD University has a designation for participants in campus activities – Student Monitors work on well-defined activities that require enthusiasm, but not necessarily a lot of prior experience or training. The IDRC occasionally has student monitor positions. These positions will be announced within the &lt;a href=&quot;http://www.ocadu.ca/services/financial-matters/student-employment.htm&quot;&gt;OCAD University community&lt;/a&gt;. Contact Financial Aid &amp;amp; Awards Office for more information about student monitor positions and requirements.&lt;/p&gt;
+&lt;p&gt;Student monitors are paid according to OCAD University’s pay scale for this position.&lt;/p&gt;
+&lt;h3&gt;Research Assistant&lt;/h3&gt;
+&lt;p&gt;OCAD University supports some &lt;a href=&quot;http://www.ocadu.ca/services/human-resources/employment-opportunities.htm&quot;&gt;Research Assistant positions&lt;/a&gt;. These positions are reserved for applicants with experience and skill sets in a particular field or aspect of a field. These applicants are usually more experienced and have a more mature portfolio of work to share.&lt;/p&gt;
+&lt;p&gt;Research Assistants are paid according to OCAD University’s pay scale for this position.&lt;/p&gt;
+&lt;h3&gt;Temporary Assignment, Full-time or Part –time&lt;/h3&gt;
+&lt;p&gt;On occasion the IDRC will create a term employment opportunity, generally under one year. These contracts are usually for highly skilled work, where an individual possesses a skill that is required for a short period of time and on a specific scope of work.&lt;/p&gt;
+&lt;p&gt;Compensation is based on the Collective Agreement between OPSEU Local 576 and OCAD University Unit 1.&lt;/p&gt;
+&lt;h3&gt;Consulting Services&lt;/h3&gt;
+&lt;p&gt;On occasion the IDRC will create a short-term contract with an individual. These contracts are usually for highly skilled work, where an individual possesses a skill that is required for a short period of time and on a specific scope of work.&lt;/p&gt;
+&lt;p&gt;Contracts are awarded through a competitive procurement process.&lt;/p&gt;
+&lt;h3&gt;Open Staff Positions, Full-time or Part-time&lt;/h3&gt;
+&lt;p&gt;When the IDRC has an open staff position, the job is posted to the University &lt;a href=&quot;http://www.ocadu.ca/services/human-resources/employment-opportunities.htm&quot;&gt;Employment Opportunity website&lt;/a&gt; and a number of other websites (relevant to that job description) and an open interviewing process begins. Qualified candidates are interviewed and an appropriate candidate that fits within the team, possesses the needed skills, and has a proven track record is hired.&lt;/p&gt;
+&lt;p&gt;Compensation is based on the Collective Agreement between OPSEU Local 576 and OCAD University Unit 1.&lt;/p&gt;
+&lt;h2&gt;Some areas of Interest/Expertise needed&lt;/h2&gt;
+&lt;h3&gt;Testing: (Quality Assurance and Usability/User-experience Testing)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Quality Assurance testing including planning, writing protocols, conducting testing sprints, formal testing of release candidate code&lt;/li&gt;
+&lt;li&gt;User-experience testing of user interface, design, and workflow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Design&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Graphic design&lt;/li&gt;
+&lt;li&gt;Website and logo design&lt;/li&gt;
+&lt;li&gt;Interface design&lt;/li&gt;
+&lt;li&gt;User Experience design&lt;/li&gt;
+&lt;li&gt;Interaction design&lt;/li&gt;
+&lt;li&gt;Usability&lt;/li&gt;
+&lt;li&gt;User-centered design&lt;/li&gt;
+&lt;li&gt;Inclusive and Participatory design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Development&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Website development and integration&lt;/li&gt;
+&lt;li&gt;JavaScript, Python, PHP, and other web programming languages&lt;/li&gt;
+&lt;li&gt;HTML/CSS&lt;/li&gt;
+&lt;li&gt;Mobile App development&lt;/li&gt;
+&lt;li&gt;QA/ testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Research&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Thesis-relevant&lt;/li&gt;
+&lt;li&gt;Coursework-relevant&lt;/li&gt;
+&lt;li&gt;Technology Standards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;</summary>
+		<content type="html">&lt;hr /&gt;
+&lt;h2&gt;How the IDRC works&lt;/h2&gt;
+&lt;p&gt;The IDRC is an open, collaborative environment. We welcome anyone who is curious about our work, passionate about open source, and excited by the Web, Linux, mobile platforms, and assistive technologies to read through this guide to understand how to participate and contribute. We work as a highly collaborative team on design, development, planning, testing, research, and much more.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The overarching goal of the IDRC is to help ensure that emerging information technology and practices are designed inclusively from the very beginning. We define inclusive design as design that enables and supports the participation of individuals and groups representing the full range of human diversity. We see disability as a mismatch between the needs of the individual and the service, education, tools or environment provided, and accessibility as the adaptability of the system to the needs of each individual. Our research, development, education and service are all grounded in this goal.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Ways to Participate&lt;/h2&gt;
+&lt;p&gt;The IDRC invites you to join the team. Deliverables are defined by grants that are awarded to the IDRC. Participants in IDRC work will usually contribute to those deliverables. Because the timelines and deliverables are firm, the IDRC must balance mentoring new participants with ensuring forward progress on our projects and deliverables.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The best participant is one who can quickly contribute solutions to project deliverables. This is someone who has clarity of interests, skills, and where he/she might fit into a deeply team-oriented environment.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For more details on the different ways to get involved, see &lt;a href=&quot;https://wiki.fluidproject.org/display/fluid/Get+Involved&quot;&gt;Get Involved in our Fluid Project wiki&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Requirements&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;To participate in IDRC activities, all applicants should familiarize themselves with the IDRC, with open source communities (see the &lt;a href=&quot;http://www.apache.org/foundation/how-it-works.html&quot;&gt;Apache Software Foundation “How It Works”,&lt;/a&gt;) and should be prepared to share a statement of purpose, a resume, and a portfolio with examples of prior work. All participants will be asked to sign a&amp;nbsp;&lt;a href=&quot;https://wiki.fluidproject.org/display/fluid/Fluid+Licensing&quot;&gt;Contributor License Agreement&lt;/a&gt; that provides a clear agreement for sharing project materials according to open source licenses.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In order to ensure that we will be able to spend time pairing, mentoring and learning from participants, the IDRC can only accept applicants whose skills match needs on the team. This selectivity allows us to ensure we have the right team size, team members have complementary skill sets, and that we are able to put new team members in a position to make early, positive contributions to the work.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Participant Positions&lt;/h2&gt;
+&lt;p&gt;The following positions explain the various ways participants can join the IDRC team. Most members to the team begin as Volunteers.&lt;/p&gt;
+&lt;h3&gt;Volunteer&lt;/h3&gt;
+&lt;p&gt;Often the first way to get involved in open source communities is by volunteering.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What is a volunteer? What do volunteers do?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Some volunteers are more like interns (learning a skill while gaining experience), but some are experienced professionals volunteering their time and expertise to something they care about within an open community they enjoy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Why is volunteering a good use of time?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There are advantages to volunteering with the IDRC.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience working on international, distributed, multi-institutional projects&lt;/li&gt;
+&lt;li&gt;Receive direct mentoring from experienced team members&lt;/li&gt;
+&lt;li&gt;Build new skills and gain professional experience&lt;/li&gt;
+&lt;li&gt;Give the time you have&lt;/li&gt;
+&lt;li&gt;Build connections while completing project-based work&lt;/li&gt;
+&lt;li&gt;Do something meaningful by contributing to solutions that have an impact&lt;/li&gt;
+&lt;li&gt;Support the larger agenda of furthering inclusive and adaptive technologies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Why is this good for the IDRC?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The IDRC team is always excited to work with new team members. We learn a lot from working with volunteers and we hope you will too. If volunteers then go on to work in a context where they promote inclusive design principles, then our global community grows.&lt;/p&gt;
+&lt;p&gt;Volunteers are not paid participants.&lt;/p&gt;
+&lt;h3&gt;Course-Related Student Engagement&lt;/h3&gt;
+&lt;p&gt;Some faculty at OCAD University support students completing homework assignments and activities through structured work with the IDRC. If you are a student with an innovative course idea to share with the IDRC, contact your faculty and ask him/her if this is acceptable. In these cases the faculty member will make arrangements with the IDRC in advance to work out logistics and expectations. Students are still required to submit the required materials just like any other participant in the IDRC.&lt;/p&gt;
+&lt;p&gt;Students working toward course requirements are not paid participants.&lt;/p&gt;
+&lt;h3&gt;Student Monitor&lt;/h3&gt;
+&lt;p&gt;OCAD University has a designation for participants in campus activities – Student Monitors work on well-defined activities that require enthusiasm, but not necessarily a lot of prior experience or training. The IDRC occasionally has student monitor positions. These positions will be announced within the &lt;a href=&quot;http://www.ocadu.ca/services/financial-matters/student-employment.htm&quot;&gt;OCAD University community&lt;/a&gt;. Contact Financial Aid &amp;amp; Awards Office for more information about student monitor positions and requirements.&lt;/p&gt;
+&lt;p&gt;Student monitors are paid according to OCAD University’s pay scale for this position.&lt;/p&gt;
+&lt;h3&gt;Research Assistant&lt;/h3&gt;
+&lt;p&gt;OCAD University supports some &lt;a href=&quot;http://www.ocadu.ca/services/human-resources/employment-opportunities.htm&quot;&gt;Research Assistant positions&lt;/a&gt;. These positions are reserved for applicants with experience and skill sets in a particular field or aspect of a field. These applicants are usually more experienced and have a more mature portfolio of work to share.&lt;/p&gt;
+&lt;p&gt;Research Assistants are paid according to OCAD University’s pay scale for this position.&lt;/p&gt;
+&lt;h3&gt;Temporary Assignment, Full-time or Part –time&lt;/h3&gt;
+&lt;p&gt;On occasion the IDRC will create a term employment opportunity, generally under one year. These contracts are usually for highly skilled work, where an individual possesses a skill that is required for a short period of time and on a specific scope of work.&lt;/p&gt;
+&lt;p&gt;Compensation is based on the Collective Agreement between OPSEU Local 576 and OCAD University Unit 1.&lt;/p&gt;
+&lt;h3&gt;Consulting Services&lt;/h3&gt;
+&lt;p&gt;On occasion the IDRC will create a short-term contract with an individual. These contracts are usually for highly skilled work, where an individual possesses a skill that is required for a short period of time and on a specific scope of work.&lt;/p&gt;
+&lt;p&gt;Contracts are awarded through a competitive procurement process.&lt;/p&gt;
+&lt;h3&gt;Open Staff Positions, Full-time or Part-time&lt;/h3&gt;
+&lt;p&gt;When the IDRC has an open staff position, the job is posted to the University &lt;a href=&quot;http://www.ocadu.ca/services/human-resources/employment-opportunities.htm&quot;&gt;Employment Opportunity website&lt;/a&gt; and a number of other websites (relevant to that job description) and an open interviewing process begins. Qualified candidates are interviewed and an appropriate candidate that fits within the team, possesses the needed skills, and has a proven track record is hired.&lt;/p&gt;
+&lt;p&gt;Compensation is based on the Collective Agreement between OPSEU Local 576 and OCAD University Unit 1.&lt;/p&gt;
+&lt;h2&gt;Some areas of Interest/Expertise needed&lt;/h2&gt;
+&lt;h3&gt;Testing: (Quality Assurance and Usability/User-experience Testing)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Quality Assurance testing including planning, writing protocols, conducting testing sprints, formal testing of release candidate code&lt;/li&gt;
+&lt;li&gt;User-experience testing of user interface, design, and workflow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Design&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Graphic design&lt;/li&gt;
+&lt;li&gt;Website and logo design&lt;/li&gt;
+&lt;li&gt;Interface design&lt;/li&gt;
+&lt;li&gt;User Experience design&lt;/li&gt;
+&lt;li&gt;Interaction design&lt;/li&gt;
+&lt;li&gt;Usability&lt;/li&gt;
+&lt;li&gt;User-centered design&lt;/li&gt;
+&lt;li&gt;Inclusive and Participatory design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Development&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Website development and integration&lt;/li&gt;
+&lt;li&gt;JavaScript, Python, PHP, and other web programming languages&lt;/li&gt;
+&lt;li&gt;HTML/CSS&lt;/li&gt;
+&lt;li&gt;Mobile App development&lt;/li&gt;
+&lt;li&gt;QA/ testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Research&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Thesis-relevant&lt;/li&gt;
+&lt;li&gt;Coursework-relevant&lt;/li&gt;
+&lt;li&gt;Technology Standards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;</content>
+		<category term="Top Menu" />
+	</entry>
+	<entry>
+		<title>Services</title>
+		<link rel="alternate" type="text/html" href="/services"/>
+		<published>2006-01-19T10:18:24+00:00</published>
+		<updated>2006-01-19T10:18:24+00:00</updated>
+		<id>/services</id>
+		<author>
+			<name>Avtar Gill</name>
+			<email>agill@ocadu.ca</email>
+		</author>
+		<category term="Top Menu" />
+	</entry>
+</feed>
