@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Inclusive Design Research Centre</ShortName>
+  <Description>The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image type="image/vnd.microsoft.icon" width="16" height="16">https://legacy.idrc.ocadu.ca/templates/idrc_theme/favicon.ico</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://legacy.idrc.ocadu.ca/component/search/?Itemid=65&amp;format=opensearch"/>
+  <Url type="text/html" template="https://legacy.idrc.ocadu.ca/index.php?option=com_search&amp;searchword={searchTerms}"/>
+</OpenSearchDescription>

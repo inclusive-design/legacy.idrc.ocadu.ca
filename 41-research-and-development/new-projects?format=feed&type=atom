@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Welcome to the Frontpage</title>
+	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
+	<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca"/>
+	<id>https://legacy.idrc.ocadu.ca/41-research-and-development/new-projects</id>
+	<updated>2021-03-15T21:11:54+00:00</updated>
+	<author>
+		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
+		<email>no-reply@idrc.ocadu.ca</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://legacy.idrc.ocadu.ca/41-research-and-development/new-projects?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Raising the Floor</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/41-research-and-development/new-projects/404-raising-the-floor"/>
+		<published>2009-05-28T13:59:49+00:00</published>
+		<updated>2009-05-28T13:59:49+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/41-research-and-development/new-projects/404-raising-the-floor</id>
+		<category term="New Projects" />
+	</entry>
+	<entry>
+		<title>Bridging Gaps to Access &amp; Employment</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/41-research-and-development/new-projects/395-bridging-gaps"/>
+		<published>2009-02-17T11:26:35+00:00</published>
+		<updated>2009-02-17T11:26:35+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/41-research-and-development/new-projects/395-bridging-gaps</id>
+		<summary type="html">&lt;p&gt;The Bridging Gaps to Access &amp;amp; Employment in the Entertainment &amp;amp; Media Industries for Persons with Disabilities project focuses on the transfer of knowledge gained in the development and implementation of a uniquely accessible online support system with social networking and an online learning system to an industry where clients with disabilities experience barriers and are underutilized.  An integrated management system and data base for artists will provide a referral service for employment; support casting directors, host online courses, and introduce social networking tools for community building.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;The Bridging Gaps to Access &amp;amp; Employment in the Entertainment &amp;amp; Media Industries for Persons with Disabilities project focuses on the transfer of knowledge gained in the development and implementation of a uniquely accessible online support system with social networking and an online learning system to an industry where clients with disabilities experience barriers and are underutilized.  An integrated management system and data base for artists will provide a referral service for employment; support casting directors, host online courses, and introduce social networking tools for community building.&lt;/p&gt;
+</content>
+		<category term="New Projects" />
+	</entry>
+	<entry>
+		<title>Smart Campus in Your Pocket</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/41-research-and-development/new-projects/324-smart-campus-in-your-pocket"/>
+		<published>2007-05-23T14:02:14+00:00</published>
+		<updated>2007-05-23T14:02:14+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/41-research-and-development/new-projects/324-smart-campus-in-your-pocket</id>
+		<category term="New Projects" />
+	</entry>
+	<entry>
+		<title>CulturAll</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/41-research-and-development/new-projects/323-culturall"/>
+		<published>2007-05-23T13:53:14+00:00</published>
+		<updated>2007-05-23T13:53:14+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/41-research-and-development/new-projects/323-culturall</id>
+		<summary type="html">&lt;a href=&quot;http://culturall.atrc.utoronto.ca/&quot;&gt;&lt;u&gt;&lt;font color=&quot;#0000ff&quot;&gt;CulturAll Network&lt;/font&gt;&lt;/u&gt;&lt;/a&gt; - The CulturAll Network is a national multi-sector network developing innovative approaches, tools and strategies to ensure that everyone in Canada can participate in the Canadian cultural exchange.The CulturAll Network will insure that inclusive design becomes a naturally integrated component of Canadian cultural production and acts as a catalystfor innovation and creativity. Through pioneering exemplars, the network will reaffirm that advances that benefit people with disabilities, benefit all Canadian. </summary>
+		<content type="html">&lt;a href=&quot;http://culturall.atrc.utoronto.ca/&quot;&gt;&lt;u&gt;&lt;font color=&quot;#0000ff&quot;&gt;CulturAll Network&lt;/font&gt;&lt;/u&gt;&lt;/a&gt; - The CulturAll Network is a national multi-sector network developing innovative approaches, tools and strategies to ensure that everyone in Canada can participate in the Canadian cultural exchange.The CulturAll Network will insure that inclusive design becomes a naturally integrated component of Canadian cultural production and acts as a catalystfor innovation and creativity. Through pioneering exemplars, the network will reaffirm that advances that benefit people with disabilities, benefit all Canadian. </content>
+		<category term="New Projects" />
+	</entry>
+	<entry>
+		<title>ISO/IEC adoption of IMS ACCLIP specification</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/41-research-and-development/new-projects/322-isoiec-adoption-of-ims-acclip-specification"/>
+		<published>2007-05-23T13:45:53+00:00</published>
+		<updated>2007-05-23T13:45:53+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/41-research-and-development/new-projects/322-isoiec-adoption-of-ims-acclip-specification</id>
+		<summary type="html">The ATRC participates in activities of international standards and specifications organizations aimed at the development and maintenance of accessibility specifications and standards for e-learning. We are currently participating in the International Organization for Standardization&amp;#39;s (ISO) Joint Technical Council One/Sub-committee 36 (JTC1/SC36) Working Group in order to determine the feasibility of adoption of the IMS accessibility specification, ACCLIP, (Learner Information Package Accessibility for LIP) as an international ISO/IEC standard. Consultation with member countries will be the key factor in achieving the goals of this project. &lt;br /&gt;&lt;em&gt;The Government of Canada provides funding for this initiative.&lt;/em&gt; </summary>
+		<content type="html">The ATRC participates in activities of international standards and specifications organizations aimed at the development and maintenance of accessibility specifications and standards for e-learning. We are currently participating in the International Organization for Standardization&amp;#39;s (ISO) Joint Technical Council One/Sub-committee 36 (JTC1/SC36) Working Group in order to determine the feasibility of adoption of the IMS accessibility specification, ACCLIP, (Learner Information Package Accessibility for LIP) as an international ISO/IEC standard. Consultation with member countries will be the key factor in achieving the goals of this project. &lt;br /&gt;&lt;em&gt;The Government of Canada provides funding for this initiative.&lt;/em&gt; </content>
+		<category term="New Projects" />
+	</entry>
+</feed>

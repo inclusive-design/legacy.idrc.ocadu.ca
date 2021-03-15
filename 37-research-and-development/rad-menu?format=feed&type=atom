@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Welcome to the Frontpage</title>
+	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
+	<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca"/>
+	<id>https://legacy.idrc.ocadu.ca/37-research-and-development/rad-menu</id>
+	<updated>2021-03-15T21:11:40+00:00</updated>
+	<author>
+		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
+		<email>no-reply@idrc.ocadu.ca</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://legacy.idrc.ocadu.ca/37-research-and-development/rad-menu?format=feed&amp;type=atom"/>
+	<entry>
+		<title>ATutor Learning Management System</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/37-research-and-development/rad-menu/477-atutor"/>
+		<published>2013-11-07T20:24:36+00:00</published>
+		<updated>2013-11-07T20:24:36+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/37-research-and-development/rad-menu/477-atutor</id>
+		<author>
+			<name>Avtar Gill</name>
+			<email>agill@ocadu.ca</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;http://www.atutor.ca&quot;&gt;&lt;img src=&quot;http://atutor.ca/images/AT_Logo_1_sm.png&quot; alt=&quot;ATutor Logo&quot; width=&quot;153&quot; height=&quot;46&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong id=&quot;atutor&quot;&gt;&lt;em&gt;ATutor&lt;/em&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;is an Open Source Web-based&amp;nbsp;&lt;/span&gt;&lt;strong&gt;Learning Management System (LMS)&lt;/strong&gt;&lt;span&gt;&amp;nbsp;used to develop and deliver online courses. Administrators can install or update ATutor in minutes, develop custom themes to give ATutor a new look, and easily extend its functionality with feature modules. Educators can quickly assemble, package, and redistribute Web-based instructional content, easily import prepackaged content, and conduct their courses online. Students learn in an accessible, adaptive, social learning environment.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://atutor.github.io/atutor&quot;&gt;ATutor Details&lt;/a&gt; | &lt;a href=&quot;https://atutor.github.io/atutor/demo.html&quot;&gt;Demos&lt;/a&gt; |&lt;a href=&quot;https://atutor.github.io/atutor/downloads.html&quot;&gt; Download&lt;/a&gt; |&lt;a href=&quot;https://atutor.github.io/atutor/docs/index.html&quot;&gt; Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;http://www.atutor.ca&quot;&gt;&lt;img src=&quot;http://atutor.ca/images/AT_Logo_1_sm.png&quot; alt=&quot;ATutor Logo&quot; width=&quot;153&quot; height=&quot;46&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong id=&quot;atutor&quot;&gt;&lt;em&gt;ATutor&lt;/em&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;is an Open Source Web-based&amp;nbsp;&lt;/span&gt;&lt;strong&gt;Learning Management System (LMS)&lt;/strong&gt;&lt;span&gt;&amp;nbsp;used to develop and deliver online courses. Administrators can install or update ATutor in minutes, develop custom themes to give ATutor a new look, and easily extend its functionality with feature modules. Educators can quickly assemble, package, and redistribute Web-based instructional content, easily import prepackaged content, and conduct their courses online. Students learn in an accessible, adaptive, social learning environment.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://atutor.github.io/atutor&quot;&gt;ATutor Details&lt;/a&gt; | &lt;a href=&quot;https://atutor.github.io/atutor/demo.html&quot;&gt;Demos&lt;/a&gt; |&lt;a href=&quot;https://atutor.github.io/atutor/downloads.html&quot;&gt; Download&lt;/a&gt; |&lt;a href=&quot;https://atutor.github.io/atutor/docs/index.html&quot;&gt; Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</content>
+		<category term="R&amp;D Menu" />
+	</entry>
+</feed>

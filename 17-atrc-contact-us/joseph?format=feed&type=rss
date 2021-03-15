@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Welcome to the Frontpage</title>
+		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
+		<link>https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph</link>
+		<lastBuildDate>Mon, 15 Mar 2021 21:12:32 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
+		<item>
+			<title>Joey the Clown</title>
+			<link>https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph/352-joey-the-clown</link>
+			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph/352-joey-the-clown</guid>
+			<description><![CDATA[]]></description>
+			<author>clown@alum.mit.edu (Joseph Scheuhammer)</author>
+			<category>Joseph</category>
+			<pubDate>Tue, 05 Jun 2007 17:48:07 +0000</pubDate>
+		</item>
+		<item>
+			<title>Biography</title>
+			<link>https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph/239-biography</link>
+			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph/239-biography</guid>
+			<description><![CDATA[]]></description>
+			<author>clown@alum.mit.edu (Joseph Scheuhammer)</author>
+			<category>Joseph</category>
+			<pubDate>Thu, 25 May 2006 13:42:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>Musings</title>
+			<link>https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph/164-musings</link>
+			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph/164-musings</guid>
+			<description><![CDATA[<hr />
+<p>From time to time, I get the urge to flesh out some of my ideas and see where they lead. The collection of documents here is the outcome of scratching that itch. In all honesty, the frequency with which I publish something here is low; but check back to see if there is anything to your fancy.</p>
+<h2>Table of Contents</h2>
+<p>Here is a list of links to the documents, and a brief description of each:</p>
+<p><a href="http://www.web4all.ca" title="Web-4-All Smartcard Project">Web-4-All</a></p>
+<p>Web-4-All is a project sponsored by Industry Canada, a ministry of the government of Canada. Industry Canada has its own web site describing Web-4-All, but, to me, it describes the web service end of the project more than the client side. The majority of my work on the project has been on the smartcard/work-station end. So, I thought I would write up <a href="https://legacy.idrc.ocadu.ca/index.php/component/content/article/42-research-and-development/ongoing-projects/163-web-4-all-smartcard-project" title="Web-4-All Smartcard Project">a brief description</a> of that end of things.</p>
+<p><a href="http://clown.idrc.ocad.ca/about/musings/FormContent/index.html" title="Accessibility, Form, and Content">Accessibility, and Separating Form from Content</a></p>
+<p>This truly is a musing, in the sense that I wrote it on a whim. Eventually, it was presented at the <a href="http://www.w3.org/2000/10/DIAWorkshop/statements.html" title="W3C DIA Workshop - Position Statements and Papers">W3C's October, 2000 workshop on web device independent authoring </a>. Gregory Rosmaita presented it on my behalf (thanks again Gregory!).</p>
+<p>On the other hand, this is remarkably old news -- haven't you heard yet? If not, here are the main points of the message:</p>
+<ol>
+<li>HTML is not a formatting language.</li>
+<li>You should use style sheets to handle formatting.</li>
+<li>If you do, you will make your web pages more accessible.</li>
+</ol>
+<p><a href="http://clown.idrc.ocad.ca/about/musings/Events/index.html">Events</a></p>
+<p>This began as a presentation, on behalf of the ATRC, for one of its corporate partners. The partner wanted an explanation of user interface events and their role. I volunteered to talk about two event systems, namely Java's, and the Macintosh model (by now the Classic Macintosh). I started with the Java event system, and then decided that was enough.</p>
+<p>As I reached the end of my notes on Java events, I noticed a new theme emerging. That theme was that even though events, such as mouse clicks, key presses, and so on, are triggers for some change in the user interface, there is almost always a function that the event calls upon to effect the change. At least this appears to be the case with respect to Java.</p>
+<p>I think this is terribly important from the point of view of accessibility. In the past, and even today in some cases, adaptive technology achieves its goals by simulating events. To be concrete: if users save a document by typing "control-s", then the adaptive technology achieves the same result by simulating the control-s key press. To be even more concrete: suppose the user employs a voice recognition system as their adaptive technology. The user intones "save document", and the voice recognition device turns around and simulates the appropriate key press so that save-document functionality is engaged in the word processor it is controlling.</p>
+<p>This is silly -- if the point is to save a document, then invoke the application's save function. Similarly, for other functions of the application. Now, this is not the fault of people who develop adaptive technology. It has worked this way, because, in general, it had to. There was no direct access to an application's functionality.</p>
+<p>This is improving -- witness the Java platform. From a distance, you can think of adaptive technology as a kind of scripting. If applications published their capabilities for outside agents to use, then the agents can direct the application through means other than a mouse and keyboard. The agents no longer simulate events to manage the application. They simply tell the application what to do.</p>
+<hr />
+<p>Copyright © 2002 Adaptive Technology Resource Centre, University of Toronto.<br />Verbatim copying and distribution of this entire article is permitted in any medium, provided this notice is preserved.</p>]]></description>
+			<author>clown@alum.mit.edu (Joseph Scheuhammer)</author>
+			<category>Joseph</category>
+			<pubDate>Mon, 03 Apr 2006 14:33:33 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

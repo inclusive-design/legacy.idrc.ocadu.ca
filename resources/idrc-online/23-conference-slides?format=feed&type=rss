@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>IDRC Online</title>
+		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
+		<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides</link>
+		<lastBuildDate>Mon, 15 Mar 2021 21:03:45 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
+		<item>
+			<title>Conference Slides</title>
+			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/422-conferenceslides1</link>
+			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/422-conferenceslides1</guid>
+			<description><![CDATA[<p>The following links are from recent conference slides</p>
+<ul>
+<li>
+<a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/57-other/conference-slides/444-wabisabi">The Value of Imperfection: The Wabi Sabi Principle in Aesthetics and Learning</a>
+</li>
+<li>
+<a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/57-other/conference-slides/445-themargins">If you want to change the world, look to the margins</a></li>
+<li>
+<a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/57-other/conference-slides/446-floeslides">Flexible Learning for Open Education</a></li>
+
+</ul>]]></description>
+			<category>Conference Slides</category>
+			<pubDate>Thu, 10 Mar 2011 21:21:40 +0000</pubDate>
+		</item>
+		<item>
+			<title>Reaching the widest possible audience</title>
+			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/297-reaching-the-widest-possible-audience</link>
+			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/297-reaching-the-widest-possible-audience</guid>
+			<description><![CDATA[<a name="top"></a>  <h1>Access to Web-based Learning</h1>     Laurie Harrison<br />  University of Toronto<br /><a href="http://www.utoronto.ca/atrc">Adaptive Technology Resource Centre</a><br />    <hr />      This presentation summary contains information about the following six topics:<br />  <ul>	<li> <a href="https://legacy.idrc.ocadu.ca/#intro">Introduction</a>  	</li><li> <a href="https://legacy.idrc.ocadu.ca/#principles">General Principles</a>  	</li><li> <a href="https://legacy.idrc.ocadu.ca/#courseware">Courseware</a>  	</li><li><a href="https://legacy.idrc.ocadu.ca/#convers">Conversions</a>  	</li><li> <a href="https://legacy.idrc.ocadu.ca/#valid">Validation</a>  	</li><li><a href="https://legacy.idrc.ocadu.ca/#concl">Conclusion</a>  </li></ul>      <hr />  <a name="intro"></a>  <h2>Introduction </h2>  <ul><li>The transformative power of computers makes information and education available for the first time to many people with disabilities </li><li>Improved accessibility means improved usability for everyone</li></ul>    <h2>Varied Contexts</h2>  <ul><li>Not be able to see, hear, move  </li><li>Difficulty reading   </li><li>Not using a keyboard or mouse.   </li><li>Text-only screen, a small screen, or a slow Internet connection.   </li><li>Second language  </li><li>Eyes, ears, or hands are busy  </li><li>Older or different browser</li></ul>    <h2>Identifying Barriers</h2>  <ul><li>A picture is worth a thousand words...   </li><li>Those archaic devices - the mouse and keyboard   </li><li>I hear where you\'re coming from (sort of)...   </li><li>When the technological tail wags the pedagogical dog </li></ul>    <h2>Adaptive Technology... </h2>  <ul><li>Screen readers   </li><li>Screen magnification   </li><li>Alternative keyboards   </li><li>Alternative mouse and onscreen keyboard   </li><li>Voice recognition </li></ul>  <p>[ <a href="https://legacy.idrc.ocadu.ca/#top">To Top</a> ]</p>  <h2>One Example: Screen Readers</h2>  <ul><li>Software allows a voice synthesizer to read text from computer screen  </li><li>Relies on keyboard access   </li><li>Can tab through links, use menus for other functions </li></ul>    <h2>Possible Access Barriers</h2>  <ul><li>Improperly used frames   </li><li>Uninformative navigation system  </li><li>Graphics containing critical information  </li><li>Tables cells that contain &quot;wrapped text&quot;</li></ul>  <a name="principles"></a>  <h2>Some General Principles: </h2>  <ul><li>Facilitate alternative rendering of auditory and visual content.   </li><li>The web is an information medium, not a visual medium  </li><li>Do not assume all users have the same preferences for access   </li><li>Consistency and simplicity</li></ul>    <h2>Alternative Text </h2>  <ul><li>Provide alternate text descriptions (ALT-Text) for all graphics and provide text link equivalents for buttons and image maps </li></ul>    <a href="http://snow.utoronto.ca/access/higher/images.html"><br /></a>  <p align="center">[ <a href="https://legacy.idrc.ocadu.ca/#top">To Top</a> ] </p>  <h2>Optimize Readability</h2>  <ul><li>Avoid use of background patterns   </li><li>Background colour should contrast well with the lettering  </li><li>Avoid moving, animated elements</li></ul>    <a href="http://snow.utoronto.ca/access/higher/fixit.html"><br /></a><a href="http://snow.utoronto.ca/access/higher/fixed.html" />        <h2>Optimize Navigation </h2>  <ul><li>Include outlines at the beginning of long documents   </li><li>Label and structure lists carefully  </li><li>Avoid using &quot;click here&quot; as link text</li></ul>    <a href="http://snow.utoronto.ca/access/higher/structure.htm"><br /></a>  <h2>Frames</h2>  <ul><li>Use frames sparingly and include TITLE and NOFRAMES attributes     </li><li>TITLE provides a navigation aid  </li><li>NOFRAMES provides an alternative</li></ul>  <a href="http://hem.passagen.se/ceel/frames/frames.htm">Example - Incorrect use of FRAMES</a>     <h2>Tables</h2>  <ul><li>Avoid use of table cells for layout of wrapping text unless a linearized version is available  </li><li>Review effective table layout strategies  </li><li>Use CSS where possible </li></ul>    <a href="http://www.websavvy-access.org/resources/css/tablepage.shtml">Example</a>    <h2>Multimedia</h2>  <ul><li>For multimedia or other dynamic components, provide alternative content in case active features are inaccessible or unsupported   (AKA Plan B) </li></ul>    <a href="http://ots.utoronto.ca/otspromo.html">Example</a>  <p align="center">[ <a href="https://legacy.idrc.ocadu.ca/#top">To Top</a> ] </p>  <a name="courseware"></a>  <h2>Web based learning on the rise... </h2>  <ul><li>dramatically increasing number of Web-based courses  </li><li>spurred a growing industry of &quot;courseware&quot; tools to assist educators  </li><li>courseware also used to complement traditional lecture-based programs</li></ul>    <h2>Examples: </h2>  <ul><li>WebCT, TopClass, CourseInfo, Virtual-U, Lotus Learning Space, Web Course in a Box     </li><li>framework for curriculum, utilities and class management tasks    </li><li>assembles HTML pages created by instructor - into an organized framework</li></ul>    Problem #1:  <ul><li>instructor may post web pages authored outside of the courseware package, unaware of potential barriers to access</li></ul>    <h2>Automation? </h2>  <ul><li>step-by-step guides create components - course home page, bulletin boards, quizzes</li></ul>     Problem #2:  <ul><li>automation of utilities is efficient for course designers, but reduces control of final formatting of the HTML pages generated by the courseware product itself</li></ul>    <h2>Potential... </h2>  <ul><li>courseware platforms could easily facilitate access to education for students with disabilities  </li><li>ironically, very few have included basic accessibility considerations outlined in the WAI guidelines</li></ul>    <h2>Product Evaluation</h2>  <ul><li>in 1999, ATRC published an evaluation of six leading courseware products  </li><li>reviewed student user interface  </li><li>accessibility and functionality need to be considered</li></ul>    <h2>Strengths... some products</h2>  <ul><li>include text links  </li><li>include ALT text  </li><li>provide ability to turn frames off  </li><li>have potential &quot;work arounds&quot; to improve accessibility</li></ul>    <h2>Weaknesses... some products</h2>  <ul><li>missing ALT text on icons  </li><li>tables to format layout of text  </li><li>complex drop-down menus   </li><li>framed navigation system  </li><li>complex bulletin board system  </li><li>java-based tools</li></ul>    <h2>Results</h2>  <ul><li>results indicated at that time that none of the products tested were satisfactory  </li><li>need to advocate! </li></ul>    <h2>Trends</h2>  <ul><li>Courseware developers are now scrambling to improve accessibility  </li><li>Rehab Act compliance, ADA pressure  </li><li>New versions released since review showing improvements:   </li><li>Lotus Learning Space  </li><li>WebCT  </li><li>CourseInfo</li></ul>    <h2> &quot;<a href="http://snow.utoronto.ca/initiatives/access_study/inclusion.html">Inclusion in an Electronic Classroom</a>&quot; </h2>  <ul><li>ATRC is now undertaking an expanded courseware accessibility review  </li><li>Most recent versions  </li><li>Including user testing    </li><li>Results - Fall of 2000    <p align="center">[ <a href="https://legacy.idrc.ocadu.ca/#top">To Top</a> ] </p>  </li></ul>  <h2>Best Practice #1</h2>  <ul><li>If possible use templates to encourage correct use of HTML structures  </li><li>then validate HTML files and check for accessibility before adding to the course content</li></ul>    <h2>Best Practice #2</h2>  <ul><li>buttons and image maps can be made accessible by adding text link equivalents  </li><li>may be added as page footer  </li><li>may be added by &quot;workaround&quot;</li></ul>    <h2>Best Practice #3</h2>    <ul><li>avoid reliance on frames  </li><li>look for optional use of frames when choosing courseware package  </li><li>or provide a fallback / alternative</li></ul>    <h2>Best Practice #4</h2>    <ul><li>provide a site map linked near top of home page  </li><li>may be automatically generated, or constructed by author</li></ul>    <h2>Best Practice #5</h2>    <ul><li>build alternative communication tools:   </li><li>if tools such as bulletin boards or chat utilities are not accessible construct tools external to the course software until such time as the courseware developer is able to provide them. </li></ul>  <p align="center">[ <a href="https://legacy.idrc.ocadu.ca/#top">To Top</a> ] </p><a name="convers"></a><h2>Conversions</h2>  <li>Word processed documents may be &quot;converted&quot; to HTML.  </li><li>While the software marketing promotions make it all sound easy, be aware of possible creation of barriers to access.     <h2>Conversion Demonstration</h2>  <ul><li>Open word document   </li><li>File : Save as HTML    </li><li>Close and re-open in Browser</li></ul>    Potential Barriers to Access:  <ul><li>No ALT  </li><li>Hyperlinks are not linked  </li><li>Incorrect TITLE</li></ul>  <h2>Dreamweaver 3.0 &quot;Clean-up...&quot;</h2>  <ul><li>Dreamweaver 3.0 HTML editor includes a function to:  </li><li>&quot;Clean up HTML&quot;  </li><li>&quot;Clean up Word HTML&quot;</li></ul>    <h2>Alternatives to Word Conversion</h2>  <ul><li>Instructors submit MSWord documents, which are copy/pasted into HTML documents by a web author  </li></ul>  OR  <ul><li>Instructors are trained to fill in HTML templates that are provided to them as guidelines</li></ul>    <h2>What about PDF files? </h2>  <ul><li>Graphics and complex layouts can be problematic  </li><li>Navigability depends on how it was created    </li><li>http://access.adobe.com conversions?  </li><li>Acrobat Access plug-in? </li></ul><p align="center">[ <a href="https://legacy.idrc.ocadu.ca/#top">To Top</a> ] </p>  <a name="valid"></a>  <h2>Validation</h2>  </li><li>Automated validation is available using the following tools:    <ol><li><a href="http://validator.w3.org/">HTML 4 Validator from W3C </a><br />    - checks HTML documents for compliance with W3C HTML  recommendations and other HTML standards.      </li><li> <a href="http://www.cast.org/bobby">BOBBY Online Validation</a>  (CAST)<br /> - Bobby is a web-based public service offered by CAST that analyzes web pages for their accessibility to people with disabilities as well as their compatibility with various browsers. The analysis of accessibility is based on the W3C\'s WAI Page Author Guidelines. </li><li><a href="http://aprompt.snow.utoronto.ca/">A-Prompt Toolkit.</a><br /> - developed to assist Web authors in improving HTML documents by checking Web pages for barriers to accessibility and making repairs<br />  - Beta version can be downloaded free of charge and used to validate and repair your Web pages according to WAI guidelines.  </li></ol>  <h2>Integrating Automation</h2>  </li><li>The toolkit will be produced as a integrated module that can be used by developers of conventional authoring (courseware) tools.    </li><li>A-Prompt also includes tools to fix a wide array of other HTML accessibility problems:  </li><li>Blinking text  </li><li>Improper header structures    </li><li>A summary indicates the conformance level of the markup to the WAI Web Content Guidelines.  <a name="concl"></a>  <h2>The Accessibility Challenge</h2> &quot;Accessibility is the challenge that will finally push the Web to become the ubiquitous tool for interactive knowledge sharing it was meant to be. Creating an environment which is welcoming to billions of users with widely varying motivations, capabilities and needs is not a fringe goal but the critical goal. Inclusive design will not hamper the speed of web development, instead it will stretch the envelope and guide the rapid growth of a truly useful World Wide Web.&quot; <br />Quote at WWW7, Jutta Treviranus    <p align="center">[ <a href="https://legacy.idrc.ocadu.ca/#top">To Top</a> ] </p>  </li>]]></description>
+			<author>agill@ocadu.ca (Avtar Gill)</author>
+			<category>Conference Slides</category>
+			<pubDate>Fri, 23 Jun 2006 10:57:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>More Links to Conference Slides</title>
+			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/conference-slides</link>
+			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/conference-slides</guid>
+			<description><![CDATA[<p>&nbsp;</p>
+<p><a href="http://fsoss.senecac.on.ca/2007/presentationDetails.php?presentationID=38">Accessible Rich Internet Applications </a>- presented at FSOSS '07&nbsp;Conference, Toronto 2007</p>
+<p><a href="http://wiki.fluidproject.org/display/fluid/Presentations">An Introduction to the Fluid Project</a> - presented at the Sakai Conference, Amsterdam 2007</p>
+<p><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/282-design-exchange-presentation">Design Exchange Presentation</a>&nbsp;- Universal Web Design<br />Presented by the Adaptive Technology Resource Centre as part of the <a href="http://www.dx.org/universal/">Design Exchange’s Universal Design Series</a><br />Tuesday, May 24, 2005</p>
+<p>"Courseware Accessibility - The Saga Continues" Assistive Technology in Higher Education Conference, Boulder Colorado <br />November 2001<br /><br />Web Access - Evaluation and Repair Tools and Utilities Assistive Technology in Higher Education Conference, Boulder Colorado <br />November 2001<br /><br />Accessible Web Design - Beyond ALT Text&nbsp;September 2001&nbsp; <br /><br /><a href="https://legacy.idrc.ocadu.ca/57-other/conference-slides/168-high-technology-for-aging-vision">High Technology for Aging Vision </a>July 2001</p>
+<p><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/298-inclusion-in-an-electronic-classroom">Inclusion in an Electronic Classroom: The Role of the Courseware Authoring Tool Developer:</a>&nbsp;Presented at CSUN Conference 2001<br /><br /><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/98-access-to-web-based-special-education">Access to Web-based Special Education</a>&nbsp;Conference Boulder Colorado November 15 - 17, 2000<br /><br /><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/292-the-instructional-environment">The Instructional Environment: Optimizing Access to Web-Based Learning Resources Presented at AHEAD Conference</a>&nbsp;July 15, 2000<br /><br /><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/90-building-accessible-curriculum-and-courseware-tools-education-beyond-the-campus-2000">Building Accessible Curriculum and Courseware Tools - Education Beyond the Campus (2000)</a>&nbsp;Presented at CSUN 2000 Conference<br /><br /><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/297-reaching-the-widest-possible-audience">Are You Reaching the Widest Audience?</a>&nbsp;Published August 99 - Design Shops</p>
+<p><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/296-accessing-the-future">Accessing the Future</a>&nbsp;Published August 99 - Design Shops&nbsp;<br />Linda Petty, University of Toronto, Adaptive Technology Resource Centre, Vision Technology Service <br />Conference Presentation on Technology for the Aging, 2001<br /><br /><a href="https://legacy.idrc.ocadu.ca/57-other/conference-slides/169-web-accessibility-access-to-information-exchange-in-the-workplace">Web Accessibility: Access to Information Exchange in the Workplace</a> Presented at the Wellsizing Conference 2000<br />By Jutta Treviranus<br /><br /><a href="https://legacy.idrc.ocadu.ca/57-other/conference-slides/170-how-to-teach-over-the-web-accessibly">How To Teach Over The Web, Accessibly </a>Presented at the CSUN Conference - March 21, 2000<br />By Laurie Harrison, Jan Richards, and Jutta Treviranus<br /><br /><a href="https://legacy.idrc.ocadu.ca/57-other/conference-slides/174-finding-funding-sources">Finding Funding Sources</a>&nbsp;Presented by Jutta Treviranus at SETTT 1998, Toronto, Ontario.</p>
+<p><a href="https://legacy.idrc.ocadu.ca/57-other/conference-slides/230-future-trends-emerging-technologies-and-students-with-special-needs">Future Trends, Emerging Technologies and Students with Special Needs</a>&nbsp;Presented by Jutta Treviranus at SETTT 1998, Toronto, Ontario.<br /><br /><a href="https://legacy.idrc.ocadu.ca/57-other/conference-slides/231-meshing-technology">Meshing Technology</a>Presented at Closing the Gap 17th Annual Conference, Minn. MN, Oct21 1999By Linda Petty, OT Clinical Specialist, ATRC</p>
+<p><a href="https://legacy.idrc.ocadu.ca/57-other/conference-slides/232-getting-it-all-together-to-take-it-on-the-road">Getting it all together to take it on the road</a> Presented by Linda Petty in October 1998 at the Pre-conference workshops at Closing the Gap, Minn. MN.</p>
+<p><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/233-client-centered-outcome-measures">Client Centered Outcome Measures </a>Presented by Linda Petty in September 1998 at Canadian Seating and Mobility Conference, Toronto ON.<br /><br /><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/235-alternative-access-to-the-internet">Alternative Access to the Internet </a>Presented by Linda Petty in June 1998 at the pre-conference workshops, RESNA, Minn. MN, June.<br /><br /><a href="https://legacy.idrc.ocadu.ca/57-other/conference-slides/236-nimble-document-navigation-using-alternative-access-tools">Nimble Document Navigation Using Alternative Access Tools</a>&nbsp;(Presented at WWW6, Santa Clara, April 9th, 1997)Jutta Treviranus</p>
+<p><a href="https://legacy.idrc.ocadu.ca/57-other/conference-slides/237-web-browsing-through-adaptive-technology-a-consumer-information-resource">Web Browsing through Adaptive Technology: A Consumer Information Resource (April 1996)</a>&nbsp;(Presented at WWW6, Santa Clara, April 9th, 1997)Kevin Nguyen</p>
+<p><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/238-access-to-online-catalogs-and-electronic-documents">Access to Online Catalogs and Electronic Documents</a>&nbsp;(Presented at the American Library Association Annual Conference, New York, July 4-10, 1996) Jutta Treviranus</p>
+<p>&nbsp;</p>]]></description>
+			<category>Conference Slides</category>
+			<pubDate>Mon, 23 Jan 2006 11:21:43 +0000</pubDate>
+		</item>
+		<item>
+			<title>Access to Online Catalogs and Electronic Documents</title>
+			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/238-access-to-online-catalogs-and-electronic-documents</link>
+			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/238-access-to-online-catalogs-and-electronic-documents</guid>
+			<description><![CDATA[]]></description>
+			<category>Conference Slides</category>
+			<pubDate>Wed, 24 May 2006 14:28:30 +0000</pubDate>
+		</item>
+		<item>
+			<title>Accessing the Future</title>
+			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/296-accessing-the-future</link>
+			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/296-accessing-the-future</guid>
+			<description><![CDATA[ <!--::field::date::-->Just when you thought Internet standards might be on the brink of some convergence, a new generation of technologies&mdash;smart phones, wireless PDAs, car PCs, text-to-speech and voice recognition&mdash;is appearing on the scene, giving Web developers something else to worry about.   <p>Despite not knowing what the future holds for Web access, you can apply some basic principles that will make it more likely that your pages will be usable by any device.</p>  <p>World Wide Web inventor and current World Wide Web Consortium (W3C) director, Tim Berners-Lee, coined the term <a href="http://www.w3.org/Talks/1998/0415-Evolvability"> &quot;evolvability&quot;</a> to describe the approach we need to adopt to move the Web successfully into the future, and ensure maximum usability. Evolvability, he says, is the ability to evolve easily, to harmonize technology and human organization. Another term, &quot;futureproofing,&quot; refers to developing Web resources beyond pages that cater only to mainstream browsers on conventional desktop systems. Instead, Web authors need to assume that their designs will become part of a larger information infrastructure.</p>   <p>Several principles for futureproofing sites also happen to make sites more accessible to the growing number of Web users with disabilities. In fact, the University of Wisconsin&#39;s Trace Research and Development Center Refers to this process as &quot;universal design&quot; because the principles will make your pages usable by people in a noisy shopping mall who cannot hear a kiosk, people who are driving their car who must operate their radio or phone without looking at it, people who left their glasses in their room, people who are getting older, people with disabilities, and anybody.</p>    <p>Those principles include tagging a site according to its structure, rather than according to how the designer intends to have it appear on screen, and separating a document&#39;s content from its structure.</p>     <h4>Tag by Structure, not by Looks</h4>  <p>HTML is designed so that structural tags, such as &lt;P&gt;, &lt;STRONG&gt;, &lt;H1&gt;, and &lt;BLOCKQUOTE&gt; give information about a page&#39;s logical organization. So, a heading tag represents not simply something larger and in boldface, but a separate section of a given level in the document, a blockquote refers to a quote, and not merely an indented paragraph. The structure could be represented visually, as in the example of large size, bold font to indicate a Level 1 heading, but it also could be interpreted using pitch or volume if a smart phone were to interpret the same information. In addition, using a tag for something other than its purpose, such as using a &lt;BLOCKQUOTE&gt; tag for indentation could be confusing to users who are accessing the page using an audio device such as a smart phone or text-to-speech software.</p>  <p>This allows Web site visitors to review information using new technologies. Visitors can access the data and its structure using a traditional Web browser, a palmtop computer, or a telephone audio browser. Making the site evolvable into this broader information infrastructure particularly benefits Web users with disabilities who may depend on hands-free or eyes-free access using specialized software, such as a screen reader or voice-activated browser. So, forward-thinking designers will use structural elements in HTML to organize the information, and not to achieve visual effects.</p>   <h4>Separating Content from Presentation </h4>  <p>Another good way to make your Web site evolvable is to separate the content from the presentation. That way, different devices can interpret the structural elements as is most appropriate, but the content will be equally accessible no matter which device is being used to read it. In addition, it gives designers the freedom to adjust the appearance of the page while still using the tags for their designed purpose, making them readable to devices other than a PC with a monitor. By separating pretty visual effects from structural organization, you can simplify and clean up the HTML in your documents and make them more accessible at the same time. Techniques for separating content from presentation include using Cascading Style Sheets and using XML.</p>  <p>Because users can override style sheet specifications, you can use style sheets to specify the appearance and sound of pages without making the page unusable to people with older browsers or accessing the Web using devices other than a PC and monitor. Not only can users specify their own visual style sheet settings, but the W3C has come up with audio style sheet specifications.</p>  <p>Style sheets are just one way of separating content structure from presentation in Web technologies and standards; other new developments from the W3C include XML and XSL.</p>   <p>Because XML is flexible, giving developers both a syntax to describe elements and the tools to create their own standards for structuring information. Device manufacturers can build equipment that interprets these XML subsets. One such subset is Motorola&#39;s VoxML, which will work with audio devices, such as car-based PCs and smart phones. Languages like these will also help computer users with disabilities, who may prefer telephone browsing or using voice input to navigate the Web.</p>  <p>All of us can prepare for a future that includes more accessible Web technologies by creating our pages using clean, standards-compliant HTML code. The more adventurous can experiment with XML, and learn the new thinking of the Web. All of these strategies will improve the usability of the Internet by allowing information in a document to be transformed into a language or presentation format that anyone can access&mdash;now and in the future. </p>   ]]></description>
+			<author>agill@ocadu.ca (Avtar Gill)</author>
+			<category>Conference Slides</category>
+			<pubDate>Fri, 23 Jun 2006 10:51:12 +0000</pubDate>
+		</item>
+		<item>
+			<title>Accessing Information With Style:Cascading Style Sheets on the WWW</title>
+			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/216-accessing-information-with-stylecascading-style-sheets-on-the-www</link>
+			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/216-accessing-information-with-stylecascading-style-sheets-on-the-www</guid>
+			<description><![CDATA[<div>presented by</div>
+<p>Jim Allan &amp; Jutta Treviranus</p>
+<h2>1. Introduction</h2>
+<ul>
+<li>Presentors
+<ul>
+<li>Jim Allan, Statewide Technical Support Specialist<br /> Texas School for the Blind and Visually Impaired<br /> 1100 W. 45th St.<br /> Austin, Texas 78756<br /> TEL: 512-206-9315 FAX: 512-458-3395<br /> EMAIL: <a href="mailto:allan_jm@tsb1.tsbvi.edu">allan_jm@tsb1.tsbvi.edu</a><br /> Website: <a href="http://www.tsbvi.edu/">http://www.tsbvi.edu</a></li>
+<li>Jutta Treviranus, MANAGER <br /> Adaptive Technology Resource Centre <br /> University of Toronto <br /> First Floor <br /> 130 St. George St. <br /> Toronto, Ontartio <br /> Canada M5S 3H1 <br /> TEL: (416) 978-5240 FAX: (416) 971-2896 <br /> EMAIL: <a href="mailto:jutta.treviranus@utoronto.ca">jutta.treviranus@utoronto.ca</a> <br /> Website: <a href="http://www.utoronto.ca/atrc/">http://idrc.ocad.ca</a></li>
+</ul>
+</li>
+</ul>
+<h2>2. What are cascading style sheets?</h2>
+<p>A simple mechanism for specifying style (e.g. fonts, colors, spacing, etc.) for web documents.</p>
+<ul>
+<li>Separating presentation from content and structure!</li>
+<li>Types of style sheets
+<ul>
+<li>embeded</li>
+<li>linked</li>
+<li>inline</li>
+<li>imported</li>
+</ul>
+</li>
+<li>Who has control (designer vs. viewer)?</li>
+<li>What does cascading mean?
+<ul>
+<li>nesting</li>
+<li>inheritence</li>
+<li>aggregrate styles</li>
+<li>graceful degradation</li>
+</ul>
+</li>
+</ul>
+<h2>3. Benefits of CSS</h2>
+<ul>
+<li>For the author
+<ul>
+<li>author control of: color, typography, element placment (margins, indents, drop caps, leading)</li>
+<li>cleaner coding, no longer need HTML workarounds: e.g., one-pixel GIFS, invisible table borders, invisible text for spacing</li>
+<li>quick and easy style changes to an entire site</li>
+<li>rather than designing to "lowest" common denominator can accomodate multiple views</li>
+<li>can expoit ready to use style sheets</li>
+<li>authors can concentrate on content and structure and use existing style sheets to make pages look good</li>
+</ul>
+</li>
+<li>For the user
+<ul>
+<li>authors can code better. Less HTML tricks = better accessibility
+<ul>
+<li>no more tables used to format a page</li>
+<li>less need for graphic headlines or other graphics with text</li>
+</ul>
+</li>
+<li>control over YOUR preferences: color, typography, element placment (margins, indents, drop caps, leading)</li>
+<li>presentation of pages based on your access needs: using aural style sheets (ACSS), or braille style sheets (when it is developed)</li>
+<li>may improve printing</li>
+</ul>
+</li>
+</ul>
+<h2>4. Browser Support of CSS</h2>
+<ul>
+<li>Internet Explorer 3.01, 4.x</li>
+<li>Netscape Communicator 4.x</li>
+<li>Opera (Europe)</li>
+<li>Sensus (soon to be released)</li>
+<li>pwWebspeak</li>
+<li>Emac Speak (Unix)</li>
+</ul>
+<h2>5. Authoring Tool Support of CSS</h2>
+<ul>
+<li><a href="http://www.w3.org/Style/css/#editors">http://www.w3.org/Style/css/#editors</a></li>
+<li><a href="http://www.microsoft.com/truetype/css/gallery/cssinf5.htm">http://www.microsoft.com/truetype/css/gallery/cssinf5.htm</a></li>
+<li>levels of support</li>
+</ul>
+<h2>6. Implications for Users with Various Disabilities</h2>
+<ul>
+<li>low vision
+<ul>
+<li>text size</li>
+<li>link text color</li>
+<li>line spacing</li>
+<li>indent</li>
+<li>text and background color</li>
+<li>table cell layout and format</li>
+<li>thicken anchored IMG borders</li>
+</ul>
+</li>
+<li>Braille- <a href="http://www.w3.org/WAI/PF/braillecss.html">BrailleCSS Action Item: Requirements Document</a> by the World Wide Web Consortium (W3C)</li>
+<li>Audio- <a href="http://www.w3.org/TR/CSS2/aural.html">Aural Cascading Style Sheets (ACSS)</a> Draft proposal concerning the aural (auditory) presentation of web based materials.</li>
+<li>Physical Disability
+<ul>
+<li>link size</li>
+<li>spacing</li>
+</ul>
+</li>
+</ul>
+<h2>7. How to Write a CSS</h2>
+<ul>
+<li>- using a text editor</li>
+<li>- example utility -LPCSS editor</li>
+<li>- CSS checker</li>
+</ul>
+<h2>CSS Resources</h2>
+<ul>
+<li><a href="http://www.w3.org/pub/WWW/Style/">Web Style Sheets</a> - style sheet information from the W3C. Good example of style usage. Excellent source of latest information and tools.</li>
+<li><a href="http://www.endoframe.com/css/ie3.html">CSS1 support in Microsoft Internet Explorer 3</a> - the title says it all.</li>
+<li><a href="http://wdvl.internet.com/Quadzilla/StyleSheets/">D.J. Quad's Ultimate Style Sheets Tutorial</a> - basic introduction to style sheet</li>
+<li><a href="http://www.w3.org/Style/CSS/">CSS - Cascading Style Sheets</a> - a list of articles related to style sheets by builder.com</li>
+<!--
+<li><a href="http://www.zdnet.com/pcmag/iu/toolkit/stylesheets.htm" _mce_href="http://www.zdnet.com/pcmag/iu/toolkit/stylesheets.htm">PC Magazine\'s InternetUser - Internet Toolkit (Internet Search: Style Sheets)</a> - list of articles by Ziff-Davis, and other resources. </li>
+-->
+<li><a href="http://www.devx.com/projectcool">Project Cool Developer Zone tutorials</a> - warning! frames. reference of style tags, browser implementation, and examples</li>
+<!--
+<li><a href="http://www.peavine.com/CSS/style.html" _mce_href="http://www.peavine.com/CSS/style.html">Style Sheet Resource Centre</a> - page of links to CSS information, sample style sheets, includes an unused discussion forum. </li>
+-->
+<li><a href="http://www.blooberry.com/indexdot/css/index.html">Style Sheets Guide Index Page</a> - comprehensive site(refers to IE3beta1)</li>
+<li><!-- <a href="http://www.mcp.com/hayden/internet/style/" _mce_href="http://www.mcp.com/hayden/internet/style/"> --> Web Designer's Guide to Style Sheets - website for book by the same name. Author: Steven Mulder. ISBN: 1-56830-306-8.</li>
+<li><a href="http://www.htmlhelp.com/reference/css/">Web Design Group -- Cascading Style Sheets</a> - excellent site, tutorial, structure and rules, properties, references, and a style sheet syntax checker.</li>
+<li><a href="http://www.htmlhelp.com/tools/csscheck/">CSSCheck, a Cascading Style Sheets Lint</a> - check any style sheet for proper syntax, and compatibility with browsers</li>
+<li><a href="http://msdn.microsoft.com/en-us/library/ms531205%28VS.85%29.aspx">Microsoft -- User's Guide to Style Sheets</a> - links to many documents related to style sheets and Microsoft products.</li>
+<li><a href="http://www.useit.com/alertbox/9707a.html">Effective Use of Cascading Style Sheets (Alertbox July 1997)</a> - good philosopy from Jakob Neilson.</li>
+<!--
+<li><a href="http://www.amazon.com/exec/obidos/ISBN=020141998X/useitcomusableinA/1000-3091186-351878" _mce_href="http://www.amazon.com/exec/obidos/ISBN=020141998X/useitcomusableinA/1000-3091186-351878">Cascading Style Sheets : Designing for the Web</a> - a book recomended by Jakob Neilson. Link takes you to Amazon Books site for ordering and reviews.</li>
+-->
+<li><a href="https://legacy.idrc.ocadu.ca/news:comp.infosystems.www.authoring.stylsheets">news:comp.infosystems.www.authoring.stylsheets</a> - usenet newgroup focusing on style sheets</li>
+<li><a href="http://www.w3.org/2009/cheatsheet/">W3C Cheat Sheet</a> - searchable application for HTML, JavaScript, CSS, SVG, XPath</li>
+<li><a href="http://www.meyerweb.com/eric/css/">Eric Meyer: CSS</a> - Eric Meyer's page about style sheets.</li>
+<li><a href="http://interaction.in-progress.com/cascade/index?id%3D8963753">Cascade</a> - CSS editor for the Macintosh</li>
+</ul>
+<h2>FREE Demonstration Software</h2>
+<ul>
+<li>A copy of the Large Print CSS Editor software that was demonstrated during this presentation is now available at: <a href="http://www.utoronto.ca/atrc/rd/css/CSSedit.zip">CSSedit.zip</a></li>
+</ul>]]></description>
+			<category>Conference Slides</category>
+			<pubDate>Thu, 27 Apr 2006 10:27:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>The Instructional Environment</title>
+			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/292-the-instructional-environment</link>
+			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/292-the-instructional-environment</guid>
+			<description><![CDATA[<h1><font face="ariel">The Instructional Environment:<br /> Optimizing Access to Web-Based Learning Resources</font></h1>  <hr />   <h2><font face="ariel">Laurie Harrison<br /> Adaptive Technology Resource Centre<br /> University of Toronto</font></h2><h2> Presentation Notes:   </h2> <hr />  <h2>http://snow.utoronto.ca/access/ud</h2><p>&nbsp;</p><h2> The Universal Design Opportunity:  </h2> <hr />  <ul><li> Shift has occurred in the design of information technology as transformability is now being mainstreamed to enable a multi-modality architecture </li></ul><br /><h2> Varied Demands:</h2> <hr />  <ul><li><strong>Transformability </strong><ul><li>user preferences (hardware and software) </li><li>institutional preferences (evolving delivery systems) </li></ul> </li><li><strong>Usability  </strong><ul><li>translateability </li><li>indexibility </li><li>re-purposing learning objects</li></ul></li></ul><br /><h2> Challenges in Universal Design:</h2> <hr />  <ul><li> obtaining an overview and determining the structure of the material  	</li><li> orienting and moving to desired sections of the information or interface 	</li><li> obtaining translations of graphically / aurally presented information  </li></ul><br /><h2> General Principles: Multi- Modality </h2> <hr />  <ol><li> Web as an information medium, not a visual medium  	</li><li> Facilitate alternative rendering of content (ie auditory &amp; visual)  	</li><li> Accommodate user preferences for access  </li></ol><br /><h2> Some Examples: </h2> <hr />  <ol><strong> 	</strong><li><strong>Web as an information medium, not a visual medium:<br /> Cascading Style Sheets</strong>   </li></ol><br /><ul><strong>2. Alternative rendering:  <br /> Multimedia using SMIL and Real G2 Player</strong><ul><li>Allows rendering in varied modalities, depending on user preferences </li><li>Captioning, Descriptive Video, Languages</li></ul></ul><br /><ul><strong>3. Accommodating User Preferences:  <br /> WebCT: A Case Study... </strong><ul><li>A before and after look at a courseware interface, modified for accessibility enhancement </li></ul></ul>  <table border="1" cellspacing="0" cellpadding="4" width="75%" summary=" a comparison of features of an accessible an inaccessble course web site"> 	<tbody><tr> 		<!-- Row 1 Column 1 --> 		<td> 			<a href="https://legacy.idrc.ocadu.ca/component/content/?task=view&amp;id=293&amp;Itemid=49"><strong> 				</strong></a><strong>Inaccessible Course Home Page 			</strong>  		</td> 		<!-- Row 1 Column 2 --> 		<td> 			<strong> 			<a href="https://legacy.idrc.ocadu.ca/component/content/?task=view&amp;id=294&amp;Itemid=49">Accessible	 Course Home Page</a>		</strong> 		</td> 	</tr> 	<tr> 		<!-- Row 2 Column 1 --> 		<td> 		 <ul><li> Graphical Banner Title 	</li><li> Icons have no ALT text 	</li><li> Frames only 	</li><li> Orientation (&quot;Click here&quot;) 	</li><li> Text in visual columns </li></ul>  	 		</td> 		<!-- Row 2 Column 2 --> 		<td> <ul><li> Selectable Text 	</li><li> Icons have ALT text 	</li><li> Frames or No Frames 	</li><li> Meaningful text  	</li><li> Linearizes </li></ul>  		</td> 	</tr> </tbody></table><br /><h2>Web based learning on the rise...</h2>  <hr /> <ul><li> dramatically increasing number of Web-based courses<p>&nbsp;</p></li><li> spurred a growing industry of &quot;courseware&quot; tools to assist educators<p>&nbsp;</p></li><li> courseware also used to complement traditional lecture-based programs </li></ul><br /><h2>Examples:</h2>  <hr /> <ul><li> <strong>WebCT, TopClass, CourseInfo, Virtual-U, Lotus Learning Space, Web Course in a Box </strong>	 	</li><li> framework for curriculum, utilities and class management tasks 	 	</li><li> assembles Web pages created by instructor - into an organized framework 	 	</li><li> step-by-step guides create components - course home page, bulletin boards, quizzes </li></ul><br /><h2>Potential...</h2>  <hr /> <ul><li> courseware platforms could easily facilitate access to education for students with disabilities 	</li><li> ironically, very few have included basic accessibility considerations  </li></ul><br /><h2>Trends </h2>  <hr /> <ul><li> Courseware developers are now scrambling to improve accessibility 	</li><li> Rehab Act compliance, ADA pressure 	</li><li> New versions showing improvements:  <ul><li> WebCT 	</li><li> CourseInfo </li></ul></li></ul><br /><h2>Useful Design Strategies </h2>  <hr /> <ul><li> Intuitive, logical, consistent structure  	</li><li> Navigation / location information 	</li><li> Resource overviews 	</li><li> Options for more or less detail  	</li><li> Context sensitive help  </li></ul><br /><h2>Best Practices</h2><ul><li> Use non-proprietary formats (open standards such as SMIL, HTML&hellip;) 	</li><li> Provide standards, guidelines and templates 	</li><li> Provide combination support in instructional design / accessible design to instructors/faculty</li></ul>   <h2>  </h2>   <hr /> <br /> <h2>What about PDF files?  </h2>   <hr /> <ul><li> Graphics and complex layouts can be problematic 	</li><li> Navigability depends on how it was created</li></ul>  <p>&nbsp;</p><h2>Validation   </h2>  <hr /> <strong>Automated validation is available using the following tools:</strong>  <strong>1. BOBBY Online Validation  (CAST)</strong>  <ul><li> Bobby is a web-based public service offered by CAST that analyzes web pages for their accessibility to people with disabilities as well as their compatibility with various browsers. The analysis of accessibility is based on the W3C&#39;s WAI Page Author Guidelines. <strong>http://www.cast.org/bobby </strong></li></ul><br /><h2>Validation   </h2>  <hr /> <strong>Automated validation is available using the following tools:</strong>  <strong>1. BOBBY Online Validation  (CAST)</strong>  <ul><li> Bobby is a web-based public service offered by CAST that analyzes web pages for their accessibility to people with disabilities as well as their compatibility with various browsers. The analysis of accessibility is based on the W3C&#39;s WAI Page Author Guidelines. <strong>http://www.cast.org/bobby </strong></li></ul><br /><h2>Validation   </h2>  <hr /> <strong>Automated validation is available using the following tools:</strong>  <strong>1. BOBBY Online Validation  (CAST)</strong>  <ul><li> Bobby is a web-based public service offered by CAST that analyzes web pages for their accessibility to people with disabilities as well as their compatibility with various browsers. The analysis of accessibility is based on the W3C&#39;s WAI Page Author Guidelines. <strong>http://www.cast.org/bobby </strong></li></ul><br /><h2>The Accessibility Challenge </h2> <hr />  <ul><li>The need for a more transformable and usable Internet, increasing accessibility for all users, will be a driving force in the shaping of the future development of learning resources on the Web.</li></ul><br /><br /><br /><p>&nbsp;</p>]]></description>
+			<author>agill@ocadu.ca (Avtar Gill)</author>
+			<category>Conference Slides</category>
+			<pubDate>Fri, 23 Jun 2006 10:39:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>Authoring Tool Support</title>
+			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/214-authoring-tool-support</link>
+			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/214-authoring-tool-support</guid>
+			<description><![CDATA[<div class="c5">
+<h2>"The Best Place to Start to Improve the Web"</h2>
+</div>
+<div class="c6">
+<p>Jutta Treviranus and Laurie Harrison</p>
+<p>Adaptive Technology Resource Centre</p>
+<p>University of Toronto</p>
+</div>
+<hr class="c7" />
+<p><br /> <br /></p>
+<h3>Our Projects:</h3>
+<ol>
+<li>HoTMetaL 4.0                  	<br /> <br /> Lessons learned from HoTMetaL 4.0:                                         	 
+<ul>
+<li>Information</li>
+<li>Integration</li>
+<li>Automation</li>
+</ul>
+<br /> <br /> </li>
+<li>WAI Authoring Tool Guideline Working Group                         
+<ul>
+<li>Review of existing guidelines</li>
+<li>Creation of guidelines for authoring                           tools</li>
+<li>Authoring of example help files</li>
+<li>Prototyping and specification of                           tools</li>
+</ul>
+<br /> <br /> </li>
+<li>Authoring Tool Evaluation Project                         
+<ul>
+<li>six courseware products assessed</li>
+<li>great variation in features /                           functionality of these products</li>
+<li>analysis conducted in terms of student                           user interface</li>
+</ul>
+<br /> <br />
+<h3>Methodology</h3>
+<ul>
+<li>both accessibility and functionality                           assessed</li>
+<li>both designer controlled utilities and inherent coursewareframework features considered</li>
+<li>evaluated in terms of integration,                           information, and automation</li>
+</ul>
+<h3>Accessibility and Functionality</h3>
+<ul>
+<li>accessibility evaluated in terms of                           conformity to WAI guidelines</li>
+<li>priority ranking factored into score</li>
+<li>overall functionality evaluated and presented as a ratioto integrated accessibility</li>
+</ul>
+<h3>Designer Controlled Functions</h3>
+<ul>
+<li>choice, selection, input utilities                           available to course designer</li>
+<li>Example: insert image on home page</li>
+</ul>
+<h3>Inherent Courseware Features</h3>
+<ul>
+<li>features and design elements which cannot                           be changed by coursedesiger</li>
+<li>Example: navigation system, home page                           layout</li>
+</ul>
+<h3>Designer Controlled Functions</h3>
+<ul>
+<li>assessed in terms of integration,                           information and automation</li>
+</ul>
+<h3>Inherent Courseware Features</h3>
+<ul>
+<li>inherent courseware features assessed in                           terms of accessibility</li>
+</ul>
+<h3>Web Course in a Box</h3>
+<div>Strengths</div>
+<ul>
+<li>high functionality-accessibility                           ratio</li>
+<li>moderate functionality</li>
+<li>includes text links</li>
+</ul>
+<br />
+<div>Weaknesses</div>
+<ul>
+<li>missing ALT text on icons</li>
+<li>help file support is weak</li>
+<li>no information provided on                           accessibility</li>
+</ul>
+<h3>Top Class</h3>
+<div>Strengths</div>
+<ul>
+<li>includes ALT text</li>
+<li>ability to turn frames off</li>
+<li>moderate functionality</li>
+</ul>
+<br />
+<div>Weaknesses</div>
+<ul>
+<li>help file support is weak</li>
+<li>no information provided on                           accessibility</li>
+</ul>
+<h3>Knowledge Forum</h3>
+<div>Strengths</div>
+<ul>
+<li>uses text links</li>
+<li>high functionality</li>
+</ul>
+<br />
+<div>Weaknesses</div>
+<ul>
+<li>uses tables to format layout of text</li>
+<li>long lists of links</li>
+<li>no information provided on accessibility                           in help files</li>
+<li>no ALT text (though images not                           critical</li>
+</ul>
+<h3>Virtual-U</h3>
+<div>Strengths</div>
+<ul>
+<li>ALT text provided on home page</li>
+<li>some text links provided for                           navigation</li>
+</ul>
+<br />
+<div>Weaknesses</div>
+<ul>
+<li>uses frames for all views</li>
+<li>uses tables for complex home page                           layout</li>
+<li>complex drop-down menus for viewing course                           components</li>
+<li>no information provided on accessibility                           in help files</li>
+</ul>
+<h3>CourseInfo</h3>
+<div>Strengths</div>
+<ul>
+<li>highly functional</li>
+</ul>
+<br />
+<div>Weaknesses</div>
+<ul>
+<li>no ALT text provided</li>
+<li>no alternative text links</li>
+<li>extensive use of frames</li>
+<li>uses tables to format a columnar layout of                           text</li>
+<li>no information provided on accessibility                           in help files</li>
+</ul>
+<h3>WebCT</h3>
+<div>Strengths</div>
+<ul>
+<li>highly functional in terms of creating a                           broad range of studenttools</li>
+<li>"work arounds" are possible to improve                           accessibility</li>
+</ul>
+<br /> 
+<ul>
+<li>Weaknesses</li>
+<li>no ALT text for images/icons</li>
+<li>framed navigation system</li>
+<li>framed bulletin board system</li>
+<li>java-based tools</li>
+<li>no information provided on accessibility                           in help files</li>
+</ul>
+<br /> <br /> </li>
+<li>
+<h2>The A-Prompt Project</h2>
+<ul>
+<li>software module may be integrated into                           HTML editing applications</li>
+<li>Windows DLL</li>
+<li>may be easily called by programs written                           in C or C++ languages</li>
+</ul>
+<h3>Three Basic Functions:</h3>
+<ul>
+<li>HTML element checker</li>
+<li>Accessibility utilities (alt text registry, table converter,server-side to client side)</li>
+<li>Accessibility user interface model                           including demo dialogs</li>
+</ul>
+<h3>HTML Element Checker</h3>
+<ul>
+<li>An HTML editor program can validate HTML                           elements by passingthem to the AVDLL</li>
+<li>The AVDLL indicates the accessibility of                           the element</li>
+<li>Accessibility problems with an HTML element can be handledby the AVDLL or by the host HTML editor.</li>
+</ul>
+<h3>About the AVDLL</h3>
+<ul>
+<li>AVDLL can display its own dialog boxes and                           allow the userto modify the HTML element.</li>
+<li>After the element has been edited it will                           be returned tothe HTML editor</li>
+<li>The HTML editor may handle user modification of inaccessibleHTML and can use the AVDLL dialogs as a model.</li>
+</ul>
+<h3>A-Prompt Accessibility Verifier:</h3>
+<p><br /> Two Components:</p>
+<ul>
+<li>File Selector</li>
+<li>Accessibility Validator</li>
+</ul>
+<h3>A-Prompt also includes:</h3>
+<ul>
+<li>comprehensive set of user-help files on                           the HTML elementchecker</li>
+<li>attribute dialog boxes</li>
+<li>accessible HTML guidelines</li>
+</ul>
+<h3>Java Version</h3>
+<ul>
+<li>developing a freely-distributed Java Bean that applicationdevelopers can easily integrate into Java-based HTML authoring tools.</li>
+</ul>
+<h3>Accessibility Utilities</h3>
+<ul>
+<li>alt text registry</li>
+<li>table converter</li>
+<li>server-side to client side maps</li>
+</ul>
+<h3>User Interface Model</h3>
+<ul>
+<li>Interface model</li>
+<li>demo dialogs:</li>
+</ul>
+  </li>
+</ol>
+<p> </p>]]></description>
+			<category>Conference Slides</category>
+			<pubDate>Thu, 27 Apr 2006 10:25:18 +0000</pubDate>
+		</item>
+		<item>
+			<title>Web-Savvy Accessibility Challenge Page</title>
+			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/291-web-savvy-accessibility-challenge-page</link>
+			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/291-web-savvy-accessibility-challenge-page</guid>
+			<description><![CDATA[<h1>Help! I\'m a page with problems. </h1>  <p>If you use me with adaptive technology, this is what is likely to happen:</p>  <img border="0" src="http://snow.utoronto.ca/access/higher/crash.gif" /> <p>  <table cellpadding="15" border="0" bgcolor="#339966"><tbody><tr><td>Some people who are colour blind have problems with certain combinations for background and font colours. </td></tr></tbody></table>  </p><hr /> <h1>Had enough?? Fix the problems, and ensure that you are reaching the widest possible audience! </h1>]]></description>
+			<author>agill@ocadu.ca (Avtar Gill)</author>
+			<category>Conference Slides</category>
+			<pubDate>Fri, 23 Jun 2006 10:13:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>Alternative Access to the Internet</title>
+			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/235-alternative-access-to-the-internet</link>
+			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/23-conference-slides/235-alternative-access-to-the-internet</guid>
+			<description><![CDATA[]]></description>
+			<category>Conference Slides</category>
+			<pubDate>Wed, 24 May 2006 10:02:19 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

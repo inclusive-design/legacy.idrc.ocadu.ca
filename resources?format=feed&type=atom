@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Resources</title>
+	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
+	<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca"/>
+	<id>https://legacy.idrc.ocadu.ca/resources</id>
+	<updated>2021-03-15T20:52:10+00:00</updated>
+	<author>
+		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
+		<email>no-reply@idrc.ocadu.ca</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://legacy.idrc.ocadu.ca/resources?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Inclusive Design Resources</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/526-inclusive-design-resources"/>
+		<published>2019-07-11T20:33:52+00:00</published>
+		<updated>2019-07-11T20:33:52+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/resources/526-inclusive-design-resources</id>
+		<author>
+			<name>Jonathan Hung</name>
+			<email>jhung@ocadu.ca</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;https://handbook.floeproject.org/&quot;&gt;Inclusive Learning Design Handbook&lt;/a&gt; - a collection of articles to help teachers, content creators, Web developers, and others in creating adaptable and personalizable educational resources that can accommodate a diversity of learning preferences and individual needs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://guide.inclusivedesign.ca/&quot;&gt;Inclusive Design Guide&lt;/a&gt; - offers an easy-to-follow guide to help apply inclusive design insights, practices, tools, and activities to services, products, physical spaces, and inter-personal interactions and relationships.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://snow.idrc.ocadu.ca/&quot;&gt;SNOW &lt;/a&gt;- &lt;span style=&quot;font-weight: 400;&quot;&gt;provides &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;information and training&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;about technologies and inclusive practices both in and outside the classroom. SNOW is for&amp;nbsp;educators, parents, guardians and students and our resources are free whenever possible. SNOW is committed to providing open source tools that can be adapted and used freely.&lt;/span&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://handbook.floeproject.org/&quot;&gt;Inclusive Learning Design Handbook&lt;/a&gt; - a collection of articles to help teachers, content creators, Web developers, and others in creating adaptable and personalizable educational resources that can accommodate a diversity of learning preferences and individual needs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://guide.inclusivedesign.ca/&quot;&gt;Inclusive Design Guide&lt;/a&gt; - offers an easy-to-follow guide to help apply inclusive design insights, practices, tools, and activities to services, products, physical spaces, and inter-personal interactions and relationships.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://snow.idrc.ocadu.ca/&quot;&gt;SNOW &lt;/a&gt;- &lt;span style=&quot;font-weight: 400;&quot;&gt;provides &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;information and training&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;about technologies and inclusive practices both in and outside the classroom. SNOW is for&amp;nbsp;educators, parents, guardians and students and our resources are free whenever possible. SNOW is committed to providing open source tools that can be adapted and used freely.&lt;/span&gt;&lt;/p&gt;</content>
+		<category term="Resources" />
+	</entry>
+	<entry>
+		<title>Assistive Technology Glossary</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/412-technical-glossary"/>
+		<published>2011-03-07T19:16:55+00:00</published>
+		<updated>2011-03-07T19:16:55+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/resources/412-technical-glossary</id>
+		<summary type="html">&lt;p&gt;The Assistive Technology glossary is a reference of assistive technologies, including descriptions of the technologies, how they work, things to consider when choosing technologies, as well as a list of developers and vendors where you can learn more. This glossary is now available on the &lt;a href=&quot;http://snow.idrc.ocad.ca/&quot;&gt;SNOW &lt;/a&gt; website.&lt;/p&gt;
+&lt;p&gt;View the &lt;a href=&quot;https://snow.idrc.ocadu.ca/assistive-technology-2/&quot;&gt; Assistive Technology Glossary&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The Assistive Technology glossary is a reference of assistive technologies, including descriptions of the technologies, how they work, things to consider when choosing technologies, as well as a list of developers and vendors where you can learn more. This glossary is now available on the &lt;a href=&quot;http://snow.idrc.ocad.ca/&quot;&gt;SNOW &lt;/a&gt; website.&lt;/p&gt;
+&lt;p&gt;View the &lt;a href=&quot;https://snow.idrc.ocadu.ca/assistive-technology-2/&quot;&gt; Assistive Technology Glossary&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Resources" />
+	</entry>
+	<entry>
+		<title>Online</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/414-online"/>
+		<published>2011-03-07T19:19:47+00:00</published>
+		<updated>2011-03-07T19:19:47+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/resources/414-online</id>
+		<summary type="html">&lt;p style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding: 0px;&quot;&gt;Online is a listing of resources found on the Web, generated by IDRC staff. They range from videos, to magazine article, research papers and conference slides, to tutorials and other educational materials.&lt;/p&gt;
+&lt;p style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding: 0px;&quot;&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online&quot;&gt;View Online Resources&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding: 0px;&quot;&gt;Online is a listing of resources found on the Web, generated by IDRC staff. They range from videos, to magazine article, research papers and conference slides, to tutorials and other educational materials.&lt;/p&gt;
+&lt;p style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding: 0px;&quot;&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online&quot;&gt;View Online Resources&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Resources" />
+	</entry>
+</feed>

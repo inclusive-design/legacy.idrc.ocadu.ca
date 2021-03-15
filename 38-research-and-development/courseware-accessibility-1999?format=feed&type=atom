@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Welcome to the Frontpage</title>
+	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
+	<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca"/>
+	<id>https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999</id>
+	<updated>2021-03-15T21:11:40+00:00</updated>
+	<author>
+		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
+		<email>no-reply@idrc.ocadu.ca</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Courseware Accessibility Study - 1999: Results</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/312-courseware-accessibility-study-1999-results"/>
+		<published>2006-09-25T15:49:59+00:00</published>
+		<updated>2006-09-25T15:49:59+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/312-courseware-accessibility-study-1999-results</id>
+		<author>
+			<name>Greg Gay</name>
+			<email>greggay@rogers.com</email>
+		</author>
+		<category term="Courseware Accessibility 1999" />
+	</entry>
+	<entry>
+		<title>Courseware Evaluation 1999 - Summary</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/311-courseware-evaluation-1999-summary"/>
+		<published>2006-09-25T15:26:02+00:00</published>
+		<updated>2006-09-25T15:26:02+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/311-courseware-evaluation-1999-summary</id>
+		<author>
+			<name>Greg Gay</name>
+			<email>greggay@rogers.com</email>
+		</author>
+		<summary type="html">&lt;h3&gt;Methodology:&lt;/h3&gt;
+&lt;p&gt;Within this study, consideration has been given to both designer controlled utilities and inherent courseware framework features. The &lt;a href=&quot;http://www.w3.org/TR/WD-WAI-PAGEAUTH/&quot;&gt;WAI guidelines&lt;/a&gt; have been used to develop critieria and a weighting 	 	system for scoring.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Designer Controlled Utilities&lt;/strong&gt; have been evaluated for accessibility in terms of: 	 	&lt;em&gt;Access Support&lt;/em&gt; and &lt;em&gt;Information.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inherent Courseware Features&lt;/strong&gt; have been assessed in terms of: 	 	&lt;em&gt;Access Support&lt;/em&gt; only.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Courseware Components &lt;/strong&gt;which are critical to the accessibility of the product have been analysed separately.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Scoring:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt; &lt;strong&gt;Accessibility: &lt;/strong&gt;The sum of the scores for the &lt;em&gt;Access Support, 	 	Information&lt;/em&gt;, and &lt;em&gt;Courseware Components &lt;/em&gt; is reported as a raw Total Accessibility Score.&lt;/li&gt;
+&lt;li&gt; &lt;strong&gt;Functionality: &lt;/strong&gt;When a feature is supported in a product, its accessibility is analysed, and an addition is made to the functionality score for the product.&lt;/li&gt;
+&lt;li&gt; &lt;strong&gt;Access Support Functionality Ratio:&lt;/strong&gt; Because all programs or packages being assessed do not possess the same features, the integrated accessibility score has been related to functionality. The Access Support Functionality Ratio relates accessibility to the overall complexity of the product.&lt;/li&gt;
+&lt;/ol&gt; 
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;Results:&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Web Course in a Box&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Accessibility: 154&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Access Support Functionality Ratio: .818&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Strengths&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;high Access Support Functionality ratio&lt;/li&gt;
+&lt;li&gt;moderate functionality&lt;/li&gt;
+&lt;li&gt;includes text links&lt;/li&gt;
+&lt;br /&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt;
+&lt;li&gt;missing ALT text on icons&lt;/li&gt;
+&lt;li&gt;help file support is weak&lt;/li&gt;
+&lt;li&gt;no information provided on accessibility&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Top Class&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Accessibility: 172&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Access Support Functionality Ratio: .661&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Strengths&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;includes ALT text&lt;/li&gt;
+&lt;li&gt;ability to turn frames off&lt;/li&gt;
+&lt;li&gt;moderate functionality&lt;/li&gt;
+&lt;br /&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt;
+&lt;li&gt;help file support is weak&lt;/li&gt;
+&lt;li&gt;no information provided on accessibility&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Lotus Learning Space&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Accessibility: 238&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Access Support Functionality Ratio: .604&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Strengths&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;highly functional &lt;/li&gt;
+&lt;li&gt;some attention to accessibility &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;no ALT text for default images/icons&lt;/li&gt;
+&lt;li&gt;partially framed navigation system&lt;/li&gt;
+&lt;li&gt;no information provided on accessibility in help files&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Courseware Evaluation 1999 - Summary&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Web Knowledge Forum&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Accessibility: 117&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Access Support Functionality Ratio: .558&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Strengths&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;uses text links&lt;/li&gt;
+&lt;li&gt;high functionality&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;uses tables to format layout of text&lt;/li&gt;
+&lt;li&gt;long lists of links&lt;/li&gt;
+&lt;li&gt;no information provided on accessibility in help files&lt;/li&gt;
+&lt;li&gt;no ALT text (though images not critical)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Virtual-U&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Accessibility: 115&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Access Support Functionality Ratio: .556&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Strengths&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ALT text provided on home page&lt;/li&gt;
+&lt;li&gt;some text links provided for navigation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;uses frames for all views&lt;/li&gt;
+&lt;li&gt;uses tables for complex home page layout&lt;/li&gt;
+&lt;li&gt;complex drop-down menus for viewing course components&lt;/li&gt;
+&lt;li&gt;no information provided on accessibility in help files&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;CourseInfo&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Accessibility: 107&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Access Support Functionality Ratio: .349&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Strengths&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;highly functional&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;no ALT text provided&lt;/li&gt;
+&lt;li&gt;no alternative text links&lt;/li&gt;
+&lt;li&gt;extensive use of frames&lt;/li&gt;
+&lt;li&gt;uses tables to format a columnar layout of text&lt;/li&gt;
+&lt;li&gt;no information provided on accessibility in help files&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;WebCT&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Accessibility: 67&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Access Support Functionality Ratio: .257&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Strengths&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;highly functional in terms of creating a broad range of student tools&lt;/li&gt;
+&lt;li&gt;&quot;work arounds&quot; are possible to improve accessibility&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;no ALT text for images/icons&lt;/li&gt;
+&lt;li&gt;framed navigation system&lt;/li&gt;
+&lt;li&gt;framed bulletin board system&lt;/li&gt;
+&lt;li&gt;java-based tools&lt;/li&gt;
+&lt;li&gt;no information provided on accessibility in help files&lt;/li&gt;
+&lt;/ul&gt;</summary>
+		<content type="html">&lt;h3&gt;Methodology:&lt;/h3&gt;
+&lt;p&gt;Within this study, consideration has been given to both designer controlled utilities and inherent courseware framework features. The &lt;a href=&quot;http://www.w3.org/TR/WD-WAI-PAGEAUTH/&quot;&gt;WAI guidelines&lt;/a&gt; have been used to develop critieria and a weighting 	 	system for scoring.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Designer Controlled Utilities&lt;/strong&gt; have been evaluated for accessibility in terms of: 	 	&lt;em&gt;Access Support&lt;/em&gt; and &lt;em&gt;Information.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inherent Courseware Features&lt;/strong&gt; have been assessed in terms of: 	 	&lt;em&gt;Access Support&lt;/em&gt; only.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Courseware Components &lt;/strong&gt;which are critical to the accessibility of the product have been analysed separately.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Scoring:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt; &lt;strong&gt;Accessibility: &lt;/strong&gt;The sum of the scores for the &lt;em&gt;Access Support, 	 	Information&lt;/em&gt;, and &lt;em&gt;Courseware Components &lt;/em&gt; is reported as a raw Total Accessibility Score.&lt;/li&gt;
+&lt;li&gt; &lt;strong&gt;Functionality: &lt;/strong&gt;When a feature is supported in a product, its accessibility is analysed, and an addition is made to the functionality score for the product.&lt;/li&gt;
+&lt;li&gt; &lt;strong&gt;Access Support Functionality Ratio:&lt;/strong&gt; Because all programs or packages being assessed do not possess the same features, the integrated accessibility score has been related to functionality. The Access Support Functionality Ratio relates accessibility to the overall complexity of the product.&lt;/li&gt;
+&lt;/ol&gt; 
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;Results:&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Web Course in a Box&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Accessibility: 154&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Access Support Functionality Ratio: .818&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Strengths&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;high Access Support Functionality ratio&lt;/li&gt;
+&lt;li&gt;moderate functionality&lt;/li&gt;
+&lt;li&gt;includes text links&lt;/li&gt;
+&lt;br /&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt;
+&lt;li&gt;missing ALT text on icons&lt;/li&gt;
+&lt;li&gt;help file support is weak&lt;/li&gt;
+&lt;li&gt;no information provided on accessibility&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Top Class&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Accessibility: 172&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Access Support Functionality Ratio: .661&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Strengths&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;includes ALT text&lt;/li&gt;
+&lt;li&gt;ability to turn frames off&lt;/li&gt;
+&lt;li&gt;moderate functionality&lt;/li&gt;
+&lt;br /&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt;
+&lt;li&gt;help file support is weak&lt;/li&gt;
+&lt;li&gt;no information provided on accessibility&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Lotus Learning Space&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Accessibility: 238&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Access Support Functionality Ratio: .604&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Strengths&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;highly functional &lt;/li&gt;
+&lt;li&gt;some attention to accessibility &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;no ALT text for default images/icons&lt;/li&gt;
+&lt;li&gt;partially framed navigation system&lt;/li&gt;
+&lt;li&gt;no information provided on accessibility in help files&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Courseware Evaluation 1999 - Summary&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Web Knowledge Forum&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Accessibility: 117&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Access Support Functionality Ratio: .558&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Strengths&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;uses text links&lt;/li&gt;
+&lt;li&gt;high functionality&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;uses tables to format layout of text&lt;/li&gt;
+&lt;li&gt;long lists of links&lt;/li&gt;
+&lt;li&gt;no information provided on accessibility in help files&lt;/li&gt;
+&lt;li&gt;no ALT text (though images not critical)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Virtual-U&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Accessibility: 115&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Access Support Functionality Ratio: .556&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Strengths&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ALT text provided on home page&lt;/li&gt;
+&lt;li&gt;some text links provided for navigation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;uses frames for all views&lt;/li&gt;
+&lt;li&gt;uses tables for complex home page layout&lt;/li&gt;
+&lt;li&gt;complex drop-down menus for viewing course components&lt;/li&gt;
+&lt;li&gt;no information provided on accessibility in help files&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;CourseInfo&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Accessibility: 107&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Access Support Functionality Ratio: .349&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Strengths&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;highly functional&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;no ALT text provided&lt;/li&gt;
+&lt;li&gt;no alternative text links&lt;/li&gt;
+&lt;li&gt;extensive use of frames&lt;/li&gt;
+&lt;li&gt;uses tables to format a columnar layout of text&lt;/li&gt;
+&lt;li&gt;no information provided on accessibility in help files&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;WebCT&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Accessibility: 67&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Access Support Functionality Ratio: .257&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Strengths&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;highly functional in terms of creating a broad range of student tools&lt;/li&gt;
+&lt;li&gt;&quot;work arounds&quot; are possible to improve accessibility&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;no ALT text for images/icons&lt;/li&gt;
+&lt;li&gt;framed navigation system&lt;/li&gt;
+&lt;li&gt;framed bulletin board system&lt;/li&gt;
+&lt;li&gt;java-based tools&lt;/li&gt;
+&lt;li&gt;no information provided on accessibility in help files&lt;/li&gt;
+&lt;/ul&gt;</content>
+		<category term="Courseware Accessibility 1999" />
+	</entry>
+	<entry>
+		<title>Courseware Evaluation 1999 - Background, Descriptions and, Rationale</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/309-courseware-evaluation-1999-background-descriptions-and-rationale"/>
+		<published>2006-09-25T14:29:15+00:00</published>
+		<updated>2006-09-25T14:29:15+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/309-courseware-evaluation-1999-background-descriptions-and-rationale</id>
+		<author>
+			<name>Greg Gay</name>
+			<email>greggay@rogers.com</email>
+		</author>
+		<summary type="html">&lt;h2&gt;Courseware Evaluation 1999 - Background, Descriptions and, Rationale&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#back&quot;&gt;Background&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#design&quot;&gt;Designer Controlled Utilities&lt;/a&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#access&quot;&gt;Access Support&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#info&quot;&gt;Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#inherent&quot;&gt;Inherent Courseware Features&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name=&quot;back&quot; title=&quot;back&quot;&gt;&lt;/a&gt; &lt;strong&gt;
+&lt;p&gt;Background&lt;/p&gt;
+&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;back&quot; title=&quot;back&quot;&gt;&lt;/a&gt;Today's educators of college and university students face new challenges related to the increasing demand for provision of course related resources and documents via the Internet. Use of the Web for delivery of distance learning is finding an audience in the current &quot;just-in-time&quot; education environment, where customized educational programs and convenient professional development opportunities are valued by today's lifelong learners. In addition, students in traditional facilities-based courses are also asking for the convenience of access to course resources, information, and communication with their instructors via the Internet. Now, as we stand at the beginning of a new era in education, we must take steps to ensure the accessibility of online educational resources to users of adaptive technology, or learners with disabilities. To this end, it is essential that educators and administrators are astute in their selection of courseware tools, and their development of web-based instructional strategies. The provision of access support and information (described in more detail below) via courseware and web authoring tools supports the principles of universal design and access to education for all learners.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;back&quot; title=&quot;back&quot;&gt;&lt;/a&gt;Until recently, only a few enterprising educators found the time, resources and energy required to prepare materials for distribution via the Internet. These pioneers have been technology generalists, self-taught web-masters who have found their own way. Meanwhile, many instructors have chosen to continue with traditional media - primarily print-based, with the addition of e-mail for communicating with colleagues, and perhaps occasionally, students. In the past few years, many educators have felt pressure to move beyond these traditional strategies, pressure from both the administrators who manage their institutions, and the students whose learning needs to include informed access to a world wide collection of knowledge available through a modem and phone line. Administrators are seeking more efficient use of time and resources, as well as a future-oriented approach to student services in order to stay &quot;competitive&quot; in the education sector. Students, who have grown up using personal computers, and tend to be Internet-savvy as well, expect the convenience of web-delivered information and resources. Internet related skills are valued in themselves as essential to success in the current job market. The potential benefits to learners who use adaptive technologies are many, as the electronic delivery of information and resources permits translation into a variety of modalities and formats. Rather than retrofitting these resources to allow access by students with disabilities, educators and web authors must be encouraged to create materials in accessible formats from the beginning.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;back&quot; title=&quot;back&quot;&gt;&lt;/a&gt;This study is based on the simple principle that authoring tools are the best place to start to improve the accessibility of the Web. Seven course-authoring products (courseware) have been assessed.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;back&quot; title=&quot;back&quot;&gt;&lt;/a&gt;Analyses have been conducted in terms of access for students taking a course over the Web. Accessibility for designers with disabilities has not been considered. Both designer controlled utilities, and courseware inherent features have been included and are explained next.&lt;/p&gt;
+&lt;ol&gt; &lt;a name=&quot;design&quot; title=&quot;design&quot;&gt;&lt;/a&gt; &lt;strong&gt;&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;Designer Controlled Utilities&lt;/strong&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;Provide no way to add ALT text&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;May provide a way to enter ALT text but either as a secondary step, or hidden away in a field on a secondary window&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;May provide a field to enter ALT text just below the field that identifies the image&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;May prompt the designer when ALT text has not been entered or requires the designer to include ALT text before continuing&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;strong&gt;&lt;/strong&gt;refers to functions which provide choice, selection, or input utilities for creating course content by the course designer/instructor. For example, an interface may be available which allows insertion of an image on the course home page. To make that image accessible to a student who is blind an alternative text description is required. A utility for including ALT text can be prominent and well explained, it can be hidden away in secondary levels of the interface, or it may not be present at all. The ease to which a feature, such as an ALT text field in an image insertion utility, is accessible during the authoring process has been referred to as &lt;strong&gt;&lt;em&gt;Access Support&lt;/em&gt;&lt;/strong&gt;. The extent to which these utilities are explained, both in terms of their functionality and their purpose within the product's help system has been referred to as &lt;em&gt;&lt;strong&gt;Information&lt;/strong&gt;&lt;/em&gt;.  &lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;&lt;strong&gt; Access Support&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;Access Support refers to a tool's support of accessible authoring practices. Several levels of Access Support can be identified. Continuing with the ALT text example, an image tool may:&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;Maximum points are awarded for Access Support to products that require the implementation of accessible authoring practices (4). If the accessible authoring practice is supported as an option, a score of 2 or 3 is awarded based on the prominence of the feature in the design interface. If accessibility is not supported a score of 1 is awarded. If accessibility is not an issue because a design feature is not present, a score of 0 is awarded. The latter has the effect of entering a 0 score into the functionality for that feature. For any score other than 0, four points is added to the functionality score&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;Because all courseware packages assessed did not possess the same features, support of accessible design must be assessed based on the overall complexity of the product; when a feature is supported in a product, its accessibility is analysed. The Access Support-Functionality Ratio has been calculated to represent the number of design utilities and their support of accessible authoring practices.&lt;/p&gt;
+&lt;a name=&quot;info&quot; title=&quot;info&quot;&gt;&lt;/a&gt; &lt;strong&gt;&lt;em&gt;
+&lt;p&gt;Information&lt;/p&gt;
+&lt;/em&gt;&lt;/strong&gt;
+&lt;p&gt;&lt;a name=&quot;info&quot; title=&quot;info&quot;&gt;&lt;/a&gt;Educating the designer about accessibility carries as much weight as including provisions in the design interface for creating accessible Web documents. Making designers aware of barriers faced by persons with disabilities will prompt them to create accessible pages, not only for those with disabilities, but also for those using older technology. Where a product does not provide an interface to add a particular feature, say images, a description of inserting images with ALT text -- in the help files -- will educate the designer who chooses to add HTML outside of the products interface -- perhaps in a text editor. Despite not providing a particular feature, such as a utility to add images, a product is awarded information points if it discusses accessibility in the help files, or in this case, a description of how to include ALT text when image tags must be coded manually. This would not apply however, if an image addition utility is present without an ALT text field, but a description of how to include ALT is present in the help files. Since it is much easier to include information in the help files than it is to create a utility for promoting accessibility, products that include information but not the utility to promote accessible authoring practice, recieve no points.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;info&quot; title=&quot;info&quot;&gt;&lt;/a&gt;&lt;em&gt;&lt;strong&gt;Information&lt;/strong&gt;&lt;/em&gt; refers to the presence of help files, explanations and examples that describe techniques to increase the accessibility of Web pages. Information may also come in the form of context sensitive help, or explanations given in alert boxes or prompts.&lt;/p&gt;
+&lt;a name=&quot;inherent&quot; title=&quot;inherent&quot;&gt;&lt;/a&gt; &lt;strong&gt;&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;Inherent Courseware Features &lt;/strong&gt;&lt;/li&gt;
+&lt;strong&gt;&lt;/strong&gt; are design elements that are pre-determined by the software developers, and cannot be changed by the course designer. Continuing with the ALT text example, if a product automatically includes ALT text with all meaningful images generated by the courseware (as opposed to the designer), it receives full points for Access Support (4). If all meaningful images are not accompanied by ALT text a relative score is awarded based on the proportion of images that include ALT text (2 for some-3 for most). If no images include ALT text a minimum score is awarded (1). If no images are included, a score of 0 is awarded. &lt;/ol&gt;</summary>
+		<content type="html">&lt;h2&gt;Courseware Evaluation 1999 - Background, Descriptions and, Rationale&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#back&quot;&gt;Background&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#design&quot;&gt;Designer Controlled Utilities&lt;/a&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#access&quot;&gt;Access Support&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#info&quot;&gt;Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#inherent&quot;&gt;Inherent Courseware Features&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name=&quot;back&quot; title=&quot;back&quot;&gt;&lt;/a&gt; &lt;strong&gt;
+&lt;p&gt;Background&lt;/p&gt;
+&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;back&quot; title=&quot;back&quot;&gt;&lt;/a&gt;Today's educators of college and university students face new challenges related to the increasing demand for provision of course related resources and documents via the Internet. Use of the Web for delivery of distance learning is finding an audience in the current &quot;just-in-time&quot; education environment, where customized educational programs and convenient professional development opportunities are valued by today's lifelong learners. In addition, students in traditional facilities-based courses are also asking for the convenience of access to course resources, information, and communication with their instructors via the Internet. Now, as we stand at the beginning of a new era in education, we must take steps to ensure the accessibility of online educational resources to users of adaptive technology, or learners with disabilities. To this end, it is essential that educators and administrators are astute in their selection of courseware tools, and their development of web-based instructional strategies. The provision of access support and information (described in more detail below) via courseware and web authoring tools supports the principles of universal design and access to education for all learners.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;back&quot; title=&quot;back&quot;&gt;&lt;/a&gt;Until recently, only a few enterprising educators found the time, resources and energy required to prepare materials for distribution via the Internet. These pioneers have been technology generalists, self-taught web-masters who have found their own way. Meanwhile, many instructors have chosen to continue with traditional media - primarily print-based, with the addition of e-mail for communicating with colleagues, and perhaps occasionally, students. In the past few years, many educators have felt pressure to move beyond these traditional strategies, pressure from both the administrators who manage their institutions, and the students whose learning needs to include informed access to a world wide collection of knowledge available through a modem and phone line. Administrators are seeking more efficient use of time and resources, as well as a future-oriented approach to student services in order to stay &quot;competitive&quot; in the education sector. Students, who have grown up using personal computers, and tend to be Internet-savvy as well, expect the convenience of web-delivered information and resources. Internet related skills are valued in themselves as essential to success in the current job market. The potential benefits to learners who use adaptive technologies are many, as the electronic delivery of information and resources permits translation into a variety of modalities and formats. Rather than retrofitting these resources to allow access by students with disabilities, educators and web authors must be encouraged to create materials in accessible formats from the beginning.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;back&quot; title=&quot;back&quot;&gt;&lt;/a&gt;This study is based on the simple principle that authoring tools are the best place to start to improve the accessibility of the Web. Seven course-authoring products (courseware) have been assessed.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;back&quot; title=&quot;back&quot;&gt;&lt;/a&gt;Analyses have been conducted in terms of access for students taking a course over the Web. Accessibility for designers with disabilities has not been considered. Both designer controlled utilities, and courseware inherent features have been included and are explained next.&lt;/p&gt;
+&lt;ol&gt; &lt;a name=&quot;design&quot; title=&quot;design&quot;&gt;&lt;/a&gt; &lt;strong&gt;&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;Designer Controlled Utilities&lt;/strong&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;Provide no way to add ALT text&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;May provide a way to enter ALT text but either as a secondary step, or hidden away in a field on a secondary window&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;May provide a field to enter ALT text just below the field that identifies the image&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;May prompt the designer when ALT text has not been entered or requires the designer to include ALT text before continuing&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;strong&gt;&lt;/strong&gt;refers to functions which provide choice, selection, or input utilities for creating course content by the course designer/instructor. For example, an interface may be available which allows insertion of an image on the course home page. To make that image accessible to a student who is blind an alternative text description is required. A utility for including ALT text can be prominent and well explained, it can be hidden away in secondary levels of the interface, or it may not be present at all. The ease to which a feature, such as an ALT text field in an image insertion utility, is accessible during the authoring process has been referred to as &lt;strong&gt;&lt;em&gt;Access Support&lt;/em&gt;&lt;/strong&gt;. The extent to which these utilities are explained, both in terms of their functionality and their purpose within the product's help system has been referred to as &lt;em&gt;&lt;strong&gt;Information&lt;/strong&gt;&lt;/em&gt;.  &lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;&lt;strong&gt; Access Support&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;Access Support refers to a tool's support of accessible authoring practices. Several levels of Access Support can be identified. Continuing with the ALT text example, an image tool may:&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;Maximum points are awarded for Access Support to products that require the implementation of accessible authoring practices (4). If the accessible authoring practice is supported as an option, a score of 2 or 3 is awarded based on the prominence of the feature in the design interface. If accessibility is not supported a score of 1 is awarded. If accessibility is not an issue because a design feature is not present, a score of 0 is awarded. The latter has the effect of entering a 0 score into the functionality for that feature. For any score other than 0, four points is added to the functionality score&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;access&quot; title=&quot;access&quot;&gt;&lt;/a&gt;Because all courseware packages assessed did not possess the same features, support of accessible design must be assessed based on the overall complexity of the product; when a feature is supported in a product, its accessibility is analysed. The Access Support-Functionality Ratio has been calculated to represent the number of design utilities and their support of accessible authoring practices.&lt;/p&gt;
+&lt;a name=&quot;info&quot; title=&quot;info&quot;&gt;&lt;/a&gt; &lt;strong&gt;&lt;em&gt;
+&lt;p&gt;Information&lt;/p&gt;
+&lt;/em&gt;&lt;/strong&gt;
+&lt;p&gt;&lt;a name=&quot;info&quot; title=&quot;info&quot;&gt;&lt;/a&gt;Educating the designer about accessibility carries as much weight as including provisions in the design interface for creating accessible Web documents. Making designers aware of barriers faced by persons with disabilities will prompt them to create accessible pages, not only for those with disabilities, but also for those using older technology. Where a product does not provide an interface to add a particular feature, say images, a description of inserting images with ALT text -- in the help files -- will educate the designer who chooses to add HTML outside of the products interface -- perhaps in a text editor. Despite not providing a particular feature, such as a utility to add images, a product is awarded information points if it discusses accessibility in the help files, or in this case, a description of how to include ALT text when image tags must be coded manually. This would not apply however, if an image addition utility is present without an ALT text field, but a description of how to include ALT is present in the help files. Since it is much easier to include information in the help files than it is to create a utility for promoting accessibility, products that include information but not the utility to promote accessible authoring practice, recieve no points.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;info&quot; title=&quot;info&quot;&gt;&lt;/a&gt;&lt;em&gt;&lt;strong&gt;Information&lt;/strong&gt;&lt;/em&gt; refers to the presence of help files, explanations and examples that describe techniques to increase the accessibility of Web pages. Information may also come in the form of context sensitive help, or explanations given in alert boxes or prompts.&lt;/p&gt;
+&lt;a name=&quot;inherent&quot; title=&quot;inherent&quot;&gt;&lt;/a&gt; &lt;strong&gt;&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;Inherent Courseware Features &lt;/strong&gt;&lt;/li&gt;
+&lt;strong&gt;&lt;/strong&gt; are design elements that are pre-determined by the software developers, and cannot be changed by the course designer. Continuing with the ALT text example, if a product automatically includes ALT text with all meaningful images generated by the courseware (as opposed to the designer), it receives full points for Access Support (4). If all meaningful images are not accompanied by ALT text a relative score is awarded based on the proportion of images that include ALT text (2 for some-3 for most). If no images include ALT text a minimum score is awarded (1). If no images are included, a score of 0 is awarded. &lt;/ol&gt;</content>
+		<category term="Courseware Accessibility 1999" />
+	</entry>
+	<entry>
+		<title>Courseware Accessibility Study - 1999: Scoring</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/310-courseware-accessibility-study-1999-scoring"/>
+		<published>2006-09-25T14:39:06+00:00</published>
+		<updated>2006-09-25T14:39:06+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/310-courseware-accessibility-study-1999-scoring</id>
+		<author>
+			<name>Greg Gay</name>
+			<email>greggay@rogers.com</email>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#score&quot;&gt;Overview of Scoring System&lt;/a&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#support&quot;&gt;Access Support Scoring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#scrinfo&quot;&gt;Information Scoring&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#course&quot;&gt;Course Features Accessibility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#summary&quot;&gt;Reading the Summary Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;p&gt;Scoring System&lt;/p&gt;
+&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;back&quot; title=&quot;back&quot;&gt;&lt;/a&gt;Accessibility is evaluated in conformity with the WAI Web Content Accessibility Guidelines.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a name=&quot;back&quot; title=&quot;back&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.w3c.org/wai&quot;&gt;http://www.w3c.org/wai&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Below is a description of accessibility prioroty levels. Each checkpoint has a priority level assigned by the Working Group based on the checkpoint's impact on accessibility. The following is an excerpt from the &lt;a href=&quot;http://www.w3.org/TR/WAI-WEBCONTENT/#priorities&quot;&gt;Web Content Accessibility Guidelines 1.0&lt;/a&gt;,W3C Recommendation 5-May-1999, outlining priority levels and conformance criteria set out by the WAI working group.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt; [Priority 1]                &lt;br /&gt;A Web content developer &lt;strong&gt;must&lt;/strong&gt; satisfy this checkpoint. Otherwise, one or more groups will find it impossible to access information in the document. Satisfying this checkpoint is a basic requirement for some groups to be able to use Web documents. &lt;/li&gt;
+&lt;li&gt;[Priority 2]                &lt;br /&gt;A Web content developer &lt;strong&gt;should&lt;/strong&gt; satisfy this checkpoint. Otherwise, one or more groups will find it difficult to access information in the document. Satisfying this checkpoint will remove significant barriers to accessing Web documents.&lt;/li&gt;
+&lt;li&gt;[Priority 3]                &lt;br /&gt;A Web content developer &lt;strong&gt;may&lt;/strong&gt; address this checkpoint. Otherwise, one or more groups will find it somewhat difficult to access information in the document. Satisfying this checkpoint will improve access to Web documents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conformance Level &quot;A&quot;: all Priority 1 checkpoints are satisfied; &lt;/li&gt;
+&lt;li&gt;Conformance Level &quot;Double-A&quot;: all Priority 1 and 2 checkpoints are satisfied;&lt;/li&gt;
+&lt;li&gt;Conformance Level &quot;Triple-A&quot;: all Priority 1, 2, and 3 checkpoints are satisfied;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Both Access Support and Information are assessed on a scale of 0-4, as summarized below. In addition, the WAI Checkpoint priority ranking is factored into the score to provide an appropriate weight for the most critical accessible authoring practices. If a feature received a Priority 1 rating from WAI, the score is multiplied by three. If a feature received a Priority 2 rating the score is multiplied by two. If a feature received a Priority 3 rating no weight is applied.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;support&quot; title=&quot;support&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;support&quot; title=&quot;support&quot;&gt;&lt;/a&gt;&lt;strong&gt;Access Support Scoring*: &lt;/strong&gt;&lt;/p&gt;
+&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;7&quot; width=&quot;616&quot; align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;0&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This feature is not supported&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;1&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice is:&lt;/p&gt;
+&lt;p&gt;1) not provided by this courseware package&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice is&lt;/p&gt;
+&lt;p&gt;1) provided by this courseware package&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice is&lt;/p&gt;
+&lt;p&gt;1) provided by this courseware package&lt;/p&gt;
+&lt;p&gt;2) conspicuous in the designer/instructor interface&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice is&lt;/p&gt;
+&lt;p&gt;1) provided by this courseware package&lt;/p&gt;
+&lt;p&gt;2) conspicuous in the designer/instructor interface&lt;/p&gt;
+&lt;p&gt;3) prompted or required by the interface&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;support&quot; title=&quot;support&quot;&gt;&lt;/a&gt;*Access Support and Information scores are multiplied by the WAI checkpoint Priority Ranking of 1, 2 or 3.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;scrinfo&quot; title=&quot;scrinfo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;scrinfo&quot; title=&quot;scrinfo&quot;&gt;&lt;/a&gt;&lt;strong&gt;Information Scoring: &lt;/strong&gt;&lt;/p&gt;
+&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;7&quot; width=&quot;616&quot; align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;0&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;No information is provided for this accessible authoring practice.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;1&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice:&lt;/p&gt;
+&lt;p&gt;1) is mentioned in the Help System of the courseware package&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice&lt;/p&gt;
+&lt;p&gt;1) is mentioned in the Help System of the courseware package&lt;/p&gt;
+&lt;p&gt;2) has context sensitive prompting&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice:&lt;/p&gt;
+&lt;p&gt;1) is mentioned in the Help System of the courseware package&lt;/p&gt;
+&lt;p&gt;2) has context sensitive prompting&lt;/p&gt;
+&lt;p&gt;3) includes explanations in the Help System&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice:&lt;/p&gt;
+&lt;p&gt;1) is mentioned in the Help System of the courseware package&lt;/p&gt;
+&lt;p&gt;2) has context sensitive prompting&lt;/p&gt;
+&lt;p&gt;3) includes explanations in the Help System&lt;/p&gt;
+&lt;p&gt;4) has explanatory examples&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;scrinfo&quot; title=&quot;scrinfo&quot;&gt;&lt;/a&gt;The scores for each product must be viewed in terms of &lt;em&gt;&lt;strong&gt;Access Support&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;Functionality&lt;/strong&gt;&lt;/em&gt;. If a product has little functionality but is highly accessible, its usefulness as an authoring tool will be lacking. On the other hand if a product is highly functional, or provides design interfaces for a wide variety of features, it must also include provisions for accessible design, otherwise it adds to the inaccessibility of the Web. A balance must be reached between the number of design features, and their support of accessible design. Providing designers with prompts, prominent accessibility design options, and help files explaining how and why these options should be implemented, educates designers about accessibility issues. Educated designers will be more likely to include accessibility as an integral part of Web based instructional designs; the experience of accessible Web based instruction will be passed on to future Web designers.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;&lt;em&gt;&lt;strong&gt;Course Features Accessibility (Courseware) &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;In addition to assessing accessibility of designer controlled and courseware controlled features, which could be assessed on any HTML authoring tool, course-authoring packages are assessed by their pedagogical features. These components are divided into content and communication tools. Scoring is on a 0 to 4 scale, and like scoring above, access support scores for designer controlled and inherent features are assigned to each of seven components outlined below. Partial scores are awarded where some provisions have been made for accessibility, but where improvements could be made. For example, providing default ALT text for Home Page images inserted by the program, but not where inserted by the designer, might be awarded a score of 2 out of 4. This might be the case where a default button bar is provided with ALT text but additional buttons added by the designer have no way to include it.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Component accessibility is divided into content accessibility and communication accessibility. Content components include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;A Course Home Page&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;A Tools page&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Content pages&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Navigation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Communication tools include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Bulletin Boards&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Internal email&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Chat&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Each of these are awarded points on a 0 to 4 point scale:&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;(0 = not relevant)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Provision made for ALT text with images, or provides by default. &lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Provision made to provide alternative text links for linked images, or provides by default. &lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Tables used correctly to format layout of the page. &lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Does not use frames or Java, or does provide an alternative to them. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name=&quot;summary&quot; title=&quot;summary&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;summary&quot; title=&quot;summary&quot;&gt;&lt;/a&gt;&lt;strong&gt;Reading the Summary Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;summary&quot; title=&quot;summary&quot;&gt;&lt;/a&gt;Scores should be viewed as a group of scores rather than a single score. The Summary Sheet below contains the maximum scores obtainable. For those who want a quick assessment of a product's support of accessible design, the combined Access Support functionality ratio will give you that. A &lt;a href=&quot;http://snow.utoronto.ca/initiatives/crseval/summary.html&quot;&gt;quick comparison summary&lt;/a&gt; is available. For designers and instructors the individual Combined Access Support, Functionality, and Accessibility scores will provide an indication of a product's complexity and how well it will support you in creating accessible Web documents. For developers, or those looking for specific strengths and weaknesses, individual scores on the summary sheet can be compared across packages, or the entire evaluation as zipped Excel 97 tables can be downloaded for comparison.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://legacy.idrc.ocadu.ca/../images/stories/Image1.gif&quot; border=&quot;0&quot; alt=&quot;Excel Spreadsheet Displaying Maximum Scores in a Summary Sheet&quot; width=&quot;561&quot; height=&quot;265&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#score&quot;&gt;Overview of Scoring System&lt;/a&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#support&quot;&gt;Access Support Scoring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#scrinfo&quot;&gt;Information Scoring&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#course&quot;&gt;Course Features Accessibility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/#summary&quot;&gt;Reading the Summary Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;p&gt;Scoring System&lt;/p&gt;
+&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;back&quot; title=&quot;back&quot;&gt;&lt;/a&gt;Accessibility is evaluated in conformity with the WAI Web Content Accessibility Guidelines.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a name=&quot;back&quot; title=&quot;back&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.w3c.org/wai&quot;&gt;http://www.w3c.org/wai&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Below is a description of accessibility prioroty levels. Each checkpoint has a priority level assigned by the Working Group based on the checkpoint's impact on accessibility. The following is an excerpt from the &lt;a href=&quot;http://www.w3.org/TR/WAI-WEBCONTENT/#priorities&quot;&gt;Web Content Accessibility Guidelines 1.0&lt;/a&gt;,W3C Recommendation 5-May-1999, outlining priority levels and conformance criteria set out by the WAI working group.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt; [Priority 1]                &lt;br /&gt;A Web content developer &lt;strong&gt;must&lt;/strong&gt; satisfy this checkpoint. Otherwise, one or more groups will find it impossible to access information in the document. Satisfying this checkpoint is a basic requirement for some groups to be able to use Web documents. &lt;/li&gt;
+&lt;li&gt;[Priority 2]                &lt;br /&gt;A Web content developer &lt;strong&gt;should&lt;/strong&gt; satisfy this checkpoint. Otherwise, one or more groups will find it difficult to access information in the document. Satisfying this checkpoint will remove significant barriers to accessing Web documents.&lt;/li&gt;
+&lt;li&gt;[Priority 3]                &lt;br /&gt;A Web content developer &lt;strong&gt;may&lt;/strong&gt; address this checkpoint. Otherwise, one or more groups will find it somewhat difficult to access information in the document. Satisfying this checkpoint will improve access to Web documents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conformance Level &quot;A&quot;: all Priority 1 checkpoints are satisfied; &lt;/li&gt;
+&lt;li&gt;Conformance Level &quot;Double-A&quot;: all Priority 1 and 2 checkpoints are satisfied;&lt;/li&gt;
+&lt;li&gt;Conformance Level &quot;Triple-A&quot;: all Priority 1, 2, and 3 checkpoints are satisfied;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Both Access Support and Information are assessed on a scale of 0-4, as summarized below. In addition, the WAI Checkpoint priority ranking is factored into the score to provide an appropriate weight for the most critical accessible authoring practices. If a feature received a Priority 1 rating from WAI, the score is multiplied by three. If a feature received a Priority 2 rating the score is multiplied by two. If a feature received a Priority 3 rating no weight is applied.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;support&quot; title=&quot;support&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;support&quot; title=&quot;support&quot;&gt;&lt;/a&gt;&lt;strong&gt;Access Support Scoring*: &lt;/strong&gt;&lt;/p&gt;
+&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;7&quot; width=&quot;616&quot; align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;0&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This feature is not supported&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;1&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice is:&lt;/p&gt;
+&lt;p&gt;1) not provided by this courseware package&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice is&lt;/p&gt;
+&lt;p&gt;1) provided by this courseware package&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice is&lt;/p&gt;
+&lt;p&gt;1) provided by this courseware package&lt;/p&gt;
+&lt;p&gt;2) conspicuous in the designer/instructor interface&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice is&lt;/p&gt;
+&lt;p&gt;1) provided by this courseware package&lt;/p&gt;
+&lt;p&gt;2) conspicuous in the designer/instructor interface&lt;/p&gt;
+&lt;p&gt;3) prompted or required by the interface&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;support&quot; title=&quot;support&quot;&gt;&lt;/a&gt;*Access Support and Information scores are multiplied by the WAI checkpoint Priority Ranking of 1, 2 or 3.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;scrinfo&quot; title=&quot;scrinfo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;scrinfo&quot; title=&quot;scrinfo&quot;&gt;&lt;/a&gt;&lt;strong&gt;Information Scoring: &lt;/strong&gt;&lt;/p&gt;
+&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;7&quot; width=&quot;616&quot; align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;0&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;No information is provided for this accessible authoring practice.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;1&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice:&lt;/p&gt;
+&lt;p&gt;1) is mentioned in the Help System of the courseware package&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice&lt;/p&gt;
+&lt;p&gt;1) is mentioned in the Help System of the courseware package&lt;/p&gt;
+&lt;p&gt;2) has context sensitive prompting&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice:&lt;/p&gt;
+&lt;p&gt;1) is mentioned in the Help System of the courseware package&lt;/p&gt;
+&lt;p&gt;2) has context sensitive prompting&lt;/p&gt;
+&lt;p&gt;3) includes explanations in the Help System&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;11%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;89%&quot; valign=&quot;top&quot;&gt;
+&lt;p&gt;This accessible authoring practice:&lt;/p&gt;
+&lt;p&gt;1) is mentioned in the Help System of the courseware package&lt;/p&gt;
+&lt;p&gt;2) has context sensitive prompting&lt;/p&gt;
+&lt;p&gt;3) includes explanations in the Help System&lt;/p&gt;
+&lt;p&gt;4) has explanatory examples&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;scrinfo&quot; title=&quot;scrinfo&quot;&gt;&lt;/a&gt;The scores for each product must be viewed in terms of &lt;em&gt;&lt;strong&gt;Access Support&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;Functionality&lt;/strong&gt;&lt;/em&gt;. If a product has little functionality but is highly accessible, its usefulness as an authoring tool will be lacking. On the other hand if a product is highly functional, or provides design interfaces for a wide variety of features, it must also include provisions for accessible design, otherwise it adds to the inaccessibility of the Web. A balance must be reached between the number of design features, and their support of accessible design. Providing designers with prompts, prominent accessibility design options, and help files explaining how and why these options should be implemented, educates designers about accessibility issues. Educated designers will be more likely to include accessibility as an integral part of Web based instructional designs; the experience of accessible Web based instruction will be passed on to future Web designers.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;&lt;em&gt;&lt;strong&gt;Course Features Accessibility (Courseware) &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;In addition to assessing accessibility of designer controlled and courseware controlled features, which could be assessed on any HTML authoring tool, course-authoring packages are assessed by their pedagogical features. These components are divided into content and communication tools. Scoring is on a 0 to 4 scale, and like scoring above, access support scores for designer controlled and inherent features are assigned to each of seven components outlined below. Partial scores are awarded where some provisions have been made for accessibility, but where improvements could be made. For example, providing default ALT text for Home Page images inserted by the program, but not where inserted by the designer, might be awarded a score of 2 out of 4. This might be the case where a default button bar is provided with ALT text but additional buttons added by the designer have no way to include it.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Component accessibility is divided into content accessibility and communication accessibility. Content components include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;A Course Home Page&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;A Tools page&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Content pages&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Navigation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Communication tools include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Bulletin Boards&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Internal email&lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Chat&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Each of these are awarded points on a 0 to 4 point scale:&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;(0 = not relevant)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Provision made for ALT text with images, or provides by default. &lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Provision made to provide alternative text links for linked images, or provides by default. &lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Tables used correctly to format layout of the page. &lt;/li&gt;
+&lt;li&gt;&lt;a name=&quot;course&quot; title=&quot;course&quot;&gt;&lt;/a&gt;Does not use frames or Java, or does provide an alternative to them. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name=&quot;summary&quot; title=&quot;summary&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;summary&quot; title=&quot;summary&quot;&gt;&lt;/a&gt;&lt;strong&gt;Reading the Summary Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;summary&quot; title=&quot;summary&quot;&gt;&lt;/a&gt;Scores should be viewed as a group of scores rather than a single score. The Summary Sheet below contains the maximum scores obtainable. For those who want a quick assessment of a product's support of accessible design, the combined Access Support functionality ratio will give you that. A &lt;a href=&quot;http://snow.utoronto.ca/initiatives/crseval/summary.html&quot;&gt;quick comparison summary&lt;/a&gt; is available. For designers and instructors the individual Combined Access Support, Functionality, and Accessibility scores will provide an indication of a product's complexity and how well it will support you in creating accessible Web documents. For developers, or those looking for specific strengths and weaknesses, individual scores on the summary sheet can be compared across packages, or the entire evaluation as zipped Excel 97 tables can be downloaded for comparison.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://legacy.idrc.ocadu.ca/../images/stories/Image1.gif&quot; border=&quot;0&quot; alt=&quot;Excel Spreadsheet Displaying Maximum Scores in a Summary Sheet&quot; width=&quot;561&quot; height=&quot;265&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Courseware Accessibility 1999" />
+	</entry>
+</feed>

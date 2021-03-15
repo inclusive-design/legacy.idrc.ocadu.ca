@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Education</title>
+	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
+	<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca"/>
+	<id>https://legacy.idrc.ocadu.ca/workshops-aamp-trainings</id>
+	<updated>2021-03-15T20:52:20+00:00</updated>
+	<author>
+		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
+		<email>no-reply@idrc.ocadu.ca</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://legacy.idrc.ocadu.ca/workshops-aamp-trainings?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Education</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/workshops-aamp-trainings/415-workshops-aamp-training"/>
+		<published>2011-03-07T19:20:53+00:00</published>
+		<updated>2011-03-07T19:20:53+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/workshops-aamp-trainings/415-workshops-aamp-training</id>
+		<summary type="html">&lt;h3&gt;IDRC and SNOW Classroom Workshop Series&lt;/h3&gt;
+&lt;p&gt;SNOW offers educators and educational assistants a variety of online workshops on accommodating learners with special needs. For course times, visit the &lt;strong&gt;&lt;a href=&quot;http://snow.idrc.ocad.ca/&quot;&gt;SNOW Workshops&lt;/a&gt;&lt;/strong&gt; site.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;view=article&amp;amp;catid=82&amp;amp;id=434&quot;&gt;IDRC's Accessibility Workshops&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Online Courses&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://courses.idrc.ocad.ca/&quot;&gt;Understanding Web Accessibility &lt;/a&gt;- This &lt;strong&gt;Free Online Course&lt;/strong&gt; will help Web authors and developers obtain the skills and understanding needed to create Web sites that comply with accessibility standards. The course focuses on developing expertise with the W3C Web Content Accessibility Guidelines (WCAG 2).&lt;/p&gt;</summary>
+		<content type="html">&lt;h3&gt;IDRC and SNOW Classroom Workshop Series&lt;/h3&gt;
+&lt;p&gt;SNOW offers educators and educational assistants a variety of online workshops on accommodating learners with special needs. For course times, visit the &lt;strong&gt;&lt;a href=&quot;http://snow.idrc.ocad.ca/&quot;&gt;SNOW Workshops&lt;/a&gt;&lt;/strong&gt; site.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;view=article&amp;amp;catid=82&amp;amp;id=434&quot;&gt;IDRC's Accessibility Workshops&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Online Courses&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://courses.idrc.ocad.ca/&quot;&gt;Understanding Web Accessibility &lt;/a&gt;- This &lt;strong&gt;Free Online Course&lt;/strong&gt; will help Web authors and developers obtain the skills and understanding needed to create Web sites that comply with accessibility standards. The course focuses on developing expertise with the W3C Web Content Accessibility Guidelines (WCAG 2).&lt;/p&gt;</content>
+		<category term="Education" />
+	</entry>
+</feed>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">IDRC Online</title>
+	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
+	<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca"/>
+	<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/22-tutorials</id>
+	<updated>2021-03-15T21:03:50+00:00</updated>
+	<author>
+		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
+		<email>no-reply@idrc.ocadu.ca</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/22-tutorials?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Tutorials</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/tutorials"/>
+		<published>2006-01-23T11:20:07+00:00</published>
+		<updated>2006-01-23T11:20:07+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/tutorials</id>
+		<summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=124&amp;amp;Itemid=48&quot;&gt;Downloading and Installing WinZip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/52-tutorials/quick-guides/139-read-please&quot;&gt;Downloading and Installing Read Please 2003&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/126-downloading-and-installing-help-read&quot;&gt;Downloading and Installing Help Read&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/127-windows-display-properties&quot;&gt;Using the Windows Display Properties Panel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/128-dragon-naturally-speaking-initial-voice-training&quot;&gt;Dragon Naturally Speaking Initial Training&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/129-dragon-naturally-speaking-supplementary-training-and-re-training&quot;&gt;Dragon Naturally Speaking Supplementary Training and Re-Training&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/130-dragon-naturally-speaking-basic-features&quot;&gt;Dragon Naturally Speaking Basic Features&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/281-inspiration-7&quot;&gt;Inspiration Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Digital Recorder Tutorial (Coming Soon)&lt;/li&gt;
+&lt;li&gt;Kurzweil 3000 Tutorial
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/132-kurzweil-3000-reading-the-web&quot;&gt;Reading the Web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/142-kurzweil-3000-study-skills-toolbar&quot;&gt;Study Skills Toolbar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/143-kurzweil-3000-classic-toolbar&quot;&gt;The Classic Toolbar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/144-kurzweil-3000-reading-toolbar&quot;&gt;The Reading Toolbar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/145-kurzweil-3000-writing-toolbar&quot;&gt;The Writing Toolbar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=124&amp;amp;Itemid=48&quot;&gt;Downloading and Installing WinZip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/52-tutorials/quick-guides/139-read-please&quot;&gt;Downloading and Installing Read Please 2003&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/126-downloading-and-installing-help-read&quot;&gt;Downloading and Installing Help Read&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/127-windows-display-properties&quot;&gt;Using the Windows Display Properties Panel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/128-dragon-naturally-speaking-initial-voice-training&quot;&gt;Dragon Naturally Speaking Initial Training&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/129-dragon-naturally-speaking-supplementary-training-and-re-training&quot;&gt;Dragon Naturally Speaking Supplementary Training and Re-Training&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/130-dragon-naturally-speaking-basic-features&quot;&gt;Dragon Naturally Speaking Basic Features&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/281-inspiration-7&quot;&gt;Inspiration Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Digital Recorder Tutorial (Coming Soon)&lt;/li&gt;
+&lt;li&gt;Kurzweil 3000 Tutorial
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/132-kurzweil-3000-reading-the-web&quot;&gt;Reading the Web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/142-kurzweil-3000-study-skills-toolbar&quot;&gt;Study Skills Toolbar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/143-kurzweil-3000-classic-toolbar&quot;&gt;The Classic Toolbar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/144-kurzweil-3000-reading-toolbar&quot;&gt;The Reading Toolbar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/145-kurzweil-3000-writing-toolbar&quot;&gt;The Writing Toolbar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Tutorials" />
+	</entry>
+	<entry>
+		<title>Quick Guides</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/tutorials/quick-guides"/>
+		<published>2006-03-22T11:44:27+00:00</published>
+		<updated>2006-03-22T11:44:27+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/tutorials/quick-guides</id>
+		<summary type="html">&lt;blockquote&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=133&amp;amp;Itemid=104&quot;&gt;Kurzweil            3000&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=134&amp;amp;Itemid=104&quot;&gt;OmniPage Pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=135&amp;amp;Itemid=104&quot;&gt;Dragon            Naturally Speaking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=136&amp;amp;Itemid=104&quot;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=137&amp;amp;Itemid=104&quot;&gt;JAWS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=138&amp;amp;Itemid=104&quot;&gt;Mind            Manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=139&amp;amp;Itemid=104&quot;&gt;Read            Please&lt;/a&gt;&lt;/li&gt;
+&lt;/div&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=140&amp;amp;Itemid=104&quot;&gt;ZoomText&lt;/a&gt;&lt;/li&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;</summary>
+		<content type="html">&lt;blockquote&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=133&amp;amp;Itemid=104&quot;&gt;Kurzweil            3000&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=134&amp;amp;Itemid=104&quot;&gt;OmniPage Pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=135&amp;amp;Itemid=104&quot;&gt;Dragon            Naturally Speaking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=136&amp;amp;Itemid=104&quot;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=137&amp;amp;Itemid=104&quot;&gt;JAWS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=138&amp;amp;Itemid=104&quot;&gt;Mind            Manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=139&amp;amp;Itemid=104&quot;&gt;Read            Please&lt;/a&gt;&lt;/li&gt;
+&lt;/div&gt;
+&lt;li&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=140&amp;amp;Itemid=104&quot;&gt;ZoomText&lt;/a&gt;&lt;/li&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;</content>
+		<category term="Tutorials" />
+	</entry>
+	<entry>
+		<title>Inspiration 7</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/281-inspiration-7"/>
+		<published>2006-06-05T10:32:15+00:00</published>
+		<updated>2006-06-05T10:32:15+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/281-inspiration-7</id>
+		<author>
+			<name>Avtar Gill</name>
+			<email>agill@ocadu.ca</email>
+		</author>
+		<category term="Tutorials" />
+	</entry>
+	<entry>
+		<title>Kurzweil 3000 Writing Toolbar</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/145-kurzweil-3000-writing-toolbar"/>
+		<published>2006-03-22T12:22:31+00:00</published>
+		<updated>2006-03-22T12:22:31+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/145-kurzweil-3000-writing-toolbar</id>
+		<category term="Tutorials" />
+	</entry>
+	<entry>
+		<title>Kurzweil 3000 Reading Toolbar</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/144-kurzweil-3000-reading-toolbar"/>
+		<published>2006-03-22T12:21:56+00:00</published>
+		<updated>2006-03-22T12:21:56+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/144-kurzweil-3000-reading-toolbar</id>
+		<category term="Tutorials" />
+	</entry>
+	<entry>
+		<title>Kurzweil 3000 Classic Toolbar</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/143-kurzweil-3000-classic-toolbar"/>
+		<published>2006-03-22T12:21:05+00:00</published>
+		<updated>2006-03-22T12:21:05+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/143-kurzweil-3000-classic-toolbar</id>
+		<category term="Tutorials" />
+	</entry>
+	<entry>
+		<title>Kurzweil 3000 Study Skills Toolbar</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/142-kurzweil-3000-study-skills-toolbar"/>
+		<published>2006-03-22T12:20:24+00:00</published>
+		<updated>2006-03-22T12:20:24+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/142-kurzweil-3000-study-skills-toolbar</id>
+		<category term="Tutorials" />
+	</entry>
+	<entry>
+		<title>Kurzweil 3000 Reading the Web</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/132-kurzweil-3000-reading-the-web"/>
+		<published>2006-03-22T11:19:54+00:00</published>
+		<updated>2006-03-22T11:19:54+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/132-kurzweil-3000-reading-the-web</id>
+		<category term="Tutorials" />
+	</entry>
+	<entry>
+		<title>Dragon Naturally Speaking Basic Features</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/130-dragon-naturally-speaking-basic-features"/>
+		<published>2006-03-22T11:13:58+00:00</published>
+		<updated>2006-03-22T11:13:58+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/130-dragon-naturally-speaking-basic-features</id>
+		<category term="Tutorials" />
+	</entry>
+	<entry>
+		<title>Dragon Naturally Speaking Supplementary Training and Re-Training</title>
+		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/129-dragon-naturally-speaking-supplementary-training-and-re-training"/>
+		<published>2006-03-22T11:12:34+00:00</published>
+		<updated>2006-03-22T11:12:34+00:00</updated>
+		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/51-tutorials/tutorials/129-dragon-naturally-speaking-supplementary-training-and-re-training</id>
+		<category term="Tutorials" />
+	</entry>
+</feed>
