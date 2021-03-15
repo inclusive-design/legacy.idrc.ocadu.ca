@@ -4,19 +4,19 @@
 	<channel>
 		<title>Welcome to the Frontpage</title>
 		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
-		<link>https://legacy.idrc.ocadu.ca/18-unfiled</link>
+		<link>/18-unfiled</link>
 		<lastBuildDate>Mon, 15 Mar 2021 21:12:38 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/18-unfiled?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/18-unfiled?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
 		<item>
 			<title>Employment Opportunities</title>
-			<link>https://legacy.idrc.ocadu.ca/about-the-idrc/employment-opportunities</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/about-the-idrc/employment-opportunities</guid>
+			<link>/about-the-idrc/employment-opportunities</link>
+			<guid isPermaLink="true">/about-the-idrc/employment-opportunities</guid>
 			<description><![CDATA[<p>The IDRC is a vibrant research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to help ensure that emerging information technology and practices are designed inclusively.</p>
 <p>We have a flexible non-profit work environment and are committed to designing software and best practices that are inclusive of the full range of human diversity.</p>
-<p>For more information on our projects, please visit <a href="https://legacy.idrc.ocadu.ca/index.php/research-and-development" title="IDRC Research &amp; Development">Research and Development</a>.</p>
+<p>For more information on our projects, please visit <a href="/index.php/research-and-development" title="IDRC Research &amp; Development">Research and Development</a>.</p>
 <hr />
 <div><strong>Open Position: Inclusive Developer (AI &amp; Machine Learning)<br /></strong></div>
 <div>&nbsp;</div>

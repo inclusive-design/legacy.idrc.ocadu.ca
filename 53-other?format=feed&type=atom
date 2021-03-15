@@ -3,21 +3,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
 	<title type="text">Welcome to the Frontpage</title>
 	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
-	<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca"/>
-	<id>https://legacy.idrc.ocadu.ca/53-other</id>
+	<link rel="alternate" type="text/html" href=""/>
+	<id>/53-other</id>
 	<updated>2021-03-15T21:12:01+00:00</updated>
 	<author>
 		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
 		<email>no-reply@idrc.ocadu.ca</email>
 	</author>
 	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
-	<link rel="self" type="application/atom+xml" href="https://legacy.idrc.ocadu.ca/53-other?format=feed&amp;type=atom"/>
+	<link rel="self" type="application/atom+xml" href="/53-other?format=feed&amp;type=atom"/>
 	<entry>
 		<title>If you want to change the world, look to the margins.</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/53-other/451-if-you-want-to-change-the-world-look-to-the-margins"/>
+		<link rel="alternate" type="text/html" href="/53-other/451-if-you-want-to-change-the-world-look-to-the-margins"/>
 		<published>2011-05-05T16:34:00+00:00</published>
 		<updated>2011-05-05T16:34:00+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/53-other/451-if-you-want-to-change-the-world-look-to-the-margins</id>
+		<id>/53-other/451-if-you-want-to-change-the-world-look-to-the-margins</id>
 		<author>
 			<name>Greg Gay</name>
 			<email>greggay@rogers.com</email>
@@ -36,10 +36,10 @@
 	</entry>
 	<entry>
 		<title>The Value of Imperfection: the Wabi-Sabi Principle in Aesthetics and Learning</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/53-other/450-wabi-sabi-google-doc"/>
+		<link rel="alternate" type="text/html" href="/53-other/450-wabi-sabi-google-doc"/>
 		<published>2011-05-03T19:37:18+00:00</published>
 		<updated>2011-05-03T19:37:18+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/53-other/450-wabi-sabi-google-doc</id>
+		<id>/53-other/450-wabi-sabi-google-doc</id>
 		<author>
 			<name>Greg Gay</name>
 			<email>greggay@rogers.com</email>

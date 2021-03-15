@@ -3,21 +3,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
 	<title type="text">Welcome to the Frontpage</title>
 	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
-	<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca"/>
-	<id>https://legacy.idrc.ocadu.ca/33-services</id>
+	<link rel="alternate" type="text/html" href=""/>
+	<id>/33-services</id>
 	<updated>2021-03-15T21:13:28+00:00</updated>
 	<author>
 		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
 		<email>no-reply@idrc.ocadu.ca</email>
 	</author>
 	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
-	<link rel="self" type="application/atom+xml" href="https://legacy.idrc.ocadu.ca/33-services?format=feed&amp;type=atom"/>
+	<link rel="self" type="application/atom+xml" href="/33-services?format=feed&amp;type=atom"/>
 	<entry>
 		<title>IDRC Web Accessibility Review Services</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/33-services/479-websavvy"/>
+		<link rel="alternate" type="text/html" href="/33-services/479-websavvy"/>
 		<published>2013-11-07T21:38:04+00:00</published>
 		<updated>2013-11-07T21:38:04+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/33-services/479-websavvy</id>
+		<id>/33-services/479-websavvy</id>
 		<author>
 			<name>Avtar Gill</name>
 			<email>agill@ocadu.ca</email>
@@ -32,10 +32,10 @@
 	</entry>
 	<entry>
 		<title>Vision Technology Service</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/33-services/57-vision-technology-service"/>
+		<link rel="alternate" type="text/html" href="/33-services/57-vision-technology-service"/>
 		<published>2006-01-26T13:46:27+00:00</published>
 		<updated>2006-01-26T13:46:27+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/33-services/57-vision-technology-service</id>
+		<id>/33-services/57-vision-technology-service</id>
 		<author>
 			<name>Lizna Husnani-Puchta</name>
 			<email>lhusnanipuchta@ocad.ca</email>

@@ -4,16 +4,16 @@
 	<channel>
 		<title>IDRC Online</title>
 		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
-		<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/81-you-tube-video-presentations</link>
+		<link>/resources/idrc-online/81-you-tube-video-presentations</link>
 		<lastBuildDate>Mon, 15 Mar 2021 21:03:35 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/81-you-tube-video-presentations?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/resources/idrc-online/81-you-tube-video-presentations?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
 		<item>
 			<title>Video Presentations</title>
-			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/youtube-video-presentations</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/youtube-video-presentations</guid>
+			<link>/resources/idrc-online/youtube-video-presentations</link>
+			<guid isPermaLink="true">/resources/idrc-online/youtube-video-presentations</guid>
 			<description><![CDATA[<p>The following are links to video presentations and project demonstrations by IDRC staff . Choosing the linked video titles will take you the host site. Clicking on the embedded images will play the movie within this site. As the IDRC may not have been responsible for the addition of the video to video streaming services, not all of the videos have been fully captioned. If the video you require has not been captioned, please request a transcript of the presentation by contacting us at idi@ocad.ca. We will strive to upload captioned versions of these presentations as soon as possible.</p>
 <ul>
 <li><a href="http://www.universalsubtitles.org/en/videos/nbvtEbO9nyZ7/info/">Jutta Treviranus offers five hots tips for start-ups</a></li>

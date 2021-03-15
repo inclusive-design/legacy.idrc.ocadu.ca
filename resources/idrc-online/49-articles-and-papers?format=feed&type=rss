@@ -4,125 +4,125 @@
 	<channel>
 		<title>IDRC Online</title>
 		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
-		<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers</link>
+		<link>/resources/idrc-online/49-articles-and-papers</link>
 		<lastBuildDate>Mon, 15 Mar 2021 21:03:39 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/resources/idrc-online/49-articles-and-papers?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
 		<item>
 			<title>Articles &amp; Papers</title>
-			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/menuarticles</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/menuarticles</guid>
+			<link>/resources/idrc-online/menuarticles</link>
+			<guid isPermaLink="true">/resources/idrc-online/menuarticles</guid>
 			<description><![CDATA[<p>The following links are to articles and papers written by the IDRC Staff.</p>
 <ul>
-<li><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/31-empty/449-wabi-sabi-article">The Value of Imperfection: the Wabi-Sabi Principle in Aesthetics and Learning</a> (<a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/53-other/450-wabi-sabi-google-doc">View Article in Google Docs</a>)</li>
+<li><a href="/resources/idrc-online/31-empty/449-wabi-sabi-article">The Value of Imperfection: the Wabi-Sabi Principle in Aesthetics and Learning</a> (<a href="/resources/idrc-online/53-other/450-wabi-sabi-google-doc">View Article in Google Docs</a>)</li>
 </ul>
 <div class="items-more">
 <h3>More Articles...</h3>
 <ol>
 <li><a href="http://www.educause.edu/ero/article/value-statistically-insignificant">The Value of the Statistically Insignificant</a> (published in <a href="http://www.educause.edu/ero">EDUCAUSE Review® Online</a>)</li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/453-leveraging-inclusion-and-diversity-as-canadas-digital-advantage">Leveraging Inclusion and Diversity as Canada's Digital Advantage</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/427-masters-program-inclusive-design-building-the-brain-trust-needed-to-support-an-accessible-digital-future"> Master’s Program: Inclusive Design Building the Brain Trust Needed to Support an Accessible Digital Future</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/398-abilities-magazine-articles"> Abilities Magazine Articles</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/408-you-say-tomato-i-say-tomato-lets-not-call-the-whole-thing-off-the-challenge-of-ux-design"> You say tomato, I say tomato, let's not call the whole thing off: the challenge of UX design</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/393-inclusion-promotoes-innovation-published-2007"> Inclusion Promotoes Innovation (Published 2007)</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/library-of-papers/accessibility-issues-with-ooxml"> Accessibility Issues with OOXML (Published 2008)</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/online-resources/49-articles-and-papers/217-stylish-information-access-cascading-stylesheets-on-the-world-wide-web-csun-1998-"> Stylish Information Access: Cascading Stylesheets on the World Wide Web (CSUN 1998 )</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/online-resources/49-articles-and-papers/218-stylish-information-access-cascading-stylesheets-paper-csun-1998-"> Stylish Information Access: Cascading Stylesheets (paper) (CSUN 1998 )</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/79-accessible-government-web-resources-including-everyone-in-online-access"> Accessible Government Web Resources: Including Everyone in Online Access</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/367-best-practices"> Best Practices</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/215-cascading-stylesheets-and-accessiblity"> Cascading StyleSheets and Accessiblity </a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/80-caution-tampering-with-reality-for-a-good-cause"> Caution: Tampering with Reality (for a good cause) </a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/213-initial-survey-of-reality-modelling-language-access-issues-draft-1b"> Initial Survey of Reality Modelling Language Access Issues (Draft 1b)</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/453-leveraging-inclusion-and-diversity-as-canadas-digital-advantage">Leveraging Inclusion and Diversity as Canada's Digital Advantage</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/427-masters-program-inclusive-design-building-the-brain-trust-needed-to-support-an-accessible-digital-future"> Master’s Program: Inclusive Design Building the Brain Trust Needed to Support an Accessible Digital Future</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/398-abilities-magazine-articles"> Abilities Magazine Articles</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/408-you-say-tomato-i-say-tomato-lets-not-call-the-whole-thing-off-the-challenge-of-ux-design"> You say tomato, I say tomato, let's not call the whole thing off: the challenge of UX design</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/393-inclusion-promotoes-innovation-published-2007"> Inclusion Promotoes Innovation (Published 2007)</a></li>
+<li><a href="/index.php/resources/idrc-online/library-of-papers/accessibility-issues-with-ooxml"> Accessibility Issues with OOXML (Published 2008)</a></li>
+<li><a href="/index.php/resources/online-resources/49-articles-and-papers/217-stylish-information-access-cascading-stylesheets-on-the-world-wide-web-csun-1998-"> Stylish Information Access: Cascading Stylesheets on the World Wide Web (CSUN 1998 )</a></li>
+<li><a href="/index.php/resources/online-resources/49-articles-and-papers/218-stylish-information-access-cascading-stylesheets-paper-csun-1998-"> Stylish Information Access: Cascading Stylesheets (paper) (CSUN 1998 )</a></li>
+<li><a href="/resources/idrc-online/49-articles-and-papers/79-accessible-government-web-resources-including-everyone-in-online-access"> Accessible Government Web Resources: Including Everyone in Online Access</a></li>
+<li><a href="/resources/idrc-online/49-articles-and-papers/367-best-practices"> Best Practices</a></li>
+<li><a href="/resources/idrc-online/49-articles-and-papers/215-cascading-stylesheets-and-accessiblity"> Cascading StyleSheets and Accessiblity </a></li>
+<li><a href="/resources/idrc-online/49-articles-and-papers/80-caution-tampering-with-reality-for-a-good-cause"> Caution: Tampering with Reality (for a good cause) </a></li>
+<li><a href="/resources/idrc-online/49-articles-and-papers/213-initial-survey-of-reality-modelling-language-access-issues-draft-1b"> Initial Survey of Reality Modelling Language Access Issues (Draft 1b)</a></li>
 <li><a href="http://www.imsglobal.org/accessibility/accessiblevers/index.html"> IMS Guidelianes for Developing Accessible Learning Applications</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/298-inclusion-in-an-electronic-classroom"> Inclusion in an Electronic Classroom</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/97-virtual-reality-applications-to-work-1998-"> Virtual Reality Applications to Work (1998 )</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/209-adding-feeling-sound-and-equal-access-to-distance-education-paper"> Adding Feeling, Sound and Equal Access to Distance Education (Paper)</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/211-haptic-applications-to-virtual-worlds"> Haptic Applications to Virtual worlds</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/83-high-technology-reading-and-writing-devices-for-people-with-vision-problems"> High Technology Reading and Writing Devices for People with Vision Problems</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/84-outcome-measures-for-high-technology-vision-aids"> Outcome Measures for High Technology Vision Aids</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/85-outcome-measures-in-vision-technology"> Outcome Measures in Vision Technology</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/86-adapting-for-visual-impairment-in-children-with-abnormal-muscle-tone"> Adapting for Visual Impairment in Children with Abnormal Muscle Tone</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/89-click-the-captions-select-the-descriptions"> Click the Captions, Select the Descriptions</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/90-building-accessible-curriculum-and-courseware-tools-education-beyond-the-campus-2000"> Building Accessible Curriculum and Courseware Tools - Education Beyond the Campus (2000)</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/91-accessible-web-based-distance-education-principles-and-best-practices"> Accessible Web-based Distance Education: Principles and Best Practices</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/94-adding-feeling-sound-and-equal-access-to-distance-education"> Adding Feeling, Sound and Equal Access to Distance Education</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/95-authoring-tool-support-qthe-best-place-to-improve-the-webq"> Authoring Tool Support: "The Best Place to Improve the Web"</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/96-snow--special-needs-opportunity-windows-just-in-time-on-line-information-for-educators"> SNOW ( Special Needs Opportunity Windows) Just-in-Time, On-Line Information for Educators</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/97-virtual-reality-applications-to-work-1998-"> Virtual Reality Applications to Work (1998 )</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/98-access-to-web-based-special-education"> Access to Web-based Special Education</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/99-nimble-document-navigation-using-alternative-access-tools"> Nimble Document Navigation Using Alternative Access Tools</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/100-web-browsing-through-adaptive-technology-a-consumer-information-resource-april-1996"> Web Browsing through Adaptive Technology: A Consumer Information Resource (April 1996)</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/101-exploiting-web-tools-to-make-html-documents-accessible"> Exploiting Web Tools to Make HTML Documents Accessible</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/102-pediatric-power-1995"> Pediatric Power (1995)</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/103-identifying-and-adapting-for-visual-impairment-in-the-client-with-physical-disabilities-march-1996"> Identifying and Adapting for Visual Impairment in the Client With Physical Disabilities (March 1996)</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/104-vrml-shouldnt-virtual-ramps-be-easier-to-build"> VRML: Shouldn't Virtual Ramps be Easier to Build</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/105-alternative-access-to-the-world-wide-web"> Alternative Access to the World Wide Web</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/106-increasing-access-to-world-wide-web-sites-for-blind-and-visually-impaired-computer-users-1996"> Increasing Access to World Wide Web Sites for Blind and Visually Impaired Computer Users (1996)</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/107-access-technologies-for-the-graphical-user-interface"> Access Technologies for the Graphical User Interface</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/108-the-electronic-campus-and-equal-access-to-higher-education"> The Electronic Campus and Equal Access to Higher Education</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/109-integrated-access-to-powered-mobility-tilter-computer-and-environmental-control-june-1995"> Integrated Access To Powered Mobility, Tilter, Computer, And Environmental Control (June 1995)</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/110-mastering-alternative-computer-access-the-role-of-understanding-trust-and-automaticity"> Mastering Alternative Computer Access: The Role of Understanding, Trust, and Automaticity</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/298-inclusion-in-an-electronic-classroom"> Inclusion in an Electronic Classroom</a></li>
+<li><a href="/resources/idrc-online/49-articles-and-papers/97-virtual-reality-applications-to-work-1998-"> Virtual Reality Applications to Work (1998 )</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/209-adding-feeling-sound-and-equal-access-to-distance-education-paper"> Adding Feeling, Sound and Equal Access to Distance Education (Paper)</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/211-haptic-applications-to-virtual-worlds"> Haptic Applications to Virtual worlds</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/83-high-technology-reading-and-writing-devices-for-people-with-vision-problems"> High Technology Reading and Writing Devices for People with Vision Problems</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/84-outcome-measures-for-high-technology-vision-aids"> Outcome Measures for High Technology Vision Aids</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/85-outcome-measures-in-vision-technology"> Outcome Measures in Vision Technology</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/86-adapting-for-visual-impairment-in-children-with-abnormal-muscle-tone"> Adapting for Visual Impairment in Children with Abnormal Muscle Tone</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/89-click-the-captions-select-the-descriptions"> Click the Captions, Select the Descriptions</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/90-building-accessible-curriculum-and-courseware-tools-education-beyond-the-campus-2000"> Building Accessible Curriculum and Courseware Tools - Education Beyond the Campus (2000)</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/91-accessible-web-based-distance-education-principles-and-best-practices"> Accessible Web-based Distance Education: Principles and Best Practices</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/94-adding-feeling-sound-and-equal-access-to-distance-education"> Adding Feeling, Sound and Equal Access to Distance Education</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/95-authoring-tool-support-qthe-best-place-to-improve-the-webq"> Authoring Tool Support: "The Best Place to Improve the Web"</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/96-snow--special-needs-opportunity-windows-just-in-time-on-line-information-for-educators"> SNOW ( Special Needs Opportunity Windows) Just-in-Time, On-Line Information for Educators</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/97-virtual-reality-applications-to-work-1998-"> Virtual Reality Applications to Work (1998 )</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/98-access-to-web-based-special-education"> Access to Web-based Special Education</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/99-nimble-document-navigation-using-alternative-access-tools"> Nimble Document Navigation Using Alternative Access Tools</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/100-web-browsing-through-adaptive-technology-a-consumer-information-resource-april-1996"> Web Browsing through Adaptive Technology: A Consumer Information Resource (April 1996)</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/101-exploiting-web-tools-to-make-html-documents-accessible"> Exploiting Web Tools to Make HTML Documents Accessible</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/102-pediatric-power-1995"> Pediatric Power (1995)</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/103-identifying-and-adapting-for-visual-impairment-in-the-client-with-physical-disabilities-march-1996"> Identifying and Adapting for Visual Impairment in the Client With Physical Disabilities (March 1996)</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/104-vrml-shouldnt-virtual-ramps-be-easier-to-build"> VRML: Shouldn't Virtual Ramps be Easier to Build</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/105-alternative-access-to-the-world-wide-web"> Alternative Access to the World Wide Web</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/106-increasing-access-to-world-wide-web-sites-for-blind-and-visually-impaired-computer-users-1996"> Increasing Access to World Wide Web Sites for Blind and Visually Impaired Computer Users (1996)</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/107-access-technologies-for-the-graphical-user-interface"> Access Technologies for the Graphical User Interface</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/108-the-electronic-campus-and-equal-access-to-higher-education"> The Electronic Campus and Equal Access to Higher Education</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/109-integrated-access-to-powered-mobility-tilter-computer-and-environmental-control-june-1995"> Integrated Access To Powered Mobility, Tilter, Computer, And Environmental Control (June 1995)</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/110-mastering-alternative-computer-access-the-role-of-understanding-trust-and-automaticity"> Mastering Alternative Computer Access: The Role of Understanding, Trust, and Automaticity</a></li>
 </ol></div>]]></description>
 			<category>Articles and Papers</category>
 			<pubDate>Thu, 10 Mar 2011 20:44:56 +0000</pubDate>
 		</item>
 		<item>
 			<title>Leveraging Inclusion and Diversity as Canada's Digital Advantage</title>
-			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/453-leveraging-inclusion-and-diversity-as-canadas-digital-advantage</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/453-leveraging-inclusion-and-diversity-as-canadas-digital-advantage</guid>
+			<link>/resources/idrc-online/49-articles-and-papers/453-leveraging-inclusion-and-diversity-as-canadas-digital-advantage</link>
+			<guid isPermaLink="true">/resources/idrc-online/49-articles-and-papers/453-leveraging-inclusion-and-diversity-as-canadas-digital-advantage</guid>
 			<description><![CDATA[<h1 style="text-align: center;">Leveraging Inclusion and Diversity as Canada's Digital Advantage</h1>
 <p style="text-align: center;">A report submitted to:<br /> Social Sciences and Humanities Research Council of Canada<br /> Knowledge Synthesis Grants on the Digital Economy</p>
 <p style="text-align: center;">by<br /> Jutta Treviranus, Inclusive Design Research Centre, OCAD University<br /> Kevin Stolarick, and Mark Denstedt, Martin Prosperity Institute<br /> Catherine Fichten and Jennison Ascunsion, Adaptech Research Network, Dawson College</p>
-<p style="text-align: center;"><img src="https://legacy.idrc.ocadu.ca/images/stories/idrc_adaptech_mpi.png" border="0" alt="Logos for the Inclusive Design Research Centre, Adaptech and Martin Prosperity Institute." width="563" height="268" /></p>
-<p style="text-align: center;"><span style="font-size: medium;"><strong></strong></span><strong><a href="https://legacy.idrc.ocadu.ca/images/stories/DraftInclusionSSHRCreportFinal)-first32.pdf">Download accessible pdf version of this report. </a></strong></p>
+<p style="text-align: center;"><img src="/images/stories/idrc_adaptech_mpi.png" border="0" alt="Logos for the Inclusive Design Research Centre, Adaptech and Martin Prosperity Institute." width="563" height="268" /></p>
+<p style="text-align: center;"><span style="font-size: medium;"><strong></strong></span><strong><a href="/images/stories/DraftInclusionSSHRCreportFinal)-first32.pdf">Download accessible pdf version of this report. </a></strong></p>
 <hr />
 <h1>The Authors</h1>
-<p>The Inclusive Design Research Centre (<a href="https://legacy.idrc.ocadu.ca/../">http://idrc.ocad.ca</a>) is a reconstitution and academic expansion of the Adaptive Technology Resource Centre of the University of Toronto at OCAD University. Led by Jutta Treviranus, it is an internationally recognized centre of expertise in the inclusive design of emerging information and communication systems and practices. The centre conducts proactive research and development to ensure that emerging information technologies accommodate the full range of human diversity including culture, language, age, and ability. Through a large number of multi-partner, multi-sector projects, the centre has formed an extensive international network. Experts at the centre have helped to create policy, standards and exemplars in a broad range of domains including education, banking, public Web sites, edemocracy, and cultural exchange.</p>
+<p>The Inclusive Design Research Centre (<a href="/../">http://idrc.ocad.ca</a>) is a reconstitution and academic expansion of the Adaptive Technology Resource Centre of the University of Toronto at OCAD University. Led by Jutta Treviranus, it is an internationally recognized centre of expertise in the inclusive design of emerging information and communication systems and practices. The centre conducts proactive research and development to ensure that emerging information technologies accommodate the full range of human diversity including culture, language, age, and ability. Through a large number of multi-partner, multi-sector projects, the centre has formed an extensive international network. Experts at the centre have helped to create policy, standards and exemplars in a broad range of domains including education, banking, public Web sites, edemocracy, and cultural exchange.</p>
 <p>The Adaptech Research Network (<a href="http://adaptech.dawsoncollege.qc.ca/">http://adaptech.dawsoncollege.qc.ca/</a>) consists of a team of academics, students and consumers. It conducts research on facilitators and barriers to academic success as well as on the use of computer, information, and adaptive technologies by Canadian college and university students with diverse disabilities. Based at Dawson College and affiliated with McGill University, it conducts research bilingually. The goal of the Network is to provide empirically based information to assist in decision making that ensures that new policies, software and hardware reflect the needs and concerns of a variety of individuals. The Adaptech Research Network is co-directed by Jennison Asuncion, M.A., Maria Barile, M.S.W., and Catherine Fichten, Ph.D.</p>
 <p>The Martin Prosperity Institute (<a href="http://www.martinprosperity.org/about-the-institute">http://www.martinprosperity.org/about-the-institute</a>) is the world's leading think-tank on the role of sub-national factors - location, place and city-regions - in global economic prosperity. Led by Director Richard Florida and Kevin Stolarick, it takes an integrated view of prosperity, looking beyond economic measures to include the importance of quality of place and the development of people's creative potential. The Institute conducts relevant research to shape debate about economic prosperity and to inform private, public and civic decision-making at the highest levels.</p>
 <h1>Contents</h1>
 <ul>
-<li><a href="https://legacy.idrc.ocadu.ca/#_introduction_challenge_opportunity">Introduction - The Challenge and the Opportunity</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#_ICTaccessnotanoption">ICT Access Not an Option</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#_increaseinincidenceofdisabilities">Increase in Incidence of Disabilities</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#_current_digital_inclusion_strategies">Current Digital Inclusion Strategies</a> 
+<li><a href="/#_introduction_challenge_opportunity">Introduction - The Challenge and the Opportunity</a></li>
+<li><a href="/#_ICTaccessnotanoption">ICT Access Not an Option</a></li>
+<li><a href="/#_increaseinincidenceofdisabilities">Increase in Incidence of Disabilities</a></li>
+<li><a href="/#_current_digital_inclusion_strategies">Current Digital Inclusion Strategies</a> 
 <ul>
-<li><a href="https://legacy.idrc.ocadu.ca/#_Techgap">Assistive Technology and the Technology Gap</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#special_service_delivery" title="special service delivery">Special Service Delivery</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#legislation">Legislation, Policy and Compliance</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#AuthoringTools">Authoring Tools</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#ObtainingDigitalSkills">Obtaining Digital Skills</a></li>
+<li><a href="/#_Techgap">Assistive Technology and the Technology Gap</a></li>
+<li><a href="/#special_service_delivery" title="special service delivery">Special Service Delivery</a></li>
+<li><a href="/#legislation">Legislation, Policy and Compliance</a></li>
+<li><a href="/#AuthoringTools">Authoring Tools</a></li>
+<li><a href="/#ObtainingDigitalSkills">Obtaining Digital Skills</a></li>
 </ul>
 </li>
-<li><a href="https://legacy.idrc.ocadu.ca/#PotentialofICT">Potential of ICT to address a variety of access barriers</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#DesignforAll">Design For All</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#ReframingournotionOfDisability">Reframing our notion of Disability</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#AbsolutevsRelativeFraming">Absolute vs Relative Framing of Disability</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#ShiftinAccessibiltyApproach">Shift in Accessibility Approach</a> 
+<li><a href="/#PotentialofICT">Potential of ICT to address a variety of access barriers</a></li>
+<li><a href="/#DesignforAll">Design For All</a></li>
+<li><a href="/#ReframingournotionOfDisability">Reframing our notion of Disability</a></li>
+<li><a href="/#AbsolutevsRelativeFraming">Absolute vs Relative Framing of Disability</a></li>
+<li><a href="/#ShiftinAccessibiltyApproach">Shift in Accessibility Approach</a> 
 <ul>
-<li><a href="https://legacy.idrc.ocadu.ca/#AccessForAll">AccessForAll</a></li>
+<li><a href="/#AccessForAll">AccessForAll</a></li>
 </ul>
 </li>
-<li><a href="https://legacy.idrc.ocadu.ca/#HelpfulTechTrends">Helpful Technical Trends</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#Opportunities">Opportunities</a> 
+<li><a href="/#HelpfulTechTrends">Helpful Technical Trends</a></li>
+<li><a href="/#Opportunities">Opportunities</a> 
 <ul>
-<li><a href="https://legacy.idrc.ocadu.ca/#DemandforInclusivelyDesignedServices">Demand for Inclusively Designed Services and Products</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#DemandHumanCapacity">Demand for Human Capacity</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#DiversityandInnovation">Diversity and Innovation</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#EconomicImpactofInclusiveDesign">Economic Impact of Inclusive Design</a></li>
+<li><a href="/#DemandforInclusivelyDesignedServices">Demand for Inclusively Designed Services and Products</a></li>
+<li><a href="/#DemandHumanCapacity">Demand for Human Capacity</a></li>
+<li><a href="/#DiversityandInnovation">Diversity and Innovation</a></li>
+<li><a href="/#EconomicImpactofInclusiveDesign">Economic Impact of Inclusive Design</a></li>
 </ul>
 </li>
-<li><a href="https://legacy.idrc.ocadu.ca/#RoleofStandards">The Role of Standards</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#InclusiveDesignasEconomicDriver">Inclusive Design as Economic Driver</a> 
+<li><a href="/#RoleofStandards">The Role of Standards</a></li>
+<li><a href="/#InclusiveDesignasEconomicDriver">Inclusive Design as Economic Driver</a> 
 <ul>
-<li><a href="https://legacy.idrc.ocadu.ca/#CanadasPosition">Canada's Position in the World</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#RequirementsIndustryCluster">Requirements for an Industry Cluster</a></li>
+<li><a href="/#CanadasPosition">Canada's Position in the World</a></li>
+<li><a href="/#RequirementsIndustryCluster">Requirements for an Industry Cluster</a></li>
 </ul>
 </li>
-<li><a href="https://legacy.idrc.ocadu.ca/#Conclusion">Conclusion</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#References">References</a></li>
+<li><a href="/#Conclusion">Conclusion</a></li>
+<li><a href="/#References">References</a></li>
 </ul>
 <h1><a id="_introductionchallengeopportunity" name="_introduction_challenge_opportunity">Introduction - The Challenge and the Opportunity</a></h1>
 <p>Canada lags behind other nations in many of the factors shown to be necessary to build a strong digital economy. In addition, Canada has not taken the decisive national steps of other nations to ensure that the growing population with disabilities is not excluded from the digital economy. However, due to a confluence of global events and trends, the evolution of the ICT industry, and the recognized failure of conventional approaches to accessibility, Canada may have an unprecedented opportunity to establish and lead a global platform for innovation in digital inclusion that will grow in utility and importance over the coming decades. Capitalizing on the unique characteristics of Canada's business environment, current research strengths and Canada's relationship with other nations, this approach may be pivotal in reversing a vicious cycle of exclusion for a large and growing number of people in Canada and globally. It can also place Canada at the forefront of user experience design innovation - argued to be one of the next leaps the ICT industry must make to achieve greater application and adoption.</p>
@@ -304,8 +304,8 @@
 		</item>
 		<item>
 			<title>Master’s Program: Inclusive Design Building the Brain Trust Needed to Support an Accessible Digital Future</title>
-			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/427-masters-program-inclusive-design-building-the-brain-trust-needed-to-support-an-accessible-digital-future</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/427-masters-program-inclusive-design-building-the-brain-trust-needed-to-support-an-accessible-digital-future</guid>
+			<link>/resources/idrc-online/49-articles-and-papers/427-masters-program-inclusive-design-building-the-brain-trust-needed-to-support-an-accessible-digital-future</link>
+			<guid isPermaLink="true">/resources/idrc-online/49-articles-and-papers/427-masters-program-inclusive-design-building-the-brain-trust-needed-to-support-an-accessible-digital-future</guid>
 			<description><![CDATA[<p> </p>
 <p>Originally Published in Abilities Magazine, 2011</p>
 <p>The technical transformation of our world over the last 20 years has been a crazy ride of challenges and opportunities. There has been little time to get used to one technology before it is supplanted by the next. This has meant that anyone requiring alternative access systems has been in perpetual catch-up mode. By all accounts we are in for another leap forward that will leave the computer assistive technology field reeling.</p>
@@ -322,8 +322,8 @@
 		</item>
 		<item>
 			<title>Abilities Magazine Articles</title>
-			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/398-abilities-magazine-articles</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/398-abilities-magazine-articles</guid>
+			<link>/resources/idrc-online/49-articles-and-papers/398-abilities-magazine-articles</link>
+			<guid isPermaLink="true">/resources/idrc-online/49-articles-and-papers/398-abilities-magazine-articles</guid>
 			<description><![CDATA[<p>The ATRC has had a number of projects written about in the Abilites Magazine. Following are links to the articles on the <a href="http://www.abilities.ca">Abilities Website</a>:</p><ul>
 
 
@@ -341,8 +341,8 @@ Help Wanted</a> (Published 2010)</li>
 		</item>
 		<item>
 			<title>You say tomato, I say tomato, let's not call the whole thing off: the challenge of UX design</title>
-			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/408-you-say-tomato-i-say-tomato-lets-not-call-the-whole-thing-off-the-challenge-of-ux-design</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/408-you-say-tomato-i-say-tomato-lets-not-call-the-whole-thing-off-the-challenge-of-ux-design</guid>
+			<link>/resources/idrc-online/49-articles-and-papers/408-you-say-tomato-i-say-tomato-lets-not-call-the-whole-thing-off-the-challenge-of-ux-design</link>
+			<guid isPermaLink="true">/resources/idrc-online/49-articles-and-papers/408-you-say-tomato-i-say-tomato-lets-not-call-the-whole-thing-off-the-challenge-of-ux-design</guid>
 			<description><![CDATA[<p> </p>
 ]]></description>
 			<author>agill@ocadu.ca (Avtar Gill)</author>
@@ -351,8 +351,8 @@ Help Wanted</a> (Published 2010)</li>
 		</item>
 		<item>
 			<title>Inclusion Promotoes Innovation (Published 2007)</title>
-			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/393-inclusion-promotoes-innovation-published-2007</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/393-inclusion-promotoes-innovation-published-2007</guid>
+			<link>/resources/idrc-online/49-articles-and-papers/393-inclusion-promotoes-innovation-published-2007</link>
+			<guid isPermaLink="true">/resources/idrc-online/49-articles-and-papers/393-inclusion-promotoes-innovation-published-2007</guid>
 			<description><![CDATA[]]></description>
 			<author>agill@ocadu.ca (Avtar Gill)</author>
 			<category>Articles and Papers</category>
@@ -360,8 +360,8 @@ Help Wanted</a> (Published 2010)</li>
 		</item>
 		<item>
 			<title>Accessibility Issues with OOXML (Published 2008)</title>
-			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/371-accessibility-issues-with-ooxml-published-2008</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/371-accessibility-issues-with-ooxml-published-2008</guid>
+			<link>/resources/idrc-online/49-articles-and-papers/371-accessibility-issues-with-ooxml-published-2008</link>
+			<guid isPermaLink="true">/resources/idrc-online/49-articles-and-papers/371-accessibility-issues-with-ooxml-published-2008</guid>
 			<description><![CDATA[<p><span style="font-size: 10pt; font-family: &#39;Times New Roman&#39;">ATRC Version 1.3, Last Revised: 2008-01-04 Inaccessibility of OOXML.</span></p>]]></description>
 			<author>agill@ocadu.ca (Avtar Gill)</author>
 			<category>Articles and Papers</category>
@@ -369,8 +369,8 @@ Help Wanted</a> (Published 2010)</li>
 		</item>
 		<item>
 			<title>Stylish Information Access: Cascading Stylesheets on the World Wide Web  (CSUN 1998 )</title>
-			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/217-stylish-information-access-cascading-stylesheets-on-the-world-wide-web-csun-1998-</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/217-stylish-information-access-cascading-stylesheets-on-the-world-wide-web-csun-1998-</guid>
+			<link>/resources/idrc-online/49-articles-and-papers/217-stylish-information-access-cascading-stylesheets-on-the-world-wide-web-csun-1998-</link>
+			<guid isPermaLink="true">/resources/idrc-online/49-articles-and-papers/217-stylish-information-access-cascading-stylesheets-on-the-world-wide-web-csun-1998-</guid>
 			<description><![CDATA[]]></description>
 			<author>agill@ocadu.ca (Avtar Gill)</author>
 			<category>Articles and Papers</category>
@@ -378,8 +378,8 @@ Help Wanted</a> (Published 2010)</li>
 		</item>
 		<item>
 			<title>Stylish Information Access: Cascading Stylesheets (paper)  (CSUN 1998 )</title>
-			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/218-stylish-information-access-cascading-stylesheets-paper-csun-1998-</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/218-stylish-information-access-cascading-stylesheets-paper-csun-1998-</guid>
+			<link>/resources/idrc-online/49-articles-and-papers/218-stylish-information-access-cascading-stylesheets-paper-csun-1998-</link>
+			<guid isPermaLink="true">/resources/idrc-online/49-articles-and-papers/218-stylish-information-access-cascading-stylesheets-paper-csun-1998-</guid>
 			<description><![CDATA[]]></description>
 			<author>agill@ocadu.ca (Avtar Gill)</author>
 			<category>Articles and Papers</category>
@@ -387,8 +387,8 @@ Help Wanted</a> (Published 2010)</li>
 		</item>
 		<item>
 			<title>Accessible Government Web Resources: Including Everyone in Online Access</title>
-			<link>https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/79-accessible-government-web-resources-including-everyone-in-online-access</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/79-accessible-government-web-resources-including-everyone-in-online-access</guid>
+			<link>/resources/idrc-online/49-articles-and-papers/79-accessible-government-web-resources-including-everyone-in-online-access</link>
+			<guid isPermaLink="true">/resources/idrc-online/49-articles-and-papers/79-accessible-government-web-resources-including-everyone-in-online-access</guid>
 			<description><![CDATA[<p>posted March 28, 2003</p>
 <p> </p>
 <p>There are many Canadians who require adaptive technologies that modify their computer workstations to enable access to the Internet or other computer-based resources. Voice recognition systems, screen readers and alternative keyboards are a few examples of the enabling technologies used by people with disabilities. It is important for government web developers to consider how design decisions will affect accessibility for a wide range of users. Some may have needs related to a specific disability, while others may be limited by the technology, such as older browsers, non-standard operating systems, slow connections, handheld devices or text-only screens. With rapidly emerging standards and new database driven systems for content management, web authors may unknowingly implement design elements that, in the end, actually impede rather than enhance access for computer users with specific needs or preferences.</p>

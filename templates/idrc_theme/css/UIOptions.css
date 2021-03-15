@@ -134,7 +134,7 @@ img {
  */
 .uio-demo-theme {
     color: #222;
-    background-image: url("https://legacy.idrc.ocadu.ca/templates/idrc_theme/js/infusion/components/uiOptions/images/background_texture.png");
+    background-image: url("/templates/idrc_theme/js/infusion/components/uiOptions/images/background_texture.png");
     background-position: left top;
     background-repeat: repeat;
 }
@@ -143,7 +143,7 @@ img {
 }
 .uio-demo-theme .disp-opts-button-container {
     background-color: #0071BC;
-    background-image: url("https://legacy.idrc.ocadu.ca/templates/idrc_theme/js/infusion/components/uiOptions/images/arrow_right.png");
+    background-image: url("/templates/idrc_theme/js/infusion/components/uiOptions/images/arrow_right.png");
     background-repeat: no-repeat;
     background-position: right; 
 }

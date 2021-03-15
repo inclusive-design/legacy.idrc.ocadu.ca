@@ -3,21 +3,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
 	<title type="text">Welcome to the Frontpage</title>
 	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
-	<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca"/>
-	<id>https://legacy.idrc.ocadu.ca/45-top-menu/top-menu</id>
+	<link rel="alternate" type="text/html" href=""/>
+	<id>/45-top-menu/top-menu</id>
 	<updated>2021-03-15T21:11:20+00:00</updated>
 	<author>
 		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
 		<email>no-reply@idrc.ocadu.ca</email>
 	</author>
 	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
-	<link rel="self" type="application/atom+xml" href="https://legacy.idrc.ocadu.ca/45-top-menu/top-menu?format=feed&amp;type=atom"/>
+	<link rel="self" type="application/atom+xml" href="/45-top-menu/top-menu?format=feed&amp;type=atom"/>
 	<entry>
 		<title>Spotlight on Learning</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/spotlight-on-learning"/>
+		<link rel="alternate" type="text/html" href="/spotlight-on-learning"/>
 		<published>2006-02-01T13:07:26+00:00</published>
 		<updated>2006-02-01T13:07:26+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/spotlight-on-learning</id>
+		<id>/spotlight-on-learning</id>
 		<category term="Top Menu" />
 	</entry>
 </feed>

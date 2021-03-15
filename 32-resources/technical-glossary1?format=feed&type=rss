@@ -4,21 +4,21 @@
 	<channel>
 		<title>Welcome to the Frontpage</title>
 		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
-		<link>https://legacy.idrc.ocadu.ca/32-resources/technical-glossary1</link>
+		<link>/32-resources/technical-glossary1</link>
 		<lastBuildDate>Mon, 15 Mar 2021 21:13:07 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/32-resources/technical-glossary1?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/32-resources/technical-glossary1?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
 		<item>
 			<title>Word Prediction</title>
-			<link>https://legacy.idrc.ocadu.ca/32-resources/technical-glossary1/51-word-prediction</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/32-resources/technical-glossary1/51-word-prediction</guid>
+			<link>/32-resources/technical-glossary1/51-word-prediction</link>
+			<guid isPermaLink="true">/32-resources/technical-glossary1/51-word-prediction</guid>
 			<description><![CDATA[<table border="0">
 <tbody>
 <tr>
-<td><img src="https://legacy.idrc.ocadu.ca/../images/techgloss/wordpred_sml.gif" border="0" alt="an image of sample word prediction drop down menu" width="62" height="62" align="left" /></td>
-<td><a href="https://legacy.idrc.ocadu.ca/component/content/?task=view&amp;id=51&amp;Itemid=9">
+<td><img src="/../images/techgloss/wordpred_sml.gif" border="0" alt="an image of sample word prediction drop down menu" width="62" height="62" align="left" /></td>
+<td><a href="/component/content/?task=view&amp;id=51&amp;Itemid=9">
 <h3>Word Prediction</h3>
 </a> Word prediction technology is used to assist with text entry. These software packages predict the word you are typing and the next word based on word frequency and context.</td>
 </tr>

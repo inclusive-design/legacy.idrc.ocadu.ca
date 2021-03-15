@@ -4,16 +4,16 @@
 	<channel>
 		<title>Welcome to the Frontpage</title>
 		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
-		<link>https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects</link>
+		<link>/40-research-and-development/completed-projects</link>
 		<lastBuildDate>Mon, 15 Mar 2021 21:11:47 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/40-research-and-development/completed-projects?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
 		<item>
 			<title>Dojo Accessibility</title>
-			<link>https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/357-dojo-accessibility</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/357-dojo-accessibility</guid>
+			<link>/40-research-and-development/completed-projects/357-dojo-accessibility</link>
+			<guid isPermaLink="true">/40-research-and-development/completed-projects/357-dojo-accessibility</guid>
 			<description><![CDATA[<p>The ATRC is making Web 2.0 and the next-generation of web applications accessible. We are working with IBM, SitePen, W3C, the Dojo Foundation, and the open source community to build accessibility into the Dojo tookit, one of the leading libraries used to build rich, dynamic Web 2.0 applications. This work will enable developers building the next-generation of innovative web applications to build sites that are useable by everyone. Our work has been made possible by grants from the Mozilla Foundation and IBM.</p>
 ]]></description>
 			<category>Completed Projects</category>
@@ -21,8 +21,8 @@
 		</item>
 		<item>
 			<title>The Courseware Accessibility Study 1999</title>
-			<link>https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/308-the-courseware-accessibility-study-1999</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/308-the-courseware-accessibility-study-1999</guid>
+			<link>/40-research-and-development/completed-projects/308-the-courseware-accessibility-study-1999</link>
+			<guid isPermaLink="true">/40-research-and-development/completed-projects/308-the-courseware-accessibility-study-1999</guid>
 			<description><![CDATA[<p>This preliminary study, completed in 1999, evaluated Courseware Products for their support of accessible design and access to persons with disabilities.</p>
 ]]></description>
 			<author>greggay@rogers.com (Greg Gay)</author>
@@ -31,48 +31,48 @@
 		</item>
 		<item>
 			<title>Accessibility and VRML</title>
-			<link>https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/208-accessibility-and-vrml</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/208-accessibility-and-vrml</guid>
+			<link>/40-research-and-development/completed-projects/208-accessibility-and-vrml</link>
+			<guid isPermaLink="true">/40-research-and-development/completed-projects/208-accessibility-and-vrml</guid>
 			<description><![CDATA[The Centre for Academic and Adaptive Technology (CAAT)&nbsp; advocates for the inclusion of access hooks in subsequent standards so information presented in a VRML environment can be accessable]]></description>
 			<category>Completed Projects</category>
 			<pubDate>Thu, 27 Apr 2006 10:04:06 +0000</pubDate>
 		</item>
 		<item>
 			<title>Going the Distance: Supporting Educators of Students with Special Needs Through Online Learning (OLT</title>
-			<link>https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/219-going-the-distance-supporting-educators-of-students-with-special-needs-through-online-learning-olt</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/219-going-the-distance-supporting-educators-of-students-with-special-needs-through-online-learning-olt</guid>
+			<link>/40-research-and-development/completed-projects/219-going-the-distance-supporting-educators-of-students-with-special-needs-through-online-learning-olt</link>
+			<guid isPermaLink="true">/40-research-and-development/completed-projects/219-going-the-distance-supporting-educators-of-students-with-special-needs-through-online-learning-olt</guid>
 			<description><![CDATA[The purpose of this study was to identify key areas of need for professional development services among educators who work with students with disabilities.]]></description>
 			<category>Completed Projects</category>
 			<pubDate>Thu, 27 Apr 2006 10:34:38 +0000</pubDate>
 		</item>
 		<item>
 			<title>HoTMetaL 4.0: Accessible HyperText Markup Language (HTML) Authoring System</title>
-			<link>https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/220-hotmetal-40-accessible-hypertext-markup-language-html-authoring-system</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/220-hotmetal-40-accessible-hypertext-markup-language-html-authoring-system</guid>
+			<link>/40-research-and-development/completed-projects/220-hotmetal-40-accessible-hypertext-markup-language-html-authoring-system</link>
+			<guid isPermaLink="true">/40-research-and-development/completed-projects/220-hotmetal-40-accessible-hypertext-markup-language-html-authoring-system</guid>
 			<description><![CDATA[The ATRC            played an active consultation role in the design of an accessible HTML authoring tool.]]></description>
 			<category>Completed Projects</category>
 			<pubDate>Thu, 27 Apr 2006 10:36:34 +0000</pubDate>
 		</item>
 		<item>
 			<title>The Accessible Information Kiosk Project</title>
-			<link>https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/221-the-accessible-information-kiosk-project</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/221-the-accessible-information-kiosk-project</guid>
+			<link>/40-research-and-development/completed-projects/221-the-accessible-information-kiosk-project</link>
+			<guid isPermaLink="true">/40-research-and-development/completed-projects/221-the-accessible-information-kiosk-project</guid>
 			<description><![CDATA[The <a href="http://idrc.ocad.ca/">ATRC</a> designed an information kiosk that is accessible to users with disabilities. The accessible kiosk was implemented and tested in <a href="http://www.library.utoronto.ca/">Robarts     Library</a>, at the University of Toronto.]]></description>
 			<category>Completed Projects</category>
 			<pubDate>Thu, 27 Apr 2006 10:37:31 +0000</pubDate>
 		</item>
 		<item>
 			<title>Input Optimization Tool for Complex Software (CITO)</title>
-			<link>https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/222-input-optimization-tool-for-complex-software-cito</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/222-input-optimization-tool-for-complex-software-cito</guid>
+			<link>/40-research-and-development/completed-projects/222-input-optimization-tool-for-complex-software-cito</link>
+			<guid isPermaLink="true">/40-research-and-development/completed-projects/222-input-optimization-tool-for-complex-software-cito</guid>
 			<description><![CDATA[The aim of this project is to design and test an adaptive predictive function palette, which will allow users to bypass the menu and submenu selection process.]]></description>
 			<category>Completed Projects</category>
 			<pubDate>Thu, 27 Apr 2006 10:38:06 +0000</pubDate>
 		</item>
 		<item>
 			<title>Alternative Access to Structured Documents</title>
-			<link>https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/223-alternative-access-to-structured-documents</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/223-alternative-access-to-structured-documents</guid>
+			<link>/40-research-and-development/completed-projects/223-alternative-access-to-structured-documents</link>
+			<guid isPermaLink="true">/40-research-and-development/completed-projects/223-alternative-access-to-structured-documents</guid>
 			<description><![CDATA[The overall purpose of this project is to make the World Wide Web and electronically published information more accessible to people with disabilities. This will be achieved by targeting both the browser and the authoring tools used to create electronic files]]></description>
 			<author>agill@ocadu.ca (Avtar Gill)</author>
 			<category>Completed Projects</category>
@@ -80,16 +80,16 @@
 		</item>
 		<item>
 			<title>Nimble Document Navigation Using Alternative Access Tools</title>
-			<link>https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/224-nimble-document-navigation-using-alternative-access-tools</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/224-nimble-document-navigation-using-alternative-access-tools</guid>
+			<link>/40-research-and-development/completed-projects/224-nimble-document-navigation-using-alternative-access-tools</link>
+			<guid isPermaLink="true">/40-research-and-development/completed-projects/224-nimble-document-navigation-using-alternative-access-tools</guid>
 			<description><![CDATA[]]></description>
 			<category>Completed Projects</category>
 			<pubDate>Thu, 27 Apr 2006 10:41:47 +0000</pubDate>
 		</item>
 		<item>
 			<title>Exploiting Web Tools to Make HTML Documents Accessible</title>
-			<link>https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/225-exploiting-web-tools-to-make-html-documents-accessible</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/225-exploiting-web-tools-to-make-html-documents-accessible</guid>
+			<link>/40-research-and-development/completed-projects/225-exploiting-web-tools-to-make-html-documents-accessible</link>
+			<guid isPermaLink="true">/40-research-and-development/completed-projects/225-exploiting-web-tools-to-make-html-documents-accessible</guid>
 			<description><![CDATA[<h2>Challenges</h2>                  <ul> <li>obtaining an overview and determining the structure                 of the document,</li><li>orienting and moving to desired sections of the                 document or interface, and</li><li>obtaining translations of graphically presented                 information (i.e.,animation, video, graphics).</li> </ul>]]></description>
 			<category>Completed Projects</category>
 			<pubDate>Thu, 27 Apr 2006 10:42:45 +0000</pubDate>

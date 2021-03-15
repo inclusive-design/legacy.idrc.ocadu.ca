@@ -4,16 +4,16 @@
 	<channel>
 		<title>Welcome to the Frontpage</title>
 		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
-		<link>https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph</link>
+		<link>/17-atrc-contact-us/joseph</link>
 		<lastBuildDate>Mon, 15 Mar 2021 21:12:32 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/17-atrc-contact-us/joseph?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
 		<item>
 			<title>Joey the Clown</title>
-			<link>https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph/352-joey-the-clown</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph/352-joey-the-clown</guid>
+			<link>/17-atrc-contact-us/joseph/352-joey-the-clown</link>
+			<guid isPermaLink="true">/17-atrc-contact-us/joseph/352-joey-the-clown</guid>
 			<description><![CDATA[]]></description>
 			<author>clown@alum.mit.edu (Joseph Scheuhammer)</author>
 			<category>Joseph</category>
@@ -21,8 +21,8 @@
 		</item>
 		<item>
 			<title>Biography</title>
-			<link>https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph/239-biography</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph/239-biography</guid>
+			<link>/17-atrc-contact-us/joseph/239-biography</link>
+			<guid isPermaLink="true">/17-atrc-contact-us/joseph/239-biography</guid>
 			<description><![CDATA[]]></description>
 			<author>clown@alum.mit.edu (Joseph Scheuhammer)</author>
 			<category>Joseph</category>
@@ -30,14 +30,14 @@
 		</item>
 		<item>
 			<title>Musings</title>
-			<link>https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph/164-musings</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/17-atrc-contact-us/joseph/164-musings</guid>
+			<link>/17-atrc-contact-us/joseph/164-musings</link>
+			<guid isPermaLink="true">/17-atrc-contact-us/joseph/164-musings</guid>
 			<description><![CDATA[<hr />
 <p>From time to time, I get the urge to flesh out some of my ideas and see where they lead. The collection of documents here is the outcome of scratching that itch. In all honesty, the frequency with which I publish something here is low; but check back to see if there is anything to your fancy.</p>
 <h2>Table of Contents</h2>
 <p>Here is a list of links to the documents, and a brief description of each:</p>
 <p><a href="http://www.web4all.ca" title="Web-4-All Smartcard Project">Web-4-All</a></p>
-<p>Web-4-All is a project sponsored by Industry Canada, a ministry of the government of Canada. Industry Canada has its own web site describing Web-4-All, but, to me, it describes the web service end of the project more than the client side. The majority of my work on the project has been on the smartcard/work-station end. So, I thought I would write up <a href="https://legacy.idrc.ocadu.ca/index.php/component/content/article/42-research-and-development/ongoing-projects/163-web-4-all-smartcard-project" title="Web-4-All Smartcard Project">a brief description</a> of that end of things.</p>
+<p>Web-4-All is a project sponsored by Industry Canada, a ministry of the government of Canada. Industry Canada has its own web site describing Web-4-All, but, to me, it describes the web service end of the project more than the client side. The majority of my work on the project has been on the smartcard/work-station end. So, I thought I would write up <a href="/index.php/component/content/article/42-research-and-development/ongoing-projects/163-web-4-all-smartcard-project" title="Web-4-All Smartcard Project">a brief description</a> of that end of things.</p>
 <p><a href="http://clown.idrc.ocad.ca/about/musings/FormContent/index.html" title="Accessibility, Form, and Content">Accessibility, and Separating Form from Content</a></p>
 <p>This truly is a musing, in the sense that I wrote it on a whim. Eventually, it was presented at the <a href="http://www.w3.org/2000/10/DIAWorkshop/statements.html" title="W3C DIA Workshop - Position Statements and Papers">W3C's October, 2000 workshop on web device independent authoring </a>. Gregory Rosmaita presented it on my behalf (thanks again Gregory!).</p>
 <p>On the other hand, this is remarkably old news -- haven't you heard yet? If not, here are the main points of the message:</p>

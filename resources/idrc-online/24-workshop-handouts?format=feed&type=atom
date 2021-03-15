@@ -3,24 +3,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
 	<title type="text">IDRC Online</title>
 	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
-	<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca"/>
-	<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/24-workshop-handouts</id>
+	<link rel="alternate" type="text/html" href=""/>
+	<id>/resources/idrc-online/24-workshop-handouts</id>
 	<updated>2021-03-15T21:03:55+00:00</updated>
 	<author>
 		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
 		<email>no-reply@idrc.ocadu.ca</email>
 	</author>
 	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
-	<link rel="self" type="application/atom+xml" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/24-workshop-handouts?format=feed&amp;type=atom"/>
+	<link rel="self" type="application/atom+xml" href="/resources/idrc-online/24-workshop-handouts?format=feed&amp;type=atom"/>
 	<entry>
 		<title>Online Advantage</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/online-advantage"/>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/workshop-handouts/online-advantage"/>
 		<published>2006-02-06T11:26:03+00:00</published>
 		<updated>2006-02-06T11:26:03+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/online-advantage</id>
+		<id>/resources/idrc-online/workshop-handouts/online-advantage</id>
 		<summary type="html">&lt;hr /&gt;
 &lt;p&gt;When faced with a university sized work load a student needs to take advantage of every possible efficiency. Over the past several years the quality and availability of online academic resources has improved greatly. A student who is familiar with these resources can greatly reduce the amount of time they spend gathering resources for their academic work.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/../images/Mindmaps/maponlineadvntg.gif&quot; target=&quot;_blank&quot;&gt;Online Advantage Mind Map&lt;/a&gt;(Opens  in New Window)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/../images/Mindmaps/maponlineadvntg.gif&quot; target=&quot;_blank&quot;&gt;Online Advantage Mind Map&lt;/a&gt;(Opens  in New Window)&lt;/p&gt;
 &lt;h3&gt;Online Resources&lt;/h3&gt;
 &lt;p&gt;&lt;a name=&quot;search&quot; title=&quot;search&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -37,7 +37,7 @@
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;h4&gt;D. Online References: &lt;a href=&quot;http://www.library.utoronto.ca/&quot;&gt;www.library.utoronto.ca&lt;/a&gt;&lt;/h4&gt;
-&lt;blockquote&gt;&lt;a name=&quot;ediction&quot; title=&quot;ediction&quot;&gt;&lt;/a&gt;1. e-dictionaries&lt;br /&gt;&lt;a name=&quot;eindices&quot; title=&quot;eindices&quot;&gt;&lt;/a&gt;2. e-indices&lt;br /&gt;&lt;a name=&quot;ejourn&quot; title=&quot;ejourn&quot;&gt;&lt;/a&gt;3. e-journals&lt;a href=&quot;http://www.library.utoronto.ca/services/ilu/calhums.html&quot;&gt;&lt;/a&gt;&lt;br /&gt;4. Writing at University of Toronto:&lt;a href=&quot;https://legacy.idrc.ocadu.ca/www.writing.utoronto.ca&quot;&gt; &lt;/a&gt;&lt;a href=&quot;http://www.writing.utoronto.ca&quot;&gt;writing.utoronto.ca &lt;/a&gt; &lt;br /&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;a name=&quot;ediction&quot; title=&quot;ediction&quot;&gt;&lt;/a&gt;1. e-dictionaries&lt;br /&gt;&lt;a name=&quot;eindices&quot; title=&quot;eindices&quot;&gt;&lt;/a&gt;2. e-indices&lt;br /&gt;&lt;a name=&quot;ejourn&quot; title=&quot;ejourn&quot;&gt;&lt;/a&gt;3. e-journals&lt;a href=&quot;http://www.library.utoronto.ca/services/ilu/calhums.html&quot;&gt;&lt;/a&gt;&lt;br /&gt;4. Writing at University of Toronto:&lt;a href=&quot;/www.writing.utoronto.ca&quot;&gt; &lt;/a&gt;&lt;a href=&quot;http://www.writing.utoronto.ca&quot;&gt;writing.utoronto.ca &lt;/a&gt; &lt;br /&gt;&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a name=&quot;eorg&quot; title=&quot;eorg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;E-Organization&lt;/h3&gt;
@@ -51,7 +51,7 @@
 &lt;/blockquote&gt;</summary>
 		<content type="html">&lt;hr /&gt;
 &lt;p&gt;When faced with a university sized work load a student needs to take advantage of every possible efficiency. Over the past several years the quality and availability of online academic resources has improved greatly. A student who is familiar with these resources can greatly reduce the amount of time they spend gathering resources for their academic work.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/../images/Mindmaps/maponlineadvntg.gif&quot; target=&quot;_blank&quot;&gt;Online Advantage Mind Map&lt;/a&gt;(Opens  in New Window)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/../images/Mindmaps/maponlineadvntg.gif&quot; target=&quot;_blank&quot;&gt;Online Advantage Mind Map&lt;/a&gt;(Opens  in New Window)&lt;/p&gt;
 &lt;h3&gt;Online Resources&lt;/h3&gt;
 &lt;p&gt;&lt;a name=&quot;search&quot; title=&quot;search&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -68,7 +68,7 @@
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;h4&gt;D. Online References: &lt;a href=&quot;http://www.library.utoronto.ca/&quot;&gt;www.library.utoronto.ca&lt;/a&gt;&lt;/h4&gt;
-&lt;blockquote&gt;&lt;a name=&quot;ediction&quot; title=&quot;ediction&quot;&gt;&lt;/a&gt;1. e-dictionaries&lt;br /&gt;&lt;a name=&quot;eindices&quot; title=&quot;eindices&quot;&gt;&lt;/a&gt;2. e-indices&lt;br /&gt;&lt;a name=&quot;ejourn&quot; title=&quot;ejourn&quot;&gt;&lt;/a&gt;3. e-journals&lt;a href=&quot;http://www.library.utoronto.ca/services/ilu/calhums.html&quot;&gt;&lt;/a&gt;&lt;br /&gt;4. Writing at University of Toronto:&lt;a href=&quot;https://legacy.idrc.ocadu.ca/www.writing.utoronto.ca&quot;&gt; &lt;/a&gt;&lt;a href=&quot;http://www.writing.utoronto.ca&quot;&gt;writing.utoronto.ca &lt;/a&gt; &lt;br /&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;a name=&quot;ediction&quot; title=&quot;ediction&quot;&gt;&lt;/a&gt;1. e-dictionaries&lt;br /&gt;&lt;a name=&quot;eindices&quot; title=&quot;eindices&quot;&gt;&lt;/a&gt;2. e-indices&lt;br /&gt;&lt;a name=&quot;ejourn&quot; title=&quot;ejourn&quot;&gt;&lt;/a&gt;3. e-journals&lt;a href=&quot;http://www.library.utoronto.ca/services/ilu/calhums.html&quot;&gt;&lt;/a&gt;&lt;br /&gt;4. Writing at University of Toronto:&lt;a href=&quot;/www.writing.utoronto.ca&quot;&gt; &lt;/a&gt;&lt;a href=&quot;http://www.writing.utoronto.ca&quot;&gt;writing.utoronto.ca &lt;/a&gt; &lt;br /&gt;&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a name=&quot;eorg&quot; title=&quot;eorg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;E-Organization&lt;/h3&gt;
@@ -84,18 +84,18 @@
 	</entry>
 	<entry>
 		<title>Online Advantage MindMap</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/online-advantage-mindmap"/>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/workshop-handouts/online-advantage-mindmap"/>
 		<published>2006-02-06T11:25:20+00:00</published>
 		<updated>2006-02-06T11:25:20+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/online-advantage-mindmap</id>
+		<id>/resources/idrc-online/workshop-handouts/online-advantage-mindmap</id>
 		<category term="Workshop Handouts" />
 	</entry>
 	<entry>
 		<title>Accessibility, and Separating Form from Content</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/accessibility-and-separating-form-from-content"/>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/workshop-handouts/accessibility-and-separating-form-from-content"/>
 		<published>2006-05-25T13:53:50+00:00</published>
 		<updated>2006-05-25T13:53:50+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/accessibility-and-separating-form-from-content</id>
+		<id>/resources/idrc-online/workshop-handouts/accessibility-and-separating-form-from-content</id>
 		<author>
 			<name>Joseph Scheuhammer</name>
 			<email>clown@alum.mit.edu</email>
@@ -104,58 +104,58 @@
 	</entry>
 	<entry>
 		<title>Using Voice Recognition</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/using-voice-recognition"/>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/workshop-handouts/using-voice-recognition"/>
 		<published>2006-02-10T13:06:57+00:00</published>
 		<updated>2006-02-10T13:06:57+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/using-voice-recognition</id>
+		<id>/resources/idrc-online/workshop-handouts/using-voice-recognition</id>
 		<category term="Workshop Handouts" />
 	</entry>
 	<entry>
 		<title>Using Voice Recognition MindMap</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/using-voice-recognition-mindmap"/>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/workshop-handouts/using-voice-recognition-mindmap"/>
 		<published>2006-02-10T13:07:32+00:00</published>
 		<updated>2006-02-10T13:07:32+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/using-voice-recognition-mindmap</id>
+		<id>/resources/idrc-online/workshop-handouts/using-voice-recognition-mindmap</id>
 		<category term="Workshop Handouts" />
 	</entry>
 	<entry>
 		<title>Voice Recognition</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/voice-recognition-1925771003"/>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/workshop-handouts/voice-recognition-1925771003"/>
 		<published>2006-02-10T13:04:41+00:00</published>
 		<updated>2006-02-10T13:04:41+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/voice-recognition-1925771003</id>
+		<id>/resources/idrc-online/workshop-handouts/voice-recognition-1925771003</id>
 		<category term="Workshop Handouts" />
 	</entry>
 	<entry>
 		<title>Voice Recognition MindMap</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/voice-recognition-mindmap"/>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/workshop-handouts/voice-recognition-mindmap"/>
 		<published>2006-02-10T13:05:20+00:00</published>
 		<updated>2006-02-10T13:05:20+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/voice-recognition-mindmap</id>
+		<id>/resources/idrc-online/workshop-handouts/voice-recognition-mindmap</id>
 		<category term="Workshop Handouts" />
 	</entry>
 	<entry>
 		<title>Buying a computer</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/buying-a-computer"/>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/workshop-handouts/buying-a-computer"/>
 		<published>2006-02-10T13:08:37+00:00</published>
 		<updated>2006-02-10T13:08:37+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/buying-a-computer</id>
+		<id>/resources/idrc-online/workshop-handouts/buying-a-computer</id>
 		<category term="Workshop Handouts" />
 	</entry>
 	<entry>
 		<title>Buying a computer MindMap</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/buying-a-computer-mindmap"/>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/workshop-handouts/buying-a-computer-mindmap"/>
 		<published>2006-02-10T13:09:23+00:00</published>
 		<updated>2006-02-10T13:09:23+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/workshop-handouts/buying-a-computer-mindmap</id>
+		<id>/resources/idrc-online/workshop-handouts/buying-a-computer-mindmap</id>
 		<category term="Workshop Handouts" />
 	</entry>
 	<entry>
 		<title>HTML Commandments</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/resources/idrc-online/24-workshop-handouts/227-html-commandments"/>
+		<link rel="alternate" type="text/html" href="/resources/idrc-online/24-workshop-handouts/227-html-commandments"/>
 		<published>2006-04-27T10:44:04+00:00</published>
 		<updated>2006-04-27T10:44:04+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/resources/idrc-online/24-workshop-handouts/227-html-commandments</id>
+		<id>/resources/idrc-online/24-workshop-handouts/227-html-commandments</id>
 		<category term="Workshop Handouts" />
 	</entry>
 </feed>

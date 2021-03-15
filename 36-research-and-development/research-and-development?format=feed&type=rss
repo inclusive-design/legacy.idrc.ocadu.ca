@@ -4,16 +4,16 @@
 	<channel>
 		<title>Welcome to the Frontpage</title>
 		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
-		<link>https://legacy.idrc.ocadu.ca/36-research-and-development/research-and-development</link>
+		<link>/36-research-and-development/research-and-development</link>
 		<lastBuildDate>Mon, 15 Mar 2021 21:11:29 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/36-research-and-development/research-and-development?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/36-research-and-development/research-and-development?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
 		<item>
 			<title>AChecker Web Accessibility Tester</title>
-			<link>https://legacy.idrc.ocadu.ca/36-research-and-development/research-and-development/478-achecker</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/36-research-and-development/research-and-development/478-achecker</guid>
+			<link>/36-research-and-development/research-and-development/478-achecker</link>
+			<guid isPermaLink="true">/36-research-and-development/research-and-development/478-achecker</guid>
 			<description><![CDATA[<p><img src="http://atutor.ca/images/AChecker_Logo1_sm.png" border="0" alt="AChecker Logo" width="214" height="46" /></p>
 <p><strong id="atutor"><em>AChecker</em></strong> is an open source Web accessibility evaluation tool. It can be used to review the accessibility of Web pages based on a variety international accessibility guidelines. </p>
 <p><a href="http://achecker.ca">Check Your Web Site's Accessibility</a> | <a href="http://atutor.ca/achecker/download.php">Download AChecker</a></p>]]></description>
@@ -23,38 +23,38 @@
 		</item>
 		<item>
 			<title>Completed Projects</title>
-			<link>https://legacy.idrc.ocadu.ca/research-and-development/completed-projects</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/research-and-development/completed-projects</guid>
+			<link>/research-and-development/completed-projects</link>
+			<guid isPermaLink="true">/research-and-development/completed-projects</guid>
 			<description><![CDATA[<p><strong>Direct links to Completed Project Websites:</strong></p>
 <ul>
-<li><a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/208-accessibility-and-vrml">Accessibility and VRML</a>(Virtual Reality Modelling Language)</li>
+<li><a href="/40-research-and-development/completed-projects/208-accessibility-and-vrml">Accessibility and VRML</a>(Virtual Reality Modelling Language)</li>
 <li><a href="http://www.aprompt.ca">APrompt</a></li>
 <li><a href="http://www.aprompt.ca"> </a><a href="http://abilities.ca/access-guide-canada-is-the-place-accessible/">AGC (Access Guide Canada)</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/about-the-idrc/40-research-and-development/completed-projects/173-adding-feeling-audio-and-equal-access-to-distance-education">Adding Feeling, Audio and Equal Access to Distance Education</a></li>
+<li><a href="/about-the-idrc/40-research-and-development/completed-projects/173-adding-feeling-audio-and-equal-access-to-distance-education">Adding Feeling, Audio and Equal Access to Distance Education</a></li>
 <li>SNOW - The Audio Look and Feel</li>
 <li><a href="http://www.barrierfree.ca/">Barrier-Free Broadband Learning Environments</a></li>
 <li><a href="http://cnice.idrc.ocadu.ca/">CNICE (Canadian Network for Inclusive Cultural Exchange)</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/95-authoring-tool-support-qthe-best-place-to-improve-the-webq">Authoring Tool Support: "The Best Place to Improve the Web"</a></li>
+<li><a href="/resources/idrc-online/49-articles-and-papers/95-authoring-tool-support-qthe-best-place-to-improve-the-webq">Authoring Tool Support: "The Best Place to Improve the Web"</a></li>
 <li><a href="http://wiki.fluidproject.org/display/fluid/Canadian+Museum+of+Human+Rights+%28CMHR%29+Kiosks">Canadian Museum of Human Rights Accessible Kiosk</a></li>
 <li>CollectionSpace</li>
-<li><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/215-cascading-stylesheets-and-accessiblity">Cascading StyleSheets and Accessiblity </a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/308-the-courseware-accessibility-study-1999">Courseware Accessibility Study 1999</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/39-research-and-development/courseware-accessibility-2000/316-courseware-accessibility-study-2000-inclusion"> </a><a href="https://legacy.idrc.ocadu.ca/39-research-and-development/courseware-accessibility-2000/313-courseware-accessibility-study-2000-introduction">Courseware Accessibility Study 2000</a></li>
+<li><a href="/resources/idrc-online/49-articles-and-papers/215-cascading-stylesheets-and-accessiblity">Cascading StyleSheets and Accessiblity </a></li>
+<li><a href="/40-research-and-development/completed-projects/308-the-courseware-accessibility-study-1999">Courseware Accessibility Study 1999</a></li>
+<li><a href="/39-research-and-development/courseware-accessibility-2000/316-courseware-accessibility-study-2000-inclusion"> </a><a href="/39-research-and-development/courseware-accessibility-2000/313-courseware-accessibility-study-2000-introduction">Courseware Accessibility Study 2000</a></li>
 <li><a href="http://culturall1.idrc.ocad.ca/">CulturAll Network</a></li>
 <li><a href="http://culturall2.idrc.ocad.ca/">CulturAll 2.0</a></li>
 <li><a href="https://sites.google.com/site/decapodproject/">Decapod</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/41-research-and-development/new-projects/357-dojo-accessibility">Dojo Accessibility</a></li>
+<li><a href="/41-research-and-development/new-projects/357-dojo-accessibility">Dojo Accessibility</a></li>
 <li><a href="http://fluidproject.org/projects.html">Fluid Academic</a></li>
 <li><a href="http://fluidproject.org/projects.html">Fluid Engage</a></li>
 <li><a href="http://www.gok.ca/">GOK (GNOME Onscreen Keyboard)</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/219-going-the-distance-supporting-educators-of-students-with-special-needs-through-online-learning-olt">Going the Distance: Supporting Educators of Students with Special Needs Through Online Learning (OLT</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/220-hotmetal-40-accessible-hypertext-markup-language-html-authoring-system">HoTMetaL 4.0: Accessible HyperText Markup Language (HTML) Authoring System</a></li>
+<li><a href="/40-research-and-development/completed-projects/219-going-the-distance-supporting-educators-of-students-with-special-needs-through-online-learning-olt">Going the Distance: Supporting Educators of Students with Special Needs Through Online Learning (OLT</a></li>
+<li><a href="/40-research-and-development/completed-projects/220-hotmetal-40-accessible-hypertext-markup-language-html-authoring-system">HoTMetaL 4.0: Accessible HyperText Markup Language (HTML) Authoring System</a></li>
 <li><a href="http://www.imsglobal.org/accessibility/index.html">ISO/IEC adoption of IMS ACCLIP specification </a></li>
 <li><a href="http://ilc.idrc.ocadu.ca/">Inclusive Learning Connection</a>&nbsp;- Development Phase</li>
-<li><a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/221-the-accessible-information-kiosk-project">The Accessible Information Kiosk Project</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/222-input-optimization-tool-for-complex-software-cito">Input Optimization Tool for Complex Software (CITO)</a></li>
+<li><a href="/40-research-and-development/completed-projects/221-the-accessible-information-kiosk-project">The Accessible Information Kiosk Project</a></li>
+<li><a href="/40-research-and-development/completed-projects/222-input-optimization-tool-for-complex-software-cito">Input Optimization Tool for Complex Software (CITO)</a></li>
 <li><a href="http://www.isaac-online.org/">ISAAC</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/453-leveraging-inclusion">Leveraging Inclusion and Diversity as Canada’s Advantage Report</a></li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/453-leveraging-inclusion">Leveraging Inclusion and Diversity as Canada’s Advantage Report</a></li>
 <li><a href="http://www.ldrc.ca/">LDRC (Learning Disabilities Resource Community)</a></li>
 <li><a href="http://nide.snow.idrc.ocad.ca/">Network for Inclusive Distance Education</a></li>
 <li><a href="http://opencaps.idrc.ocad.ca/">OpenCaps</a></li>
@@ -67,58 +67,58 @@
 <li><a href="http://www.barrierfree.ca/tile/">TILE (The Inclusive Learning Exchange)</a></li>
 <li><a href="http://www.visionaustralia.org.au/">Vision Australia Foundation</a></li>
 <li>Web-based Teaching Tool</li>
-<li><a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/226-web-browsers-and-assistive-technology">Web Browsers and Assistive Technology</a></li>
+<li><a href="/40-research-and-development/completed-projects/226-web-browsers-and-assistive-technology">Web Browsers and Assistive Technology</a></li>
 <li><a href="http://web4all.ca/">Web-4-All</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/24-workshop-handouts/227-html-commandments">10 Accessible HTML Commandments</a></li>
+<li><a href="/resources/idrc-online/24-workshop-handouts/227-html-commandments">10 Accessible HTML Commandments</a></li>
 </ul>
 <p><strong>Project Descriptions:</strong></p>
 <ul>
-<li><a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/208-accessibility-and-vrml">Accessibility and VRML (Virtual Reality Modelling Language)</a><br />How can 3D web interfaces be used by persons with disabilities?</li>
+<li><a href="/40-research-and-development/completed-projects/208-accessibility-and-vrml">Accessibility and VRML (Virtual Reality Modelling Language)</a><br />How can 3D web interfaces be used by persons with disabilities?</li>
 <li><a href="http://www.aprompt.ca/">A-Prompt</a><br /> A-Prompt (Accessibility Prompt) is a software tool that provides HTML authors with prompts, recommendations and solutions to make their Web pages more accessible.</li>
 <li><a href="http://www.abilities.ca/agc/">AGC (Access Guide Canada) </a><br />An online searchable directory of accessible resources and venues throughout Canada. This community-based site invites visitors to contribute accessible resources to the directory. The ATRC is responsible for the creation of the database architecture and website. The project is sponsored by the Canadian Abilities Foundation.</li>
-<li><a href="https://legacy.idrc.ocadu.ca/component/content/?task=view&amp;id=173&amp;Itemid=69"></a><a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/173-adding-feeling-audio-and-equal-access-to-distance-education">Adding Feeling, Audio and Equal Access to Distance Education</a><br />Adding haptic and multilingual capabilities to VRML.</li>
+<li><a href="/component/content/?task=view&amp;id=173&amp;Itemid=69"></a><a href="/40-research-and-development/completed-projects/173-adding-feeling-audio-and-equal-access-to-distance-education">Adding Feeling, Audio and Equal Access to Distance Education</a><br />Adding haptic and multilingual capabilities to VRML.</li>
 <li><a href="http://snow.idrc.ocad.ca/audiolaf/">The Audio Look and Feel</a><br />Communicating text, graphics, format or layout on the screen to users who are blind, vision impaired or learning disabled through text-to-speech and non-speech audio.</li>
 <li><a href="http://www.barrierfree.ca/">Barrier-Free Broadband Learning Environments </a><br />The Barrier-free project supports educators in creating and repurposing learning content that is accessible to all learners. It provides learners with on-line curriculum that adapts to their individual learning and access needs. The Barrier-free toolset takes a story captured in linear video and links a wealth of information, enhancements and perspectives using a synchronized text track derived from the caption and audio description of the video.</li>
 <li><a href="http://wiki.fluidproject.org/display/fluid/Canadian+Museum+of+Human+Rights+%28CMHR%29+Kiosks" name="CMHR">Canadian Museum of Human Rights Accessible Kiosk<br /></a>IDRC and the Canadian Museum for Human Rights are collaborating on making inclusive, and interactive solutions for the museum.</li>
 <li><a href="http://www.collectionspace.org/">CollectionSpace<br /></a>CollectionSpace is an open-source collections management application that meets the needs of museums, historical societies, and other collection-holding organizations. CollectionSpace is designed to be configurable to each organization’s needs, serving as a gateway to digital and physical assets across an institution. The software is freely distributed via open-source licensing, and an active developer community ensures that CollectionSpace is continually improving.</li>
 <li><a href="http://cnice.idrc.ocad.ca/">CNICE (Canadian Network for Inclusive Cultural Exchange) </a><br />The Canadian Network for Inclusive Cultural Exchange is a multi-partner network that has worked together to ensure that Canadian cultural content on-line, and the tools available to participate in creating this content, are accessible to everyone in Canada, including people with disabilities.</li>
-<li><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/95-authoring-tool-support-qthe-best-place-to-improve-the-webq">HTML Authoring Tool Support: "The Best Place to Improve the Web"</a><br />Authoring Tool Support: Offering support for the accessibility of various Authoring Tools.</li>
+<li><a href="/resources/idrc-online/49-articles-and-papers/95-authoring-tool-support-qthe-best-place-to-improve-the-webq">HTML Authoring Tool Support: "The Best Place to Improve the Web"</a><br />Authoring Tool Support: Offering support for the accessibility of various Authoring Tools.</li>
 <li><a href="https://sites.google.com/site/decapodproject/">Decapod<br /></a>Decapod is a project focused on building a low-cost digitization solution that will allow for rare materials, materials held in collections without large budgets, and other scholarly content to be digitized into a high-quality PDF format. This project is working to incorporate the hardware and software necessary to accomplish this goal.</li>
-<li><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/215-cascading-stylesheets-and-accessiblity">Cascading StyleSheets and Accessiblity </a><br />Enabling web designers to separate "format and style" from "structure and content" resulting in cleaner, more accessible coding.</li>
+<li><a href="/resources/idrc-online/49-articles-and-papers/215-cascading-stylesheets-and-accessiblity">Cascading StyleSheets and Accessiblity </a><br />Enabling web designers to separate "format and style" from "structure and content" resulting in cleaner, more accessible coding.</li>
 <li>Evaluation of Web Authoring Tools
 <ul>
-<li><a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/308-the-courseware-accessibility-study-1999">Courseware Accessibility Study 1999</a><br />Results from the evaluation of the Courseware Accessibility Study.</li>
-<li><a href="https://legacy.idrc.ocadu.ca/39-research-and-development/courseware-accessibility-2000/313-courseware-accessibility-study-2000-introduction">Courseware Accessibility Study 2000</a><br />A user study that looked at the accessibility of popular learning managemenet systems to people with disabilities.</li>
+<li><a href="/40-research-and-development/completed-projects/308-the-courseware-accessibility-study-1999">Courseware Accessibility Study 1999</a><br />Results from the evaluation of the Courseware Accessibility Study.</li>
+<li><a href="/39-research-and-development/courseware-accessibility-2000/313-courseware-accessibility-study-2000-introduction">Courseware Accessibility Study 2000</a><br />A user study that looked at the accessibility of popular learning managemenet systems to people with disabilities.</li>
 </ul>
 </li>
 <li><a href="http://culturall1.idrc.ocad.ca/">CulturAll Network <br /></a>The CulturAll Network was a national multi-sector network that developed innovative approaches, tools and strategies to ensure that everyone in Canada can participate in the Canadian cultural exchange.The CulturAll Network&nbsp;demonstrated that inclusive design&nbsp;can be&nbsp;a naturally integrated component of Canadian cultural production and acts as a catalystfor innovation and creativity. Through pioneering exemplars, the network&nbsp;reaffirmed that advances that benefit people with disabilities, benefit all Canadian.</li>
 <li><a href="http://culturall2.idrc.ocad.ca/">CulturAll 2.0</a><br />Through strategic applied research the CulturAll 2.0 Network will work to make certain that inclusive design becomes a naturally integrated component of Web 2.0 technologies and acts as a catalyst for innovation and creativity.</li>
-<li><a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/357-dojo-accessibility">Dojo Accessibility</a><br />The ATRC is&nbsp;making Web 2.0 and the next-generation of web applications accessible. We are working with IBM, SitePen, W3C, the Dojo Foundation, and the open source community to build accessibility into the Dojo toolkit, one of the leading libraries used to build rich, dynamic Web 2.0 applications. This work will enable developers building the next-generation of innovative web applications to build sites that are useable by everyone. Our work has been made possible by grants from the Mozilla Foundation and IBM.</li>
+<li><a href="/40-research-and-development/completed-projects/357-dojo-accessibility">Dojo Accessibility</a><br />The ATRC is&nbsp;making Web 2.0 and the next-generation of web applications accessible. We are working with IBM, SitePen, W3C, the Dojo Foundation, and the open source community to build accessibility into the Dojo toolkit, one of the leading libraries used to build rich, dynamic Web 2.0 applications. This work will enable developers building the next-generation of innovative web applications to build sites that are useable by everyone. Our work has been made possible by grants from the Mozilla Foundation and IBM.</li>
 <li><a href="http://fluidproject.org/projects/fluid-academic/">Fluid Academic</a><br />Fluid Academic is a project funded by the Mellon foundation to focus on improving user experience in higher-ed open source software applications. The Fluid community grew out of this work as did the Fluid products. Early releases of Fluid Infusion, the Fluid Design Handbook, Fluid OSDPL, and VU Lab were deliverables for this project. These products represent the core of Fluid activities.</li>
 <li><a href="http://fluidengage.org">Fluid Engage <br /></a>Fluid Engage is building flexible software with museums and cultural institutions to enhance their visitors' experience. Engage makes it easy for visitors to connect with content, interact with objects, and extend the museum visit.</li>
 <li><a href="http://www.gok.ca/">GOK (GNOME Onscreen Keyboard) </a><br />Gnome Onscreen Keyboard (GOK) is open source software that creates advanced alternative input solutions for unix and unix-based environments.</li>
-<li><a href="https://legacy.idrc.ocadu.ca/component/content/?task=view&amp;id=219&amp;Itemid=69"></a><a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/219-going-the-distance-supporting-educators-of-students-with-special-needs-through-online-learning-olt">Going the Distance: Supporting Educators of Students with Special Needs Through Online Learning (OLT</a>)<br />Explored the effectiveness of new, online technologies for provision of just-in-time, customized learning programs to meet their urgent need for information on accommodation of exceptional learners.</li>
-<li><a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/220-hotmetal-40-accessible-hypertext-markup-language-html-authoring-system">HoTMetaL 4.0: Accessible HyperText Markup Language (HTML) Authoring System</a><br />Integrated accessibility prompting features to help web designers create accessible pages.</li>
+<li><a href="/component/content/?task=view&amp;id=219&amp;Itemid=69"></a><a href="/40-research-and-development/completed-projects/219-going-the-distance-supporting-educators-of-students-with-special-needs-through-online-learning-olt">Going the Distance: Supporting Educators of Students with Special Needs Through Online Learning (OLT</a>)<br />Explored the effectiveness of new, online technologies for provision of just-in-time, customized learning programs to meet their urgent need for information on accommodation of exceptional learners.</li>
+<li><a href="/40-research-and-development/completed-projects/220-hotmetal-40-accessible-hypertext-markup-language-html-authoring-system">HoTMetaL 4.0: Accessible HyperText Markup Language (HTML) Authoring System</a><br />Integrated accessibility prompting features to help web designers create accessible pages.</li>
 <li><a href="http://www.imsglobal.org/accessibility/index.html">ISO/IEC adoption of IMS ACCLIP specification </a><br />The ATRC participates in activities of international standards and specifications organizations aimed at the development and maintenance of accessibility specifications and standards for e-learning. We are currently participating in the International Standards Organization's Joint Technical Council One/Sub-committee 36 (JTC1/SC36) Working Group in order to determine the feasibility of adoption of the IMS accessibility specification, ACCLIP, (Learner Information Package Accessibility for LIP) as an international ISO/IEC standard. Consultation with member countries will be the key factor in achieving the goals of this project. <br />The Government of Canada provides funding for this initiative.</li>
 <li><a href="http://ilc.atrc.utoronto.ca/">Inclusive Learning Connection - Development Phase </a><br />A network of Canadian organizations concerned with the learning technology needs of learners who are deaf, deafened, or hard of hearing.</li>
-<li><a href="https://legacy.idrc.ocadu.ca/component/content/?task=view&amp;id=221&amp;Itemid=69"></a> <a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/221-the-accessible-information-kiosk-project">The Accessible Information Kiosk Project</a><br />The Robarts Library Information Kiosk is a universally accessible electronic kiosk designed to help users find resources within the <a href="http://www.library.utoronto.ca/robarts/index.htm">Robarts Library</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/222-input-optimization-tool-for-complex-software-cito">Input Optimization Tool for Complex Software (CITO)</a> <br />Developing an "adaptive predictive function palette" for accessing submenus in sophisticated software such as Maya by <a href="http://www.scribd.com/doc/505898/Alias-Wavefront-Maya-Mastering-Maya-Complete">Alias/ Wavefront</a> .</li>
+<li><a href="/component/content/?task=view&amp;id=221&amp;Itemid=69"></a> <a href="/40-research-and-development/completed-projects/221-the-accessible-information-kiosk-project">The Accessible Information Kiosk Project</a><br />The Robarts Library Information Kiosk is a universally accessible electronic kiosk designed to help users find resources within the <a href="http://www.library.utoronto.ca/robarts/index.htm">Robarts Library</a></li>
+<li><a href="/40-research-and-development/completed-projects/222-input-optimization-tool-for-complex-software-cito">Input Optimization Tool for Complex Software (CITO)</a> <br />Developing an "adaptive predictive function palette" for accessing submenus in sophisticated software such as Maya by <a href="http://www.scribd.com/doc/505898/Alias-Wavefront-Maya-Mastering-Maya-Complete">Alias/ Wavefront</a> .</li>
 <li><a href="http://www.isaac-online.org/">ISAAC</a> - Visit the website for the International Society for Augmentative and Alternative Communication.</li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/resources/idrc-online/49-articles-and-papers/453-leveraging-inclusion">Leveraging Inclusion and Diversity as Canada’s Advantage Report</a> A research report that investigates insights, evidence, interpretations and effective practices that test and explore the hypothesis, Canada can both address the need for an inclusive digital economy and leverage inclusive design as an economic driver, becoming a world leader in inclusively designed digital technologies, services and content. Partners for this project include The Martin Prosperity Institute, The Adaptech Research Network and the Inclusive Design Research Centre.</li>
+<li><a href="/index.php/resources/idrc-online/49-articles-and-papers/453-leveraging-inclusion">Leveraging Inclusion and Diversity as Canada’s Advantage Report</a> A research report that investigates insights, evidence, interpretations and effective practices that test and explore the hypothesis, Canada can both address the need for an inclusive digital economy and leverage inclusive design as an economic driver, becoming a world leader in inclusively designed digital technologies, services and content. Partners for this project include The Martin Prosperity Institute, The Adaptech Research Network and the Inclusive Design Research Centre.</li>
 <li><a href="http://www.ldrc.ca/">LDRC (Learning Disabilities Resource Community)</a></li>
 <li><a href="http://nide.snow.idrc.ocad.ca/">Network for Inclusive Distance Education</a><br />Developed Access standards for online education.</li>
 <li><a href="http://opencaps.idrc.ocad.ca/">OpenCaps</a><br />CapScribe is an ever evolving desktop captioning and video description software. CapScribe Desktop supports captioning for Quicktime movies, movies uploads to YouTube, as well as the creation of video description audio tracks. CapScribe Desktop runs on Intel Macs and is available for download and exploration. CapScribe Web is currently in development. The goal behind this project is to give users ready, free access to captioning software that runs as part of a web page</li>
 <li><a href="http://www.ryerson.ca/pebbles/">PEBBLES</a><br />PEBBLES is a project that allows students who must stay at home or in a hospital to attend a school through a videoconferencing robot.</li>
 <li><a href="http://outside-in.idrc.ocadu.ca/">Project Outside In</a><br />Project Outside In will establish a responsive, experiential skills training program tailored to the constraints and needs of youth with episodic and invisible disabilities (including learning disabilities, mental health challenges, and ADHD). Youth who face multiple and complex barriers to employment will gain diverse, incremental skills and expertise in addressing accessibility and inclusive design demands, in part generated by the Accessibility for Ontarians with Disabilities Act (AODA) in Ontario. Youth will be supported in creating viable service enterprises or pursuing other career-path options that accommodate the personal challenges they face, while addressing the growing demand for inclusively designed products and services.<br /><br /></li>
 <li><a href="http://www.signlinkstudio.ca/">Sign Link Studio</a><br />The Sign Link Studio project has developed a technique that, for the first time, enables sign language based web sites on the Internet. An authoring tool called SignEd creates the webpages by marking up sign language video files with sign language based hyperlinks called "signlinks". The website that makes SignEd available was built using the tool and demonstrates this new web page technique.</li>
-<li><a href="https://legacy.idrc.ocadu.ca/component/content/?task=view&amp;id=223&amp;Itemid=69">SoftQuad/ATRC Adapt Able Web Project</a> (old link)<br />Integrating an accessibility-toolkit into a commercial software product.</li>
+<li><a href="/component/content/?task=view&amp;id=223&amp;Itemid=69">SoftQuad/ATRC Adapt Able Web Project</a> (old link)<br />Integrating an accessibility-toolkit into a commercial software product.</li>
 <li><a href="http://stretch.atrc.utoronto.ca/">Stretch Project</a><br />The Stretch project challenged and stretched perceptions and conventions within the arts so that they are inclusive of people with disabilities. The project site include numerous examples of cultural works that have been "stretched" to inlcude multiple sensory modalites. The site also features a&nbsp;gallery of works on the theme of inclusion.&nbsp;Stretch&nbsp;fosters inclusion by providing tools to new media artists for adding descriptions, captions and alternative video.</li>
 <li><a href="http://www.barrierfree.ca/tile/">TILE (The Inclusive Learning Exchange)</a><br />A revolutionary learning object repository service that responds to the individual needs of the learner. TILE provides the authoring tools, repository architecture, and preference schema needed to support this learner-centric transformation. The service is now available as a functioning prototype.</li>
 <li><a href="http://www.visionaustralia.org.au/"><span style="text-decoration: underline;"><span style="color: #0000ff;">Vision Australia Foundation</span></span></a> formerly known as the Association For The Blind (AFTB) Services provided by the ATRC to Vision Australia Foundation include training and consultation for Vision Australia Foundation staff in adaptive technology to best meet client's system requirements.</li>
 <li><a href="http://wbtt.ca/Home.aspx">Web Based Teaching Tool (WBTT)</a><br />An online resource for teachers of early education. This project promotes early identification of and intervention for learning disabilities. The ATRC is responsible for the creation of the database architecture and website. The project is sponsored by the Learning Disability Association of Ontario (LDAO).</li>
-<li><a href="https://legacy.idrc.ocadu.ca/40-research-and-development/completed-projects/226-web-browsers-and-assistive-technology">Web Browsers and Assistive Technology</a><br />A Press Release regarding the Universal Internet Access Project</li>
+<li><a href="/40-research-and-development/completed-projects/226-web-browsers-and-assistive-technology">Web Browsers and Assistive Technology</a><br />A Press Release regarding the Universal Internet Access Project</li>
 <li><a href="http://web4all.ca/">Web-4-All</a><br />Web-4-All uses smartcard technology to enable Internet interfaces to be customized. Web-4-All enables users to automatically configure multi-user workstations to meet their own personal preferences and access needs. Preferences are stored on a smart card.</li>
-<li><a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/24-workshop-handouts/227-html-commandments">10 Accessible HTML Commandments</a></li>
+<li><a href="/resources/idrc-online/24-workshop-handouts/227-html-commandments">10 Accessible HTML Commandments</a></li>
 </ul>]]></description>
 			<author>agill@ocadu.ca (Avtar Gill)</author>
 			<category>Research and Development</category>
@@ -126,8 +126,8 @@
 		</item>
 		<item>
 			<title>Ongoing Projects</title>
-			<link>https://legacy.idrc.ocadu.ca/research-and-development/ongoing-projects</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/research-and-development/ongoing-projects</guid>
+			<link>/research-and-development/ongoing-projects</link>
+			<guid isPermaLink="true">/research-and-development/ongoing-projects</guid>
 			<description><![CDATA[<p><strong>Direct links to Ongoing Project Websites:</strong></p>
 <ul>
 <li><a href="http://www.achecker.ca">AChecker Accessibility Checker</a></li>
@@ -135,7 +135,7 @@
 <li><a href="http://adod.idrc.ocad.ca/">Accessible Digital Office Document</a></li>
 <li><a href="http://aegis.idrc.ocad.ca/">AEGIS Ontario</a>: Integrating Accessibility into Emerging ICT</li>
 <li><a href="http://www.aegis-project.eu/">AEGIS EU</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/component/content/article/41-research-and-development/new-projects/395-bridging-gaps">Bridging Gaps To Access; Employment in the Entertainment &amp; Media Industries for Persons with Disabilities</a><a href="http://cloud4all.info/"></a></li>
+<li><a href="/index.php/component/content/article/41-research-and-development/new-projects/395-bridging-gaps">Bridging Gaps To Access; Employment in the Entertainment &amp; Media Industries for Persons with Disabilities</a><a href="http://cloud4all.info/"></a></li>
 <li><a href="http://cloud4all.info/">Cloud4All</a></li>
 <li>Enabling Change</li>
 <li><a href="http://floeproject.org" title="Fluid Infusion">Floe Project</a></li>
@@ -165,7 +165,7 @@
 <p>The ÆGIS(Europe) project is a major open source accessibility project funded by the European Commission. This 20-member consortium (including the IDRC) seeks to use third generation access techniques to deeply embed accessibility into mainstream ICT (desktop, rich Internet and mobile applications). This approach is developed and explored with the Open Accessibility Framework (OAF) through which aspects of the design, development and deployment of accessible mainstream ICT are addressed. The OAF provides embedded and built-in accessibility solutions, as well as toolkits for developers, for “engraving” accessibility in existing and emerging mass-market ICT-based products, thus making accessibility open, plug and play, personalised and configurable, realistic and applicable in various contexts. All developments will be iteratively tested with a significant number of end users, developers and experts in 3 phases and 4 Pilot sites Europe-wide (in Belgium, Spain, Sweden and the UK).</p>
 <p>The project includes strong industrial and end user participation (the participating industries are among the market leaders in the corresponding mainstream ICT markets). The project results’ uptake is promoted by strong standardisation activities, as well as the fact that much of the technology results will be either new open source applications or will be built into existing and already widely adopted open source ICT.</p>
 </li>
-<li><a href="https://legacy.idrc.ocadu.ca/index.php/component/content/article/41-research-and-development/new-projects/395-bridging-gaps">Bridging Gaps to Access &amp; Employment in the Entertainment &amp; Media Industries for Persons with Disabilities</a>
+<li><a href="/index.php/component/content/article/41-research-and-development/new-projects/395-bridging-gaps">Bridging Gaps to Access &amp; Employment in the Entertainment &amp; Media Industries for Persons with Disabilities</a>
 <p>The Bridging Gaps to Access &amp; Employment in the Entertainment &amp; Media Industries for Persons with Disabilities project focuses on the transfer of knowledge gained in the development and implementation of a uniquely accessible online support system with social networking and an online learning system to an industry where clients with disabilities experience barriers and are underutilized. &nbsp;An integrated management system and data base for artists will provide a referral service for employment; support casting directors, host online courses, and introduce social networking tools for community building.</p>
 </li>
 <li><a href="http://cloud4all.info/">Cloud4All</a>
@@ -205,8 +205,8 @@
 		</item>
 		<item>
 			<title>New Projects</title>
-			<link>https://legacy.idrc.ocadu.ca/research-and-development/new-projects</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/research-and-development/new-projects</guid>
+			<link>/research-and-development/new-projects</link>
+			<guid isPermaLink="true">/research-and-development/new-projects</guid>
 			<description><![CDATA[<p><strong>Direct links to New Project Websites:</strong></p>
 <ul>
 <li><a href="https://bigidea.one/">BIG IDeA</a></li>

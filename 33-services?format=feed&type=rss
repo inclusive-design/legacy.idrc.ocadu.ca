@@ -4,16 +4,16 @@
 	<channel>
 		<title>Welcome to the Frontpage</title>
 		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
-		<link>https://legacy.idrc.ocadu.ca/33-services</link>
+		<link>/33-services</link>
 		<lastBuildDate>Mon, 15 Mar 2021 21:13:28 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/33-services?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/33-services?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
 		<item>
 			<title>IDRC Web Accessibility Review Services</title>
-			<link>https://legacy.idrc.ocadu.ca/33-services/479-websavvy</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/33-services/479-websavvy</guid>
+			<link>/33-services/479-websavvy</link>
+			<guid isPermaLink="true">/33-services/479-websavvy</guid>
 			<description><![CDATA[<p><a href="http://websavvy.idrc.ocad.ca/">Web Site Accessibility Audits</a><br />Accessibility audits include reviews of Web sites for compliance with AODA, W3C, U.S. Section 508, and U.S. ADA standards.</p>
 <p><a href="http://websavvy.idrc.ocad.ca/">Web Site&nbsp; Accessibility Consultation</a><br />One-on-one and small group consultations are available. Consultation can include a review of usability and accessibility issues, coverage of inclusive design strategies, and hands-on experience with assistive technology.</p>
 <p><a href="http://websavvy.idrc.ocad.ca/">Training</a><br />Group training is available for both technical and non-technical audiences, and includes demonstrations of how people with disabilities use the Web, a review of the W3C Web Content Accessibility Guidelines (WCAG), practical examples of accessible and innaccessible Web content, hands on experience with assistive technologies, and design strategies that ensure maximum accessibility and usability. Group training is also offered on creating accessible office documents.</p>]]></description>
@@ -23,8 +23,8 @@
 		</item>
 		<item>
 			<title>Vision Technology Service</title>
-			<link>https://legacy.idrc.ocadu.ca/33-services/57-vision-technology-service</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/33-services/57-vision-technology-service</guid>
+			<link>/33-services/57-vision-technology-service</link>
+			<guid isPermaLink="true">/33-services/57-vision-technology-service</guid>
 			<description><![CDATA[<p>The Vision Technology Service is a Regional Assessment Centre for High Technology Vision Aids for the<a href="http://www.health.gov.on.ca/en/public/programs/adp/about.aspx"> Assistive Devices Program</a>, a funding program run by the Ontario Ministry of Health and Long-Term Care.</p>
 ]]></description>
 			<author>lhusnanipuchta@ocad.ca (Lizna Husnani-Puchta)</author>

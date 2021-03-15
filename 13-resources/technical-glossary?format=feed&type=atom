@@ -3,171 +3,171 @@
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
 	<title type="text">Welcome to the Frontpage</title>
 	<subtitle type="text">The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.</subtitle>
-	<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca"/>
-	<id>https://legacy.idrc.ocadu.ca/13-resources/technical-glossary</id>
+	<link rel="alternate" type="text/html" href=""/>
+	<id>/13-resources/technical-glossary</id>
 	<updated>2021-03-15T21:12:44+00:00</updated>
 	<author>
 		<name>Inclusive Design Research Centre (idrc.ocadu.ca)</name>
 		<email>no-reply@idrc.ocadu.ca</email>
 	</author>
 	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
-	<link rel="self" type="application/atom+xml" href="https://legacy.idrc.ocadu.ca/13-resources/technical-glossary?format=feed&amp;type=atom"/>
+	<link rel="self" type="application/atom+xml" href="/13-resources/technical-glossary?format=feed&amp;type=atom"/>
 	<entry>
 		<title>Talking Browsers and Email software</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/381-talking-browsers-and-email-software"/>
+		<link rel="alternate" type="text/html" href="/13-resources/technical-glossary/381-talking-browsers-and-email-software"/>
 		<published>2008-01-22T13:37:21+00:00</published>
 		<updated>2008-01-22T13:37:21+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/381-talking-browsers-and-email-software</id>
-		<summary type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/381-talking-browsers-and-email-software&quot;&gt;Talking Browsers and Email software&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/scread_sml.gif&quot; border=&quot;0&quot; alt=&quot;an image of a earphone and microphone headset&quot; width=&quot;62&quot; height=&quot;62&quot; align=&quot;left&quot; style=&quot;float: left; border: 0; margin-left: 5px; margin-right: 5px;&quot; /&gt;&lt;/p&gt;
+		<id>/13-resources/technical-glossary/381-talking-browsers-and-email-software</id>
+		<summary type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/381-talking-browsers-and-email-software&quot;&gt;Talking Browsers and Email software&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/techgloss/scread_sml.gif&quot; border=&quot;0&quot; alt=&quot;an image of a earphone and microphone headset&quot; width=&quot;62&quot; height=&quot;62&quot; align=&quot;left&quot; style=&quot;float: left; border: 0; margin-left: 5px; margin-right: 5px;&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Talking browsers and email software converts text from a document like a  web page or an email message into audible speech. This software is  ideal for people who have visual, cognitive, or physical impairments  that need assistance with reading the content of their web pages and/or email.&lt;/p&gt;
 </summary>
-		<content type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/381-talking-browsers-and-email-software&quot;&gt;Talking Browsers and Email software&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/scread_sml.gif&quot; border=&quot;0&quot; alt=&quot;an image of a earphone and microphone headset&quot; width=&quot;62&quot; height=&quot;62&quot; align=&quot;left&quot; style=&quot;float: left; border: 0; margin-left: 5px; margin-right: 5px;&quot; /&gt;&lt;/p&gt;
+		<content type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/381-talking-browsers-and-email-software&quot;&gt;Talking Browsers and Email software&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/techgloss/scread_sml.gif&quot; border=&quot;0&quot; alt=&quot;an image of a earphone and microphone headset&quot; width=&quot;62&quot; height=&quot;62&quot; align=&quot;left&quot; style=&quot;float: left; border: 0; margin-left: 5px; margin-right: 5px;&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Talking browsers and email software converts text from a document like a  web page or an email message into audible speech. This software is  ideal for people who have visual, cognitive, or physical impairments  that need assistance with reading the content of their web pages and/or email.&lt;/p&gt;
 </content>
 		<category term="Technical Glossary" />
 	</entry>
 	<entry>
 		<title>Alternative Keyboards</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/32-alternative-keyboards"/>
+		<link rel="alternate" type="text/html" href="/13-resources/technical-glossary/32-alternative-keyboards"/>
 		<published>2006-01-24T15:05:53+00:00</published>
 		<updated>2006-01-24T15:05:53+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/32-alternative-keyboards</id>
-		<summary type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/32-alternative-keyboards&quot;&gt;Alternative Keyboards&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/altkey_sml.gif&quot; border=&quot;0&quot; alt=&quot;Aleternative keyboard image&quot; width=&quot;62&quot; height=&quot;62&quot; style=&quot;border: 0; margin-left: 10px; margin-right: 10px;&quot; /&gt;&lt;/p&gt;
+		<id>/13-resources/technical-glossary/32-alternative-keyboards</id>
+		<summary type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/32-alternative-keyboards&quot;&gt;Alternative Keyboards&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;/images/techgloss/altkey_sml.gif&quot; border=&quot;0&quot; alt=&quot;Aleternative keyboard image&quot; width=&quot;62&quot; height=&quot;62&quot; style=&quot;border: 0; margin-left: 10px; margin-right: 10px;&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Alternative keyboard layouts and other enhancements allow people who experience difficulty with conventional keyboard designs to use computers.&lt;/p&gt;
 </summary>
-		<content type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/32-alternative-keyboards&quot;&gt;Alternative Keyboards&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/altkey_sml.gif&quot; border=&quot;0&quot; alt=&quot;Aleternative keyboard image&quot; width=&quot;62&quot; height=&quot;62&quot; style=&quot;border: 0; margin-left: 10px; margin-right: 10px;&quot; /&gt;&lt;/p&gt;
+		<content type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/32-alternative-keyboards&quot;&gt;Alternative Keyboards&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;/images/techgloss/altkey_sml.gif&quot; border=&quot;0&quot; alt=&quot;Aleternative keyboard image&quot; width=&quot;62&quot; height=&quot;62&quot; style=&quot;border: 0; margin-left: 10px; margin-right: 10px;&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Alternative keyboard layouts and other enhancements allow people who experience difficulty with conventional keyboard designs to use computers.&lt;/p&gt;
 </content>
 		<category term="Technical Glossary" />
 	</entry>
 	<entry>
 		<title>Alternative Mouse Systems</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/33-alternative-mouse-systems"/>
+		<link rel="alternate" type="text/html" href="/13-resources/technical-glossary/33-alternative-mouse-systems"/>
 		<published>2006-01-24T15:23:30+00:00</published>
 		<updated>2006-01-24T15:23:30+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/33-alternative-mouse-systems</id>
-		<summary type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/33-alternative-mouse-systems&quot;&gt;Alternative Mouse Systems&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/altmouse_sml.gif&quot; border=&quot;0&quot; alt=&quot;Alternative mouse image&quot; width=&quot;62&quot; height=&quot;62&quot; style=&quot;border: 0; margin-left: 10px; margin-right: 10px;&quot; /&gt;&lt;/p&gt;
+		<id>/13-resources/technical-glossary/33-alternative-mouse-systems</id>
+		<summary type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/33-alternative-mouse-systems&quot;&gt;Alternative Mouse Systems&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;/images/techgloss/altmouse_sml.gif&quot; border=&quot;0&quot; alt=&quot;Alternative mouse image&quot; width=&quot;62&quot; height=&quot;62&quot; style=&quot;border: 0; margin-left: 10px; margin-right: 10px;&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Alternative pointing devices, trackballs and keypads are used to replace the mouse.&lt;/p&gt;
 </summary>
-		<content type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/33-alternative-mouse-systems&quot;&gt;Alternative Mouse Systems&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/altmouse_sml.gif&quot; border=&quot;0&quot; alt=&quot;Alternative mouse image&quot; width=&quot;62&quot; height=&quot;62&quot; style=&quot;border: 0; margin-left: 10px; margin-right: 10px;&quot; /&gt;&lt;/p&gt;
+		<content type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/33-alternative-mouse-systems&quot;&gt;Alternative Mouse Systems&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;/images/techgloss/altmouse_sml.gif&quot; border=&quot;0&quot; alt=&quot;Alternative mouse image&quot; width=&quot;62&quot; height=&quot;62&quot; style=&quot;border: 0; margin-left: 10px; margin-right: 10px;&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Alternative pointing devices, trackballs and keypads are used to replace the mouse.&lt;/p&gt;
 </content>
 		<category term="Technical Glossary" />
 	</entry>
 	<entry>
 		<title>Braille Embosser</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/34-braille-embosser"/>
+		<link rel="alternate" type="text/html" href="/13-resources/technical-glossary/34-braille-embosser"/>
 		<published>2006-01-24T15:25:30+00:00</published>
 		<updated>2006-01-24T15:25:30+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/34-braille-embosser</id>
-		<summary type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/34-braille-embosser&quot;&gt; Braille Embosser&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/braiem_sml.jpg&quot; border=&quot;0&quot; alt=&quot;image of a brailled embosser&quot; width=&quot;62&quot; height=&quot;62&quot; /&gt;&lt;/p&gt;
+		<id>/13-resources/technical-glossary/34-braille-embosser</id>
+		<summary type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/34-braille-embosser&quot;&gt; Braille Embosser&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;/images/techgloss/braiem_sml.jpg&quot; border=&quot;0&quot; alt=&quot;image of a brailled embosser&quot; width=&quot;62&quot; height=&quot;62&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;A Braille Embosser is a hardware device for &quot;printing&quot; a hard copy of electronic text documents in Braille.&lt;/p&gt;
 </summary>
-		<content type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/34-braille-embosser&quot;&gt; Braille Embosser&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/braiem_sml.jpg&quot; border=&quot;0&quot; alt=&quot;image of a brailled embosser&quot; width=&quot;62&quot; height=&quot;62&quot; /&gt;&lt;/p&gt;
+		<content type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/34-braille-embosser&quot;&gt; Braille Embosser&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;/images/techgloss/braiem_sml.jpg&quot; border=&quot;0&quot; alt=&quot;image of a brailled embosser&quot; width=&quot;62&quot; height=&quot;62&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;A Braille Embosser is a hardware device for &quot;printing&quot; a hard copy of electronic text documents in Braille.&lt;/p&gt;
 </content>
 		<category term="Technical Glossary" />
 	</entry>
 	<entry>
 		<title>Closed Circuit Television (CCTV)</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/35-closed-circuit-television-cctv"/>
+		<link rel="alternate" type="text/html" href="/13-resources/technical-glossary/35-closed-circuit-television-cctv"/>
 		<published>2006-01-24T15:26:54+00:00</published>
 		<updated>2006-01-24T15:26:54+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/35-closed-circuit-television-cctv</id>
-		<summary type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/35-closed-circuit-television-cctv&quot;&gt;Closed Circuit Television (CCTV)&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/cctv_sml.gif&quot; border=&quot;0&quot; alt=&quot;image of a CCTV&quot; width=&quot;62&quot; height=&quot;62&quot; /&gt;&lt;/p&gt;
+		<id>/13-resources/technical-glossary/35-closed-circuit-television-cctv</id>
+		<summary type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/35-closed-circuit-television-cctv&quot;&gt;Closed Circuit Television (CCTV)&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;/images/techgloss/cctv_sml.gif&quot; border=&quot;0&quot; alt=&quot;image of a CCTV&quot; width=&quot;62&quot; height=&quot;62&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Closed Circuit Televisions (CCTV's) allow users to quickly magnify any objects placed under a camera unit. CCTV's vary in size from portable pocket-sized units to stationary cameras with large displays.&lt;/p&gt;
 </summary>
-		<content type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/35-closed-circuit-television-cctv&quot;&gt;Closed Circuit Television (CCTV)&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/cctv_sml.gif&quot; border=&quot;0&quot; alt=&quot;image of a CCTV&quot; width=&quot;62&quot; height=&quot;62&quot; /&gt;&lt;/p&gt;
+		<content type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/35-closed-circuit-television-cctv&quot;&gt;Closed Circuit Television (CCTV)&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;/images/techgloss/cctv_sml.gif&quot; border=&quot;0&quot; alt=&quot;image of a CCTV&quot; width=&quot;62&quot; height=&quot;62&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Closed Circuit Televisions (CCTV's) allow users to quickly magnify any objects placed under a camera unit. CCTV's vary in size from portable pocket-sized units to stationary cameras with large displays.&lt;/p&gt;
 </content>
 		<category term="Technical Glossary" />
 	</entry>
 	<entry>
 		<title>Electronic Aids to Daily Living Systems</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/36-electronic-aids-to-daily-living-systems"/>
+		<link rel="alternate" type="text/html" href="/13-resources/technical-glossary/36-electronic-aids-to-daily-living-systems"/>
 		<published>2006-01-24T15:27:50+00:00</published>
 		<updated>2006-01-24T15:27:50+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/36-electronic-aids-to-daily-living-systems</id>
-		<summary type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/36-electronic-aids-to-daily-living-systems&quot;&gt; Electronic Aids to Daily Living Systems&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/pilot_sml.jpg&quot; border=&quot;0&quot; alt=&quot;image of the sicare pilot&quot; width=&quot;62&quot; height=&quot;62&quot; /&gt;&lt;/p&gt;
+		<id>/13-resources/technical-glossary/36-electronic-aids-to-daily-living-systems</id>
+		<summary type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/36-electronic-aids-to-daily-living-systems&quot;&gt; Electronic Aids to Daily Living Systems&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;/images/techgloss/pilot_sml.jpg&quot; border=&quot;0&quot; alt=&quot;image of the sicare pilot&quot; width=&quot;62&quot; height=&quot;62&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Electronic Aids for Daily Living (EADL) are simply devices, or systems, that allow individuals to control facets of their environment.&lt;/p&gt;
 </summary>
-		<content type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/36-electronic-aids-to-daily-living-systems&quot;&gt; Electronic Aids to Daily Living Systems&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/pilot_sml.jpg&quot; border=&quot;0&quot; alt=&quot;image of the sicare pilot&quot; width=&quot;62&quot; height=&quot;62&quot; /&gt;&lt;/p&gt;
+		<content type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/36-electronic-aids-to-daily-living-systems&quot;&gt; Electronic Aids to Daily Living Systems&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;fl-force-left&quot; src=&quot;/images/techgloss/pilot_sml.jpg&quot; border=&quot;0&quot; alt=&quot;image of the sicare pilot&quot; width=&quot;62&quot; height=&quot;62&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Electronic Aids for Daily Living (EADL) are simply devices, or systems, that allow individuals to control facets of their environment.&lt;/p&gt;
 </content>
 		<category term="Technical Glossary" />
 	</entry>
 	<entry>
 		<title>Grammatical Support Tools</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/37-grammatical-support-tools"/>
+		<link rel="alternate" type="text/html" href="/13-resources/technical-glossary/37-grammatical-support-tools"/>
 		<published>2006-01-24T16:32:18+00:00</published>
 		<updated>2006-01-24T16:32:18+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/37-grammatical-support-tools</id>
-		<summary type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/37-grammatical-support-tools&quot;&gt; Grammatical Support Tools&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://legacy.idrc.ocadu.ca/../images/techgloss/grammar_sml.gif&quot; border=&quot;0&quot; alt=&quot;grammatical support tools image&quot; width=&quot;62&quot; height=&quot;62&quot; style=&quot;float: left;&quot; /&gt;&lt;/p&gt;
+		<id>/13-resources/technical-glossary/37-grammatical-support-tools</id>
+		<summary type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/37-grammatical-support-tools&quot;&gt; Grammatical Support Tools&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/../images/techgloss/grammar_sml.gif&quot; border=&quot;0&quot; alt=&quot;grammatical support tools image&quot; width=&quot;62&quot; height=&quot;62&quot; style=&quot;float: left;&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Grammatical support tools allow people who have difficulties with grammar to make their computing and writing tasks much easier.&lt;/p&gt;
 </summary>
-		<content type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/37-grammatical-support-tools&quot;&gt; Grammatical Support Tools&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://legacy.idrc.ocadu.ca/../images/techgloss/grammar_sml.gif&quot; border=&quot;0&quot; alt=&quot;grammatical support tools image&quot; width=&quot;62&quot; height=&quot;62&quot; style=&quot;float: left;&quot; /&gt;&lt;/p&gt;
+		<content type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/37-grammatical-support-tools&quot;&gt; Grammatical Support Tools&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/../images/techgloss/grammar_sml.gif&quot; border=&quot;0&quot; alt=&quot;grammatical support tools image&quot; width=&quot;62&quot; height=&quot;62&quot; style=&quot;float: left;&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Grammatical support tools allow people who have difficulties with grammar to make their computing and writing tasks much easier.&lt;/p&gt;
 </content>
 		<category term="Technical Glossary" />
 	</entry>
 	<entry>
 		<title>Haptic Devices</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/38-haptic-devices"/>
+		<link rel="alternate" type="text/html" href="/13-resources/technical-glossary/38-haptic-devices"/>
 		<published>2006-01-24T16:34:17+00:00</published>
 		<updated>2006-01-24T16:34:17+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/38-haptic-devices</id>
-		<summary type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/38-haptic-devices&quot;&gt; Haptic Devices&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/haptic_sml.jpg&quot; border=&quot;0&quot; alt=&quot;an image of a haptic device&quot; hspace=&quot;5&quot; width=&quot;62&quot; height=&quot;62&quot; align=&quot;left&quot; style=&quot;float: left;&quot; /&gt;&lt;/p&gt;
+		<id>/13-resources/technical-glossary/38-haptic-devices</id>
+		<summary type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/38-haptic-devices&quot;&gt; Haptic Devices&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/techgloss/haptic_sml.jpg&quot; border=&quot;0&quot; alt=&quot;an image of a haptic device&quot; hspace=&quot;5&quot; width=&quot;62&quot; height=&quot;62&quot; align=&quot;left&quot; style=&quot;float: left;&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;A haptic interface is a device which allows a user to interact with a computer by receiving tactile feed back. This feedback is achieved by applying a degree of opposing force to the user along the x, y, and z axes.&lt;/p&gt;
 </summary>
-		<content type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/38-haptic-devices&quot;&gt; Haptic Devices&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/haptic_sml.jpg&quot; border=&quot;0&quot; alt=&quot;an image of a haptic device&quot; hspace=&quot;5&quot; width=&quot;62&quot; height=&quot;62&quot; align=&quot;left&quot; style=&quot;float: left;&quot; /&gt;&lt;/p&gt;
+		<content type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/38-haptic-devices&quot;&gt; Haptic Devices&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/techgloss/haptic_sml.jpg&quot; border=&quot;0&quot; alt=&quot;an image of a haptic device&quot; hspace=&quot;5&quot; width=&quot;62&quot; height=&quot;62&quot; align=&quot;left&quot; style=&quot;float: left;&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;A haptic interface is a device which allows a user to interact with a computer by receiving tactile feed back. This feedback is achieved by applying a degree of opposing force to the user along the x, y, and z axes.&lt;/p&gt;
 </content>
 		<category term="Technical Glossary" />
 	</entry>
 	<entry>
 		<title>Linux Accessibility</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/39-linux-accessibility"/>
+		<link rel="alternate" type="text/html" href="/13-resources/technical-glossary/39-linux-accessibility"/>
 		<published>2006-01-24T16:35:59+00:00</published>
 		<updated>2006-01-24T16:35:59+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/39-linux-accessibility</id>
-		<summary type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/39-linux-accessibility&quot;&gt;Linux Accessibility&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/linuxlogo_sml.gif&quot; border=&quot;0&quot; alt=&quot;Linux Penguin logo&quot; hspace=&quot;5&quot; width=&quot;66&quot; height=&quot;62&quot; style=&quot;float: left;&quot; /&gt;&lt;/p&gt;
+		<id>/13-resources/technical-glossary/39-linux-accessibility</id>
+		<summary type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/39-linux-accessibility&quot;&gt;Linux Accessibility&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/techgloss/linuxlogo_sml.gif&quot; border=&quot;0&quot; alt=&quot;Linux Penguin logo&quot; hspace=&quot;5&quot; width=&quot;66&quot; height=&quot;62&quot; style=&quot;float: left;&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Linux is a free, open-source Operating System distributed under the Free Software Foundation's &lt;a href=&quot;http://www.linux.org/info/gnu.html&quot;&gt;GNU General Public License&lt;/a&gt;(GPL) that has grown in popularity in the past few years. Because of the non-commercial nature of Linux, the accessibility options can be hard to find. These links are a starting point for Linux accessibility.&lt;/p&gt;
 </summary>
-		<content type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/39-linux-accessibility&quot;&gt;Linux Accessibility&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/linuxlogo_sml.gif&quot; border=&quot;0&quot; alt=&quot;Linux Penguin logo&quot; hspace=&quot;5&quot; width=&quot;66&quot; height=&quot;62&quot; style=&quot;float: left;&quot; /&gt;&lt;/p&gt;
+		<content type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/39-linux-accessibility&quot;&gt;Linux Accessibility&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/techgloss/linuxlogo_sml.gif&quot; border=&quot;0&quot; alt=&quot;Linux Penguin logo&quot; hspace=&quot;5&quot; width=&quot;66&quot; height=&quot;62&quot; style=&quot;float: left;&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Linux is a free, open-source Operating System distributed under the Free Software Foundation's &lt;a href=&quot;http://www.linux.org/info/gnu.html&quot;&gt;GNU General Public License&lt;/a&gt;(GPL) that has grown in popularity in the past few years. Because of the non-commercial nature of Linux, the accessibility options can be hard to find. These links are a starting point for Linux accessibility.&lt;/p&gt;
 </content>
 		<category term="Technical Glossary" />
 	</entry>
 	<entry>
 		<title>Optical Character Recognition / Reading Software</title>
-		<link rel="alternate" type="text/html" href="https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/41-optical-character-recognition-reading-software"/>
+		<link rel="alternate" type="text/html" href="/13-resources/technical-glossary/41-optical-character-recognition-reading-software"/>
 		<published>2006-01-24T16:38:15+00:00</published>
 		<updated>2006-01-24T16:38:15+00:00</updated>
-		<id>https://legacy.idrc.ocadu.ca/13-resources/technical-glossary/41-optical-character-recognition-reading-software</id>
-		<summary type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/41-optical-character-recognition--reading-software&quot;&gt;Optical Character Recognition/Reading Software&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/ocr_sml.gif&quot; border=&quot;0&quot; alt=&quot;an image of computer with a scanner&quot; hspace=&quot;5&quot; width=&quot;62&quot; height=&quot;62&quot; align=&quot;left&quot; /&gt;&lt;/p&gt;
+		<id>/13-resources/technical-glossary/41-optical-character-recognition-reading-software</id>
+		<summary type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/41-optical-character-recognition--reading-software&quot;&gt;Optical Character Recognition/Reading Software&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/techgloss/ocr_sml.gif&quot; border=&quot;0&quot; alt=&quot;an image of computer with a scanner&quot; hspace=&quot;5&quot; width=&quot;62&quot; height=&quot;62&quot; align=&quot;left&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Optical character recognition (OCR) is the process of converting an image of text, such as a scanned paper document or electronic fax file, into computer-editable text.&lt;/p&gt;
 </summary>
-		<content type="html">&lt;h3&gt;&lt;a href=&quot;https://legacy.idrc.ocadu.ca/index.php/resources/technical-glossary/41-optical-character-recognition--reading-software&quot;&gt;Optical Character Recognition/Reading Software&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://legacy.idrc.ocadu.ca/images/techgloss/ocr_sml.gif&quot; border=&quot;0&quot; alt=&quot;an image of computer with a scanner&quot; hspace=&quot;5&quot; width=&quot;62&quot; height=&quot;62&quot; align=&quot;left&quot; /&gt;&lt;/p&gt;
+		<content type="html">&lt;h3&gt;&lt;a href=&quot;/index.php/resources/technical-glossary/41-optical-character-recognition--reading-software&quot;&gt;Optical Character Recognition/Reading Software&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/techgloss/ocr_sml.gif&quot; border=&quot;0&quot; alt=&quot;an image of computer with a scanner&quot; hspace=&quot;5&quot; width=&quot;62&quot; height=&quot;62&quot; align=&quot;left&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;glossary-intro&quot;&gt;Optical character recognition (OCR) is the process of converting an image of text, such as a scanned paper document or electronic fax file, into computer-editable text.&lt;/p&gt;
 </content>
 		<category term="Technical Glossary" />

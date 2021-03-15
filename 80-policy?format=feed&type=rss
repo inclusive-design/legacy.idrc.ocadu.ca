@@ -4,16 +4,16 @@
 	<channel>
 		<title>Welcome to the Frontpage</title>
 		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
-		<link>https://legacy.idrc.ocadu.ca/80-policy</link>
+		<link>/80-policy</link>
 		<lastBuildDate>Mon, 15 Mar 2021 21:13:24 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/80-policy?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/80-policy?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
 		<item>
 			<title>Standards and Policy</title>
-			<link>https://legacy.idrc.ocadu.ca/policy</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/policy</guid>
+			<link>/policy</link>
+			<guid isPermaLink="true">/policy</guid>
 			<description><![CDATA[<p>The IDRC is working to ensure that inclusive design is incorporated into technical standards and is encouraged by legislation and policies, both within Canada and internationally.</p>
 <h3>Technical Standards</h3>
 <p>Technical standards underlie virtually every aspect of information technology, from hidden electrical components to the web sites that we use every day. These standards have the potential to help or hinder inclusion and once implemented by large numbers of systems, standards are often difficult to change. The IDRC works with many international standards organizations to ensure that emerging technical standards are inclusively designed. <br /> In particular, the IDRC works with:</p>

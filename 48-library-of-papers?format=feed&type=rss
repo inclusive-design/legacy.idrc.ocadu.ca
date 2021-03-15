@@ -4,16 +4,16 @@
 	<channel>
 		<title>Welcome to the Frontpage</title>
 		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
-		<link>https://legacy.idrc.ocadu.ca/48-library-of-papers</link>
+		<link>/48-library-of-papers</link>
 		<lastBuildDate>Mon, 15 Mar 2021 21:11:15 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/48-library-of-papers?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/48-library-of-papers?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
 		<item>
 			<title>Dana Ayotte</title>
-			<link>https://legacy.idrc.ocadu.ca/48-library-of-papers/481-dana-ayotte</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/48-library-of-papers/481-dana-ayotte</guid>
+			<link>/48-library-of-papers/481-dana-ayotte</link>
+			<guid isPermaLink="true">/48-library-of-papers/481-dana-ayotte</guid>
 			<description><![CDATA[<h3>Designer</h3>
 <p>205 Richmond St., 2nd floor<br />Toronto, ON<br />M5V 1V3</p>
 <p>Phone: 416-977-6000 ext 3959</p>]]></description>
@@ -23,8 +23,8 @@
 		</item>
 		<item>
 			<title>What is Inclusive Design</title>
-			<link>https://legacy.idrc.ocadu.ca/48-library-of-papers/443-whatisinclusivedesign</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/48-library-of-papers/443-whatisinclusivedesign</guid>
+			<link>/48-library-of-papers/443-whatisinclusivedesign</link>
+			<guid isPermaLink="true">/48-library-of-papers/443-whatisinclusivedesign</guid>
 			<description><![CDATA[<h3>What do we mean by Inclusive Design?</h3>
 <p>We have defined Inclusive Design as: design that considers the full range of human diversity with respect to ability, language, culture, gender, age and other forms of human difference.</p>
 <h3>The Three Dimensions of Inclusive Design</h3>
@@ -35,7 +35,7 @@
 <p>The process of design and the tools used in design are inclusive. (This dimension is in line with <a href="http://vserver1.cscs.lsa.umich.edu/~spage/thedifference.html" title="Scott Page's observations">Scott Page’s observations</a> regarding the performance of groups that include diverse perspectives. &nbsp;Scott Page has empirically shown that a group that includes diverse perspectives, especially perspectives from the margins, trumps a group of the “best and brightest,” in decision-making, accurate prediction and innovation). Inclusive design teams should be as diverse as possible and include individuals who have a lived experience of the “extreme users” (as coined by <a href="http://returnondisability.com/disability-market/" title="Rich Donovan">Rich Donovan</a>) the designs are intended for.&nbsp; This also respects the edict “nothing about us without us” without relegating people with disabilities to the role of subjects of research or token participants in design exercises. To support diverse participation and enable the design to be as closely linked as possible to the application, the design and development tools should become as accessible and usable as possible. This dimension does not denigrate the skills of professional designers but calls for those skills to become more accessible and for the design process to become more inclusive of diverse designers and consumers.</p>
 <h5>3: Broader beneficial impact</h5>
 <p>It is the responsibility of inclusive designers to be aware of the context and broader impact of any design and strive to effect a beneficial impact beyond the intended beneficiary of the design. Inclusive design should trigger a virtuous cycle of inclusion, leverage the “curb-cut effect”, and recognize the interconnectedness of users and systems. To realize this broader positive impact requires the integration of inclusive design into design in general. This third dimension supports the healthier, wealthier and wiser societies <a href="http://en.wikipedia.org/wiki/The_Spirit_Level:_Why_More_Equal_Societies_Almost_Always_Do_Better" title="Wilkinson and Pickett">Wilkinson and Pickett</a> observed in their research of more equal communities.</p>
-<p><a href="https://legacy.idrc.ocadu.ca//images/M_images/inclusive_design_dimensions_infographic.png"><img src="https://legacy.idrc.ocadu.ca//images/M_images/inclusive_design_dimensions_infographic-small.png" alt="graphis showing the three dimensions of inclusive design" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p><a href="//images/M_images/inclusive_design_dimensions_infographic.png"><img src="//images/M_images/inclusive_design_dimensions_infographic-small.png" alt="graphis showing the three dimensions of inclusive design" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <h3>The Relative Nature of Disability and Accessibility</h3>
 <p>The IDRC reframes disability within the design context. Rather than a personal characteristic or a binary state (disabled vs. non-disabled), disability is framed as: a mismatch between the needs of the individual and the design of the product, system or service. With this framing, disability can be experienced by anyone excluded by the design. For example, when listening to an audio-only lecture the student who is blind is less disabled than the student who has not read the background material, the student who is less fluent with the language, or the student who has been up all night. An audio lecture is designed for a student who has the contextual knowledge, understands the language well, and can fully attend. With this framing anyone can potentially benefit from inclusive design.</p>
 <p>Accessibility is therefore the ability of the design or system to match the requirements of the individual. It is not possible to determine whether something is accessible unless you know the user, the context and the goal.</p>

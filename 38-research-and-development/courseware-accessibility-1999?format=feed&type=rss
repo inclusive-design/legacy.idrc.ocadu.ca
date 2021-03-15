@@ -4,16 +4,16 @@
 	<channel>
 		<title>Welcome to the Frontpage</title>
 		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
-		<link>https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999</link>
+		<link>/38-research-and-development/courseware-accessibility-1999</link>
 		<lastBuildDate>Mon, 15 Mar 2021 21:11:40 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/38-research-and-development/courseware-accessibility-1999?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
 		<item>
 			<title>Courseware Accessibility Study - 1999: Results</title>
-			<link>https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/312-courseware-accessibility-study-1999-results</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/312-courseware-accessibility-study-1999-results</guid>
+			<link>/38-research-and-development/courseware-accessibility-1999/312-courseware-accessibility-study-1999-results</link>
+			<guid isPermaLink="true">/38-research-and-development/courseware-accessibility-1999/312-courseware-accessibility-study-1999-results</guid>
 			<description><![CDATA[]]></description>
 			<author>greggay@rogers.com (Greg Gay)</author>
 			<category>Courseware Accessibility 1999</category>
@@ -21,8 +21,8 @@
 		</item>
 		<item>
 			<title>Courseware Evaluation 1999 - Summary</title>
-			<link>https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/311-courseware-evaluation-1999-summary</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/311-courseware-evaluation-1999-summary</guid>
+			<link>/38-research-and-development/courseware-accessibility-1999/311-courseware-evaluation-1999-summary</link>
+			<guid isPermaLink="true">/38-research-and-development/courseware-accessibility-1999/311-courseware-evaluation-1999-summary</guid>
 			<description><![CDATA[<h3>Methodology:</h3>
 <p>Within this study, consideration has been given to both designer controlled utilities and inherent courseware framework features. The <a href="http://www.w3.org/TR/WD-WAI-PAGEAUTH/">WAI guidelines</a> have been used to develop critieria and a weighting 	 	system for scoring.</p>
 <ul>
@@ -130,16 +130,16 @@
 		</item>
 		<item>
 			<title>Courseware Evaluation 1999 - Background, Descriptions and, Rationale</title>
-			<link>https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/309-courseware-evaluation-1999-background-descriptions-and-rationale</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/309-courseware-evaluation-1999-background-descriptions-and-rationale</guid>
+			<link>/38-research-and-development/courseware-accessibility-1999/309-courseware-evaluation-1999-background-descriptions-and-rationale</link>
+			<guid isPermaLink="true">/38-research-and-development/courseware-accessibility-1999/309-courseware-evaluation-1999-background-descriptions-and-rationale</guid>
 			<description><![CDATA[<h2>Courseware Evaluation 1999 - Background, Descriptions and, Rationale</h2>
 <ol>
-<li><a href="https://legacy.idrc.ocadu.ca/#back">Background</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#design">Designer Controlled Utilities</a><ol>
-<li><a href="https://legacy.idrc.ocadu.ca/#access">Access Support</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#info">Information</a></li>
+<li><a href="/#back">Background</a></li>
+<li><a href="/#design">Designer Controlled Utilities</a><ol>
+<li><a href="/#access">Access Support</a></li>
+<li><a href="/#info">Information</a></li>
 </ol></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#inherent">Inherent Courseware Features</a></li>
+<li><a href="/#inherent">Inherent Courseware Features</a></li>
 </ol>
 <p><a name="back" title="back"></a> <strong>
 <p>Background</p>
@@ -174,16 +174,16 @@
 		</item>
 		<item>
 			<title>Courseware Accessibility Study - 1999: Scoring</title>
-			<link>https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/310-courseware-accessibility-study-1999-scoring</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/38-research-and-development/courseware-accessibility-1999/310-courseware-accessibility-study-1999-scoring</guid>
+			<link>/38-research-and-development/courseware-accessibility-1999/310-courseware-accessibility-study-1999-scoring</link>
+			<guid isPermaLink="true">/38-research-and-development/courseware-accessibility-1999/310-courseware-accessibility-study-1999-scoring</guid>
 			<description><![CDATA[<p> </p>
 <ol>
-<li><a href="https://legacy.idrc.ocadu.ca/#score">Overview of Scoring System</a><ol>
-<li><a href="https://legacy.idrc.ocadu.ca/#support">Access Support Scoring</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#scrinfo">Information Scoring</a></li>
+<li><a href="/#score">Overview of Scoring System</a><ol>
+<li><a href="/#support">Access Support Scoring</a></li>
+<li><a href="/#scrinfo">Information Scoring</a></li>
 </ol></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#course">Course Features Accessibility</a></li>
-<li><a href="https://legacy.idrc.ocadu.ca/#summary">Reading the Summary Data</a></li>
+<li><a href="/#course">Course Features Accessibility</a></li>
+<li><a href="/#summary">Reading the Summary Data</a></li>
 </ol>
 <p><strong>
 <p>Scoring System</p>
@@ -344,7 +344,7 @@
 <p><a name="summary" title="summary"></a></p>
 <p><a name="summary" title="summary"></a><strong>Reading the Summary Data</strong></p>
 <p><a name="summary" title="summary"></a>Scores should be viewed as a group of scores rather than a single score. The Summary Sheet below contains the maximum scores obtainable. For those who want a quick assessment of a product's support of accessible design, the combined Access Support functionality ratio will give you that. A <a href="http://snow.utoronto.ca/initiatives/crseval/summary.html">quick comparison summary</a> is available. For designers and instructors the individual Combined Access Support, Functionality, and Accessibility scores will provide an indication of a product's complexity and how well it will support you in creating accessible Web documents. For developers, or those looking for specific strengths and weaknesses, individual scores on the summary sheet can be compared across packages, or the entire evaluation as zipped Excel 97 tables can be downloaded for comparison.</p>
-<p><img src="https://legacy.idrc.ocadu.ca/../images/stories/Image1.gif" border="0" alt="Excel Spreadsheet Displaying Maximum Scores in a Summary Sheet" width="561" height="265" align="middle" /></p>]]></description>
+<p><img src="/../images/stories/Image1.gif" border="0" alt="Excel Spreadsheet Displaying Maximum Scores in a Summary Sheet" width="561" height="265" align="middle" /></p>]]></description>
 			<author>greggay@rogers.com (Greg Gay)</author>
 			<category>Courseware Accessibility 1999</category>
 			<pubDate>Mon, 25 Sep 2006 14:39:06 +0000</pubDate>

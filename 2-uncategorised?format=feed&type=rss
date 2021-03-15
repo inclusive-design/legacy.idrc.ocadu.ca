@@ -4,24 +4,24 @@
 	<channel>
 		<title>Welcome to the Frontpage</title>
 		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
-		<link>https://legacy.idrc.ocadu.ca/2-uncategorised</link>
+		<link>/2-uncategorised</link>
 		<lastBuildDate>Mon, 15 Mar 2021 21:13:13 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/2-uncategorised?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/2-uncategorised?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
 		<item>
 			<title>ATRC</title>
-			<link>https://legacy.idrc.ocadu.ca/2-uncategorised/64-atrc</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/2-uncategorised/64-atrc</guid>
+			<link>/2-uncategorised/64-atrc</link>
+			<guid isPermaLink="true">/2-uncategorised/64-atrc</guid>
 			<description><![CDATA[<strong>Adaptive Technology Resource                   Centre</strong> <br />                       J.P. Robarts Library, First Floor <br />                       University of Toronto <br />                       130 St. George St. <br />                       Toronto, Ontario, Canada <br />                       M5S 1A5<br />                       Telephone: (416) 978-4360<br />                       Fax: (416) 971-2629 <br />                       Email: <a href="mailto:general.atrc@utoronto.ca">general.atrc@utoronto.ca</a>]]></description>
 			<category>Uncategorised</category>
 			<pubDate>Wed, 01 Feb 2006 13:57:55 +0000</pubDate>
 		</item>
 		<item>
 			<title>About the IDRC</title>
-			<link>https://legacy.idrc.ocadu.ca/about-the-idrc</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/about-the-idrc</guid>
+			<link>/about-the-idrc</link>
+			<guid isPermaLink="true">/about-the-idrc</guid>
 			<description><![CDATA[<p>The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively. The group promotes inclusion in a full complement of activities:</p>
 <ul>
 <li>growing design and development practices</li>
@@ -33,7 +33,7 @@
 <h3>What is Inclusive Design?</h3>
 <p>Inclusive design is design that considers the full range of human diversity with respect to ability, language, culture, gender, age and other forms of human difference.</p>
 <p>Designing inclusively results in better experiences for everyone.</p>
-<p>Read  <a href="https://legacy.idrc.ocadu.ca/resources/idrc-online/49-articles-and-papers/443-whatisinclusivedesign">What is Inclusive Design</a>.</p>
+<p>Read  <a href="/resources/idrc-online/49-articles-and-papers/443-whatisinclusivedesign">What is Inclusive Design</a>.</p>
 <h3>Working Collaboratively</h3>
 <p>The IDRC supports open standards - as well as open access and open source wherever possible - to distribute our work as widely as possible and to encourage broad participation in our initiatives. All our work is collaborative.</p>
 <p>The IDRC welcomes collaborators to get involved with our new projects.</p>

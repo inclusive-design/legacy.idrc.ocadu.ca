@@ -4,19 +4,19 @@
 	<channel>
 		<title>Education</title>
 		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
-		<link>https://legacy.idrc.ocadu.ca/workshops-aamp-trainings</link>
+		<link>/workshops-aamp-trainings</link>
 		<lastBuildDate>Mon, 15 Mar 2021 20:52:20 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/workshops-aamp-trainings?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/workshops-aamp-trainings?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
 		<item>
 			<title>Education</title>
-			<link>https://legacy.idrc.ocadu.ca/workshops-aamp-trainings/415-workshops-aamp-training</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/workshops-aamp-trainings/415-workshops-aamp-training</guid>
+			<link>/workshops-aamp-trainings/415-workshops-aamp-training</link>
+			<guid isPermaLink="true">/workshops-aamp-trainings/415-workshops-aamp-training</guid>
 			<description><![CDATA[<h3>IDRC and SNOW Classroom Workshop Series</h3>
 <p>SNOW offers educators and educational assistants a variety of online workshops on accommodating learners with special needs. For course times, visit the <strong><a href="http://snow.idrc.ocad.ca/">SNOW Workshops</a></strong> site.</p>
-<p><a href="https://legacy.idrc.ocadu.ca/policy/idrc-and-aoda/434-participate">IDRC's Accessibility Workshops</a></p>
+<p><a href="/policy/idrc-and-aoda/434-participate">IDRC's Accessibility Workshops</a></p>
 <h3>Online Courses</h3>
 <p><a href="http://courses.idrc.ocad.ca/">Understanding Web Accessibility </a>- This <strong>Free Online Course</strong> will help Web authors and developers obtain the skills and understanding needed to create Web sites that comply with accessibility standards. The course focuses on developing expertise with the W3C Web Content Accessibility Guidelines (WCAG 2).</p>]]></description>
 			<category>Education</category>

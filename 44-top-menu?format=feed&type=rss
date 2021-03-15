@@ -4,16 +4,16 @@
 	<channel>
 		<title>Welcome to the Frontpage</title>
 		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
-		<link>https://legacy.idrc.ocadu.ca/44-top-menu</link>
+		<link>/44-top-menu</link>
 		<lastBuildDate>Mon, 15 Mar 2021 21:11:19 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/44-top-menu?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/44-top-menu?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
 		<item>
 			<title>Get Involved with the Inclusive Design Research Centre (IDRC)</title>
-			<link>https://legacy.idrc.ocadu.ca/about-the-idrc/getinvolved</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/about-the-idrc/getinvolved</guid>
+			<link>/about-the-idrc/getinvolved</link>
+			<guid isPermaLink="true">/about-the-idrc/getinvolved</guid>
 			<description><![CDATA[<hr />
 <h2>How the IDRC works</h2>
 <p>The IDRC is an open, collaborative environment. We welcome anyone who is curious about our work, passionate about open source, and excited by the Web, Linux, mobile platforms, and assistive technologies to read through this guide to understand how to participate and contribute. We work as a highly collaborative team on design, development, planning, testing, research, and much more.</p>
@@ -107,8 +107,8 @@
 		</item>
 		<item>
 			<title>Services</title>
-			<link>https://legacy.idrc.ocadu.ca/services</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/services</guid>
+			<link>/services</link>
+			<guid isPermaLink="true">/services</guid>
 			<description><![CDATA[]]></description>
 			<author>agill@ocadu.ca (Avtar Gill)</author>
 			<category>Top Menu</category>

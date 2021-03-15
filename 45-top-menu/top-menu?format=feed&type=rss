@@ -4,16 +4,16 @@
 	<channel>
 		<title>Welcome to the Frontpage</title>
 		<description><![CDATA[The IDRC is a research and development centre at OCAD University where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.]]></description>
-		<link>https://legacy.idrc.ocadu.ca/45-top-menu/top-menu</link>
+		<link>/45-top-menu/top-menu</link>
 		<lastBuildDate>Mon, 15 Mar 2021 21:11:20 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://legacy.idrc.ocadu.ca/45-top-menu/top-menu?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/45-top-menu/top-menu?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<managingEditor>no-reply@idrc.ocadu.ca (Inclusive Design Research Centre (idrc.ocadu.ca))</managingEditor>
 		<item>
 			<title>Spotlight on Learning</title>
-			<link>https://legacy.idrc.ocadu.ca/spotlight-on-learning</link>
-			<guid isPermaLink="true">https://legacy.idrc.ocadu.ca/spotlight-on-learning</guid>
+			<link>/spotlight-on-learning</link>
+			<guid isPermaLink="true">/spotlight-on-learning</guid>
 			<description><![CDATA[]]></description>
 			<category>Top Menu</category>
 			<pubDate>Wed, 01 Feb 2006 13:07:26 +0000</pubDate>
